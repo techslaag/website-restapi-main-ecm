@@ -1,0 +1,343 @@
+
+> restapi@0.1.0 dev
+> next dev -- --port 3500
+
+   ▲ Next.js 14.1.3
+   - Local:        http://localhost:3500
+   - Environments: .env
+   - Experiments (use at your own risk):
+     · instrumentationHook
+
+ ○ Compiling /instrumentation ...
+ ✓ Compiled /instrumentation in 3.9s (182 modules)
+ ✓ Ready in 9.2s
+ ○ Compiling /src/middleware ...
+ ✓ Compiled /src/middleware in 1152ms (385 modules)
+ ○ Compiling /api/auth/current-user ...
+ ✓ Compiled /api/user-status in 6.5s (1068 modules)
+ ✓ Compiled (1123 modules)
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+(node:41477) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+prisma:info Starting a mysql pool with 5 connections.
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/auth/current-user 200 in 15642ms
+ GET /api/auth/current-user 200 in 15313ms
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/auth/current-user 200 in 15895ms
+ GET /api/auth/current-user 200 in 15569ms
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/user-status 200 in 1461ms
+ GET /api/user-status 200 in 1446ms
+ GET /api/user-status 200 in 16401ms
+ GET /api/user-status 200 in 13907ms
+ ○ Compiling /api/admin/centres-interet ...
+ ✓ Compiled /api/admin/centres-interet in 1644ms (1133 modules)
+ ✓ Compiled (1136 modules)
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ ○ Compiling /api/geo-data ...
+ ✓ Compiled /api/geo-data in 676ms (1140 modules)
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 9054ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 8960ms
+ POST /api/geo-data 200 in 4951ms
+ POST /api/geo-data 200 in 4936ms
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/auth/current-user 200 in 10094ms
+ GET /api/auth/current-user 200 in 10004ms
+ GET /api/user-status 200 in 12321ms
+ GET /api/user-status 200 in 12229ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 13118ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 13025ms
+ GET /api/ads 200 in 14725ms
+ GET /api/ads 200 in 14634ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/auth/current-user 200 in 1174ms
+ GET /api/auth/current-user 200 in 522ms
+ GET /api/user-status 200 in 1693ms
+ GET /api/user-status 200 in 1020ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/user-status 200 in 893ms
+ GET /api/user-status 200 in 874ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/auth/current-user 200 in 512ms
+ GET /api/auth/current-user 200 in 496ms
+ ○ Compiling /api/admin/centres-interet/init ...
+ ✓ Compiled /api/admin/centres-interet/init in 970ms (1126 modules)
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/user-status 200 in 2350ms
+ GET /api/user-status 200 in 2337ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/user-status 200 in 541ms
+ GET /api/user-status 200 in 530ms
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/auth/current-user 200 in 600ms
+ GET /api/auth/current-user 200 in 588ms
+ POST /api/admin/centres-interet/init 200 in 24222ms
+ POST /api/admin/centres-interet/init 200 in 24210ms
+ ○ Compiling /api/admin/centres-interet ...
+ ✓ Compiled /api/admin/centres-interet in 633ms (1128 modules)
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 2029ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 2019ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/auth/current-user 200 in 994ms
+ GET /api/auth/current-user 200 in 499ms
+ GET /api/user-status 200 in 1468ms
+ GET /api/user-status 200 in 953ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/admin/centres-interet?page=2&limit=10 200 in 1778ms
+ GET /api/admin/centres-interet?page=2&limit=10 200 in 1764ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/auth/current-user 200 in 510ms
+ GET /api/auth/current-user 200 in 461ms
+ GET /api/user-status 200 in 817ms
+ GET /api/user-status 200 in 796ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/auth/current-user 200 in 435ms
+ GET /api/auth/current-user 200 in 419ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/auth/current-user 200 in 285ms
+ GET /api/auth/current-user 200 in 277ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/auth/current-user 200 in 1007ms
+ GET /api/auth/current-user 200 in 991ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 1715ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 1674ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 2780ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 2102ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/auth/current-user 200 in 430ms
+ GET /api/auth/current-user 200 in 400ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/auth/current-user 200 in 398ms
+ GET /api/auth/current-user 200 in 390ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/auth/current-user 200 in 408ms
+ GET /api/auth/current-user 200 in 390ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/auth/current-user 200 in 353ms
+ GET /api/auth/current-user 200 in 343ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/auth/current-user 200 in 656ms
+ GET /api/auth/current-user 200 in 618ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/auth/current-user 200 in 409ms
+ GET /api/auth/current-user 200 in 398ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 1323ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 1271ms
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 3438ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 2817ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ ○ Compiling /api/ads ...
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 1079ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 1070ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 1395ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 1370ms
+ ✓ Compiled /api/ads in 2.3s (1136 modules)
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/auth/current-user 200 in 3696ms
+ GET /api/auth/current-user 200 in 3667ms
+ GET /api/user-status 200 in 4265ms
+ GET /api/user-status 200 in 4238ms
+ GET /api/ads 200 in 6401ms
+ GET /api/ads 200 in 6374ms
+ ○ Compiling /api/geo-data ...
+ GET /api/ads 200 in 1357ms
+ GET /api/ads 200 in 1320ms
+ ✓ Compiled /api/geo-data in 1629ms (1140 modules)
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/auth/current-user 200 in 2815ms
+ GET /api/auth/current-user 200 in 2778ms
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/user-status 200 in 3246ms
+ GET /api/user-status 200 in 3207ms
+ POST /api/geo-data 200 in 3295ms
+ POST /api/geo-data 200 in 3257ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 1807ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 1776ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 3792ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 3755ms
+ POST /api/geo-data 200 in 939ms
+ POST /api/geo-data 200 in 871ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/auth/current-user 200 in 373ms
+ GET /api/auth/current-user 200 in 323ms
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 1048ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 1029ms
+ GET /api/user-status 200 in 1090ms
+ GET /api/user-status 200 in 1053ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 1374ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 1386ms
+ POST /api/geo-data 200 in 782ms
+ POST /api/geo-data 200 in 773ms
+ GET /api/ads 200 in 2637ms
+ GET /api/ads 200 in 2581ms
+ ✓ Compiled in 1270ms (1140 modules)
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/auth/current-user 200 in 1792ms
+ GET /api/auth/current-user 200 in 1732ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/user-status 200 in 2895ms
+ GET /api/user-status 200 in 2748ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 3084ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 3060ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 3825ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 3815ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 1404ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 1392ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 914ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 902ms
+ GET /api/ads 200 in 4246ms
+ GET /api/ads 200 in 4135ms
+prisma:error 
+Invalid `prisma.session.findFirst()` invocation:
+
+
+Timed out fetching a new connection from the connection pool. More info: http://pris.ly/d/connection-pool (Current connection pool timeout: 60, connection limit: 5)
+[AuthMiddleware] Unexpected error: PrismaClientKnownRequestError: 
+Invalid `prisma.session.findFirst()` invocation:
+
+
+Timed out fetching a new connection from the connection pool. More info: http://pris.ly/d/connection-pool (Current connection pool timeout: 60, connection limit: 5)
+    at ei.handleRequestError (/Users/tallantiou/Documents/work/videocall/ecomatin/app/website-restapi-main/node_modules/@prisma/client/runtime/library.js:121:7268)
+    at ei.handleAndLogRequestError (/Users/tallantiou/Documents/work/videocall/ecomatin/app/website-restapi-main/node_modules/@prisma/client/runtime/library.js:121:6593)
+    at ei.request (/Users/tallantiou/Documents/work/videocall/ecomatin/app/website-restapi-main/node_modules/@prisma/client/runtime/library.js:121:6300)
+    at async a (/Users/tallantiou/Documents/work/videocall/ecomatin/app/website-restapi-main/node_modules/@prisma/client/runtime/library.js:130:9551)
+    at async Promise.all (index 1)
+    at async eval (webpack-internal:///(rsc)/./src/lib/auth/authMiddleware.ts:70:39) {
+  code: 'P2024',
+  meta: { modelName: 'Session', connection_limit: 5, timeout: 60 },
+  clientVersion: '6.16.2'
+}
+ GET /api/auth/current-user 500 in 60189ms
+ GET /api/auth/current-user 500 in 60128ms
+ POST /api/geo-data 200 in 604ms
+ POST /api/geo-data 200 in 595ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/auth/current-user 200 in 782ms
+ GET /api/auth/current-user 200 in 776ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/auth/current-user 200 in 224ms
+ GET /api/auth/current-user 200 in 217ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/auth/current-user 200 in 213ms
+ GET /api/auth/current-user 200 in 207ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/auth/current-user 200 in 214ms
+ GET /api/auth/current-user 200 in 209ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/auth/current-user 200 in 250ms
+ GET /api/auth/current-user 200 in 240ms
+ ✓ Compiled in 839ms (1140 modules)
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/auth/current-user 200 in 672ms
+ GET /api/auth/current-user 200 in 664ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 1464ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 1419ms
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 1741ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 1125ms
+ GET /api/ads 200 in 1760ms
+ GET /api/ads 200 in 1712ms
+ GET /api/user-status 200 in 2249ms
+ GET /api/user-status 200 in 2203ms
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Token payload: { id: 'cma6vzgcw0000xoar2hg14lb8', email: 'ntiou.codeur@gmail.com' }
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ GET /api/auth/current-user 200 in 332ms
+ GET /api/auth/current-user 200 in 311ms
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+[AuthMiddleware] Authentication successful for user: cma6vzgcw0000xoar2hg14lb8
+ POST /api/geo-data 200 in 600ms
+ POST /api/geo-data 200 in 578ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 1083ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 1063ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 1581ms
+ GET /api/admin/centres-interet?page=1&limit=10 200 in 1579ms

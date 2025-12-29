@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Gasoil",
+    "price": 820,
+    "currency": "xaf",
+    "countryId": "cm09lpsoa000u7sl426j6emsz",
+    "measurementId": "cm0aqi8ht00rwvoba3n89hx9k"
+  },
+  {
+    "name": "Super",
+    "price": 840,
+    "currency": "xaf",
+    "countryId": "cm09lpsoa000u7sl426j6emsz",
+    "measurementId": "cm0aqi8ht00rwvoba3n89hx9k"
+  },
+  {
+    "name": "Pétrole",
+    "price": 400,
+    "currency": "xaf",
+    "countryId": "cm09lpsoa000u7sl426j6emsz",
+    "measurementId":  "cm0aqi8ht00rwvoba3n89hx9k"
+  },
+  {
+    "name": "Elec. ménages BT",
+    "price": 79,
+    "currency": "xaf",
+    "countryId": "cm09lpsoa000u7sl426j6emsz",
+    "measurementId": "cm0aqiel500rxvobaqivwdxly"
+  },
+  {
+    "name": "Elec. ménages MT",
+    "price": 85,
+    "currency": "xaf",
+    "countryId": "cm09lpsoa000u7sl426j6emsz",
+    "measurementId": "cm0aqiel500rxvobaqivwdxly"
+  },
+  {
+    "name": "Elec. ménages HT",
+    "price": 99,
+    "currency": "xaf",
+    "countryId": "cm09lpsoa000u7sl426j6emsz",
+    "measurementId": "cm0aqiel500rxvobaqivwdxly"
+  },
+  {
+    "name": "Elec. Entreprises BT",
+    "price": 92,
+    "currency": "xaf",
+    "countryId": "cm09lpsoa000u7sl426j6emsz",
+    "measurementId": "cm0aqiel500rxvobaqivwdxly"
+  },
+  {
+    "name": "Elec. Entreprises MT",
+    "price": 99,
+    "currency": "xaf",
+    "countryId": "cm09lpsoa000u7sl426j6emsz",
+    "measurementId": "cm0aqiel500rxvobaqivwdxly"
+  },
+  {
+    "name": "Elec. Entreprises HT",
+    "price": 110,
+    "currency": "xaf",
+    "countryId": "cm09lpsoa000u7sl426j6emsz",
+    "measurementId": "cm0aqiel500rxvobaqivwdxly"
+  },
+  {
+    "name": "Gaz domestique 12,5Kg",
+    "price": 6500,
+    "currency": "xaf",
+    "countryId": "cm09lpsoa000u7sl426j6emsz",
+    "measurementId": "cm0aqiv1q00s5vobaahd42psp"
+  },
+  {
+    "name": "Gaz domestique 6,2Kg",
+    "price": 3500,
+    "currency": "xaf",
+    "countryId": "cm09lpsoa000u7sl426j6emsz",
+    "measurementId": "cm0aqj0t500s7vobaqtrhaui1"
+  },
+  {
+    "name": "Gaz domestique 25Kg",
+    "price": 13500,
+    "currency": "xaf",
+    "countryId": "cm09lpsoa000u7sl426j6emsz",
+    "measurementId": "cm0aqj6l600s9vobac5b21r01"
+  },
+  {
+    "name": "Gaz domestique 35Kg",
+    "price": 71500,
+    "currency": "xaf",
+    "countryId": "cm09lpsoa000u7sl426j6emsz",
+    "measurementId": "cm0aqtivr00urvobal34yokws"
+  }
+]

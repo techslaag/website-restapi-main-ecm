@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>WordPress Export Integration Example</title>
+    <style>
+        .button {
+            background: #0073aa;
+            color: white;
+            padding: 8px 16px;
+            border: none;
+            border-radius: 3px;
+            cursor: pointer;
+            text-decoration: none;
+            display: inline-block;
+            margin: 5px;
+        }
+        .button:hover {
+            background: #005a87;
+        }
+        .button-small {
+            padding: 4px 8px;
+            font-size: 12px;
+        }
+        .dashicons {
+            font-family: dashicons;
+            display: inline-block;
+            line-height: 1;
+            font-weight: normal;
+            font-style: normal;
+            speak: none;
+            text-decoration: inherit;
+            text-transform: none;
+            text-rendering: auto;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+        .dashicons-download:before {
+            content: "⬇";
+        }
+        .adi-loading {
+            display: none;
+            color: #666;
+        }
+        .adi-export-success, .adi-export-error {
+            display: none;
+            padding: 10px;
+            margin: 10px 0;
+            border-radius: 3px;
+        }
+        .adi-export-success {
+            background: #dff0d8;
+            color: #3c763d;
+            border: 1px solid #d6e9c6;
+        }
+        .adi-export-error {
+            background: #f2dede;
+            color: #a94442;
+            border: 1px solid #ebccd1;
+        }
+    </style>
+</head>
+<body>
+    <h1>WordPress Export Integration Example</h1>
+    
+    <div class="adi-loading">Downloading...</div>
+    <div class="adi-export-success"></div>
+    <div class="adi-export-error"></div>
+    
+    <h2>Single Ad Export Buttons</h2>
+    <p>These buttons export data for specific ads:</p>
+    
+    <button class="button button-small adi-export-single" data-ad-id="1001" data-ad-name="Header Banner Ad" title="Export this ad's data">
+        <span class="dashicons dashicons-download" style="font-size: 16px; line-height: 28px; width: 16px; height: 28px;"></span>
+        Export Header Banner
+    </button>
+    
+    <button class="button button-small adi-export-single" data-ad-id="1002" data-ad-name="Sidebar Ad" title="Export this ad's data">
+        <span class="dashicons dashicons-download" style="font-size: 16px; line-height: 28px; width: 16px; height: 28px;"></span>
+        Export Sidebar Ad
+    </button>
+    
+    <button class="button button-small adi-export-single" data-ad-id="1003" data-ad-name="Footer Banner" title="Export this ad's data">
+        <span class="dashicons dashicons-download" style="font-size: 16px; line-height: 28px; width: 16px; height: 28px;"></span>
+        Export Footer Banner
+    </button>
+    
+    <h2>All Ads Export</h2>
+    <p>This button exports data for all ads:</p>
+    
+    <form style="margin: 20px 0;">
+        <label>Start Date: <input type="date" name="start_date"></label>
+        <label>End Date: <input type="date" name="end_date"></label>
+        <label>Device Type: 
+            <select name="device_type">
+                <option value="">All Devices</option>
+                <option value="desktop">Desktop</option>
+                <option value="mobile">Mobile</option>
+                <option value="tablet">Tablet</option>
+            </select>
+        </label>
+        <label>Position: 
+            <select name="position">
+                <option value="">All Positions</option>
+                <option value="header-top">Header Top</option>
+                <option value="sidebar-top">Sidebar Top</option>
+                <option value="footer-bottom">Footer Bottom</option>
+            </select>
+        </label>
+    </form>
+    
+    <button class="button adi-export-all">
+        <span class="dashicons dashicons-download"></span>
+        Export All Ads to Excel
+    </button>
+    
+    <h2>WordPress Integration Instructions</h2>
+    
+    <h3>1. Include the JavaScript file in your WordPress admin pages:</h3>
+    <pre><code>&lt;script src="http://localhost:3500/api/assets/export-utils.js"&gt;&lt;/script&gt;</code></pre>
+    
+    <h3>2. For single ad export buttons, use these HTML attributes:</h3>
+    <pre><code>&lt;button class="button button-small adi-export-single" 
+        data-ad-id="<?php echo $ad_id; ?>" 
+        data-ad-name="<?php echo esc_attr($ad_name); ?>" 
+        title="Export this ad's data"&gt;
+    &lt;span class="dashicons dashicons-download"&gt;&lt;/span&gt;
+    Export
+&lt;/button&gt;</code></pre>
+    
+    <h3>3. For "Export All" buttons, use this class:</h3>
+    <pre><code>&lt;button class="button adi-export-all"&gt;
+    &lt;span class="dashicons dashicons-download"&gt;&lt;/span&gt;
+    Export to Excel
+&lt;/button&gt;</code></pre>
+    
+    <h3>4. Add these optional elements for user feedback:</h3>
+    <pre><code>&lt;div class="adi-loading" style="display: none;"&gt;Downloading...&lt;/div&gt;
+&lt;div class="adi-export-success" style="display: none;"&gt;&lt;/div&gt;
+&lt;div class="adi-export-error" style="display: none;"&gt;&lt;/div&gt;</code></pre>
+    
+    <h3>5. API Endpoints Available:</h3>
+    <ul>
+        <li><code>GET /api/ads/export/excel?ad_id=123</code> - Export single ad</li>
+        <li><code>GET /api/ads/export/excel</code> - Export all ads</li>
+        <li><code>GET /api/ads/export/excel?start_date=2024-01-01&end_date=2024-01-31</code> - Export with filters</li>
+    </ul>
+    
+    <!-- Include the export utilities -->
+    <script src="http://localhost:3500/api/assets/export-utils.js"></script>
+</body>
+</html>

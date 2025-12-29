@@ -1,0 +1,4891 @@
+[
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8ma00jr2wd73j1zz4p0",
+    "price": "3600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8ma00jr2wd73j1zz4p0",
+    "price": "3600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8ma00jr2wd73j1zz4p0",
+    "price": "3600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8ma00jr2wd73j1zz4p0",
+    "price": "3600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8ma00jr2wd73j1zz4p0",
+    "price": "3600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8ma00jr2wd73j1zz4p0",
+    "price": "3600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8ma00jr2wd73j1zz4p0",
+    "price": "2500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8ma00jr2wd73j1zz4p0",
+    "price": "2500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8ma00jr2wd73j1zz4p0",
+    "price": "2500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8ma00jr2wd73j1zz4p0",
+    "price": "2500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8ma00jr2wd73j1zz4p0",
+    "price": "2500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8ma00jr2wd73j1zz4p0",
+    "price": "2500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8ma00jr2wd73j1zz4p0",
+    "price": "2500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8mc00jt2wd7b7renfj1",
+    "price": "1700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8mc00jt2wd7b7renfj1",
+    "price": "1700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8mc00jt2wd7b7renfj1",
+    "price": "1700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8mc00jt2wd7b7renfj1",
+    "price": "1700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8mc00jt2wd7b7renfj1",
+    "price": "1700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8mc00jt2wd7b7renfj1",
+    "price": "1700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8mc00jt2wd7b7renfj1",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8mc00jt2wd7b7renfj1",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8mc00jt2wd7b7renfj1",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8mc00jt2wd7b7renfj1",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8mc00jt2wd7b7renfj1",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8mc00jt2wd7b7renfj1",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8mc00jt2wd7b7renfj1",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8md00jv2wd7ybw5bo1y",
+    "price": "200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8md00jv2wd7ybw5bo1y",
+    "price": "200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8md00jv2wd7ybw5bo1y",
+    "price": "200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8md00jv2wd7ybw5bo1y",
+    "price": "200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8md00jv2wd7ybw5bo1y",
+    "price": "200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8md00jv2wd7ybw5bo1y",
+    "price": "200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8md00jv2wd7ybw5bo1y",
+    "price": "150",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8md00jv2wd7ybw5bo1y",
+    "price": "150",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8md00jv2wd7ybw5bo1y",
+    "price": "150",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8md00jv2wd7ybw5bo1y",
+    "price": "150",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8md00jv2wd7ybw5bo1y",
+    "price": "150",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8md00jv2wd7ybw5bo1y",
+    "price": "150",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8md00jv2wd7ybw5bo1y",
+    "price": "150",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8mf00jx2wd794tbjmgz",
+    "price": "400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8mf00jx2wd794tbjmgz",
+    "price": "400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8mf00jx2wd794tbjmgz",
+    "price": "400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8mf00jx2wd794tbjmgz",
+    "price": "400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8mf00jx2wd794tbjmgz",
+    "price": "400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8mf00jx2wd794tbjmgz",
+    "price": "400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8mf00jx2wd794tbjmgz",
+    "price": "350",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8mf00jx2wd794tbjmgz",
+    "price": "350",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8mf00jx2wd794tbjmgz",
+    "price": "350",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8mf00jx2wd794tbjmgz",
+    "price": "350",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8mf00jx2wd794tbjmgz",
+    "price": "350",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8mf00jx2wd794tbjmgz",
+    "price": "350",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8mf00jx2wd794tbjmgz",
+    "price": "350",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8mg00jz2wd7mdp14h7f",
+    "price": "2000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8mg00jz2wd7mdp14h7f",
+    "price": "2000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8mg00jz2wd7mdp14h7f",
+    "price": "2000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8mg00jz2wd7mdp14h7f",
+    "price": "2000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8mg00jz2wd7mdp14h7f",
+    "price": "2000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8mg00jz2wd7mdp14h7f",
+    "price": "2000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8mg00jz2wd7mdp14h7f",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8mg00jz2wd7mdp14h7f",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8mg00jz2wd7mdp14h7f",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8mg00jz2wd7mdp14h7f",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8mg00jz2wd7mdp14h7f",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8mg00jz2wd7mdp14h7f",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8mg00jz2wd7mdp14h7f",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8mh00k12wd7nq4bpn1f",
+    "price": "2000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8mh00k12wd7nq4bpn1f",
+    "price": "2000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8mh00k12wd7nq4bpn1f",
+    "price": "2000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8mh00k12wd7nq4bpn1f",
+    "price": "2000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8mh00k12wd7nq4bpn1f",
+    "price": "2000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8mh00k12wd7nq4bpn1f",
+    "price": "2000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8mh00k12wd7nq4bpn1f",
+    "price": "2400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8mh00k12wd7nq4bpn1f",
+    "price": "2400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8mh00k12wd7nq4bpn1f",
+    "price": "2400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8mh00k12wd7nq4bpn1f",
+    "price": "2400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8mh00k12wd7nq4bpn1f",
+    "price": "2400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8mh00k12wd7nq4bpn1f",
+    "price": "2400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8mh00k12wd7nq4bpn1f",
+    "price": "2400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8mi00k32wd7k73mws8r",
+    "price": "750",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8mi00k32wd7k73mws8r",
+    "price": "750",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8mi00k32wd7k73mws8r",
+    "price": "750",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8mi00k32wd7k73mws8r",
+    "price": "750",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8mi00k32wd7k73mws8r",
+    "price": "750",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8mi00k32wd7k73mws8r",
+    "price": "750",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8mi00k32wd7k73mws8r",
+    "price": "700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8mi00k32wd7k73mws8r",
+    "price": "700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8mi00k32wd7k73mws8r",
+    "price": "700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8mi00k32wd7k73mws8r",
+    "price": "700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8mi00k32wd7k73mws8r",
+    "price": "700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8mi00k32wd7k73mws8r",
+    "price": "700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8mi00k32wd7k73mws8r",
+    "price": "700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8mk00k52wd7v34r5kuz",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8mk00k52wd7v34r5kuz",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8mk00k52wd7v34r5kuz",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8mk00k52wd7v34r5kuz",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8mk00k52wd7v34r5kuz",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8mk00k52wd7v34r5kuz",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8mk00k52wd7v34r5kuz",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8mk00k52wd7v34r5kuz",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8mk00k52wd7v34r5kuz",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8mk00k52wd7v34r5kuz",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8mk00k52wd7v34r5kuz",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8mk00k52wd7v34r5kuz",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8mk00k52wd7v34r5kuz",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8ml00k72wd7yk5u9gdm",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8ml00k72wd7yk5u9gdm",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8ml00k72wd7yk5u9gdm",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8ml00k72wd7yk5u9gdm",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8ml00k72wd7yk5u9gdm",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8ml00k72wd7yk5u9gdm",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8ml00k72wd7yk5u9gdm",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8ml00k72wd7yk5u9gdm",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8ml00k72wd7yk5u9gdm",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8ml00k72wd7yk5u9gdm",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8ml00k72wd7yk5u9gdm",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8ml00k72wd7yk5u9gdm",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8ml00k72wd7yk5u9gdm",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8mm00k92wd7hahvvzsi",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8mm00k92wd7hahvvzsi",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8mm00k92wd7hahvvzsi",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8mm00k92wd7hahvvzsi",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8mm00k92wd7hahvvzsi",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8mm00k92wd7hahvvzsi",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8mm00k92wd7hahvvzsi",
+    "price": "550",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8mm00k92wd7hahvvzsi",
+    "price": "550",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8mm00k92wd7hahvvzsi",
+    "price": "550",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8mm00k92wd7hahvvzsi",
+    "price": "550",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8mm00k92wd7hahvvzsi",
+    "price": "550",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8mm00k92wd7hahvvzsi",
+    "price": "550",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8mm00k92wd7hahvvzsi",
+    "price": "550",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8mo00kb2wd7pgva6j6f",
+    "price": "400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8mo00kb2wd7pgva6j6f",
+    "price": "400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8mo00kb2wd7pgva6j6f",
+    "price": "400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8mo00kb2wd7pgva6j6f",
+    "price": "400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8mo00kb2wd7pgva6j6f",
+    "price": "400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8mo00kb2wd7pgva6j6f",
+    "price": "400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8mo00kb2wd7pgva6j6f",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8mo00kb2wd7pgva6j6f",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8mo00kb2wd7pgva6j6f",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8mo00kb2wd7pgva6j6f",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8mo00kb2wd7pgva6j6f",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8mo00kb2wd7pgva6j6f",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8mo00kb2wd7pgva6j6f",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8mp00kd2wd7gv077i8c",
+    "price": "50",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8mp00kd2wd7gv077i8c",
+    "price": "50",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8mp00kd2wd7gv077i8c",
+    "price": "50",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8mp00kd2wd7gv077i8c",
+    "price": "50",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8mp00kd2wd7gv077i8c",
+    "price": "50",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8mp00kd2wd7gv077i8c",
+    "price": "50",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8mp00kd2wd7gv077i8c",
+    "price": "50",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8mp00kd2wd7gv077i8c",
+    "price": "50",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8mp00kd2wd7gv077i8c",
+    "price": "50",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8mp00kd2wd7gv077i8c",
+    "price": "50",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8mp00kd2wd7gv077i8c",
+    "price": "50",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8mp00kd2wd7gv077i8c",
+    "price": "50",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8mp00kd2wd7gv077i8c",
+    "price": "50",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8mq00kf2wd7uo5a8unf",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8mq00kf2wd7uo5a8unf",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8mq00kf2wd7uo5a8unf",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8mq00kf2wd7uo5a8unf",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8mq00kf2wd7uo5a8unf",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8mq00kf2wd7uo5a8unf",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8mq00kf2wd7uo5a8unf",
+    "price": "900",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8mq00kf2wd7uo5a8unf",
+    "price": "900",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8mq00kf2wd7uo5a8unf",
+    "price": "900",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8mq00kf2wd7uo5a8unf",
+    "price": "900",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8mq00kf2wd7uo5a8unf",
+    "price": "900",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8mq00kf2wd7uo5a8unf",
+    "price": "900",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8mq00kf2wd7uo5a8unf",
+    "price": "900",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8mr00kh2wd75iwlsm2r",
+    "price": "6500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8mr00kh2wd75iwlsm2r",
+    "price": "6500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8mr00kh2wd75iwlsm2r",
+    "price": "6500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8mr00kh2wd75iwlsm2r",
+    "price": "6500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8mr00kh2wd75iwlsm2r",
+    "price": "6500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8mr00kh2wd75iwlsm2r",
+    "price": "6500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8mr00kh2wd75iwlsm2r",
+    "price": "8500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8mr00kh2wd75iwlsm2r",
+    "price": "8500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8mr00kh2wd75iwlsm2r",
+    "price": "8500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8mr00kh2wd75iwlsm2r",
+    "price": "8500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8mr00kh2wd75iwlsm2r",
+    "price": "8500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8mr00kh2wd75iwlsm2r",
+    "price": "8500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8mr00kh2wd75iwlsm2r",
+    "price": "8500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8mt00kj2wd7558uszpk",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8mt00kj2wd7558uszpk",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8mt00kj2wd7558uszpk",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8mt00kj2wd7558uszpk",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8mt00kj2wd7558uszpk",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8mt00kj2wd7558uszpk",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8mt00kj2wd7558uszpk",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8mt00kj2wd7558uszpk",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8mt00kj2wd7558uszpk",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8mt00kj2wd7558uszpk",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8mt00kj2wd7558uszpk",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8mt00kj2wd7558uszpk",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8mt00kj2wd7558uszpk",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8mu00kl2wd7tphtovj7",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8mu00kl2wd7tphtovj7",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8mu00kl2wd7tphtovj7",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8mu00kl2wd7tphtovj7",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8mu00kl2wd7tphtovj7",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8mu00kl2wd7tphtovj7",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8mu00kl2wd7tphtovj7",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8mu00kl2wd7tphtovj7",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8mu00kl2wd7tphtovj7",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8mu00kl2wd7tphtovj7",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8mu00kl2wd7tphtovj7",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8mu00kl2wd7tphtovj7",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8mu00kl2wd7tphtovj7",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8mv00kn2wd7me5r687h",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8mv00kn2wd7me5r687h",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8mv00kn2wd7me5r687h",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8mv00kn2wd7me5r687h",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8mv00kn2wd7me5r687h",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8mv00kn2wd7me5r687h",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8mv00kn2wd7me5r687h",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8mv00kn2wd7me5r687h",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8mv00kn2wd7me5r687h",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8mv00kn2wd7me5r687h",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8mv00kn2wd7me5r687h",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8mv00kn2wd7me5r687h",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8mv00kn2wd7me5r687h",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8mw00kp2wd7b0lilu2n",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8mw00kp2wd7b0lilu2n",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8mw00kp2wd7b0lilu2n",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8mw00kp2wd7b0lilu2n",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8mw00kp2wd7b0lilu2n",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8mw00kp2wd7b0lilu2n",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8mw00kp2wd7b0lilu2n",
+    "price": "400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8mw00kp2wd7b0lilu2n",
+    "price": "400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8mw00kp2wd7b0lilu2n",
+    "price": "400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8mw00kp2wd7b0lilu2n",
+    "price": "400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8mw00kp2wd7b0lilu2n",
+    "price": "400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8mw00kp2wd7b0lilu2n",
+    "price": "400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8mw00kp2wd7b0lilu2n",
+    "price": "400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8my00kr2wd71rymdr3o",
+    "price": "1250",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8my00kr2wd71rymdr3o",
+    "price": "1250",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8my00kr2wd71rymdr3o",
+    "price": "1250",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8my00kr2wd71rymdr3o",
+    "price": "1250",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8my00kr2wd71rymdr3o",
+    "price": "1250",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8my00kr2wd71rymdr3o",
+    "price": "1250",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8my00kr2wd71rymdr3o",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8my00kr2wd71rymdr3o",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8my00kr2wd71rymdr3o",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8my00kr2wd71rymdr3o",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8my00kr2wd71rymdr3o",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8my00kr2wd71rymdr3o",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8my00kr2wd71rymdr3o",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8mz00kt2wd7db9pckkf",
+    "price": "100",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8mz00kt2wd7db9pckkf",
+    "price": "100",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8mz00kt2wd7db9pckkf",
+    "price": "100",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8mz00kt2wd7db9pckkf",
+    "price": "100",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8mz00kt2wd7db9pckkf",
+    "price": "100",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8mz00kt2wd7db9pckkf",
+    "price": "100",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8mz00kt2wd7db9pckkf",
+    "price": "100",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8mz00kt2wd7db9pckkf",
+    "price": "100",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8mz00kt2wd7db9pckkf",
+    "price": "100",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8mz00kt2wd7db9pckkf",
+    "price": "100",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8mz00kt2wd7db9pckkf",
+    "price": "100",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8mz00kt2wd7db9pckkf",
+    "price": "100",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8mz00kt2wd7db9pckkf",
+    "price": "100",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8n000kv2wd70lb8151v",
+    "price": "1700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8n000kv2wd70lb8151v",
+    "price": "1700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8n000kv2wd70lb8151v",
+    "price": "1700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8n000kv2wd70lb8151v",
+    "price": "1700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8n000kv2wd70lb8151v",
+    "price": "1700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8n000kv2wd70lb8151v",
+    "price": "1700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8n000kv2wd70lb8151v",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8n000kv2wd70lb8151v",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8n000kv2wd70lb8151v",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8n000kv2wd70lb8151v",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8n000kv2wd70lb8151v",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8n000kv2wd70lb8151v",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8n000kv2wd70lb8151v",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8n100kx2wd78jtajyo3",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8n100kx2wd78jtajyo3",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8n100kx2wd78jtajyo3",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8n100kx2wd78jtajyo3",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8n100kx2wd78jtajyo3",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8n100kx2wd78jtajyo3",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8n100kx2wd78jtajyo3",
+    "price": "900",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8n100kx2wd78jtajyo3",
+    "price": "900",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8n100kx2wd78jtajyo3",
+    "price": "900",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8n100kx2wd78jtajyo3",
+    "price": "900",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8n100kx2wd78jtajyo3",
+    "price": "900",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8n100kx2wd78jtajyo3",
+    "price": "900",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8n100kx2wd78jtajyo3",
+    "price": "900",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8n300kz2wd7nuyf9l9b",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8n300kz2wd7nuyf9l9b",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8n300kz2wd7nuyf9l9b",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8n300kz2wd7nuyf9l9b",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8n300kz2wd7nuyf9l9b",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8n300kz2wd7nuyf9l9b",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8n300kz2wd7nuyf9l9b",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8n300kz2wd7nuyf9l9b",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8n300kz2wd7nuyf9l9b",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8n300kz2wd7nuyf9l9b",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8n300kz2wd7nuyf9l9b",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8n300kz2wd7nuyf9l9b",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8n300kz2wd7nuyf9l9b",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8n400l12wd72mw2ed20",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8n400l12wd72mw2ed20",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8n400l12wd72mw2ed20",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8n400l12wd72mw2ed20",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8n400l12wd72mw2ed20",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8n400l12wd72mw2ed20",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8n400l12wd72mw2ed20",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8n400l12wd72mw2ed20",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8n400l12wd72mw2ed20",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8n400l12wd72mw2ed20",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8n400l12wd72mw2ed20",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8n400l12wd72mw2ed20",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8n400l12wd72mw2ed20",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8n500l32wd7gsqo31qk",
+    "price": "4000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8n500l32wd7gsqo31qk",
+    "price": "4000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8n500l32wd7gsqo31qk",
+    "price": "4000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8n500l32wd7gsqo31qk",
+    "price": "4000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8n500l32wd7gsqo31qk",
+    "price": "4000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8n500l32wd7gsqo31qk",
+    "price": "4000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8n500l32wd7gsqo31qk",
+    "price": "3700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8n500l32wd7gsqo31qk",
+    "price": "3700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8n500l32wd7gsqo31qk",
+    "price": "3700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8n500l32wd7gsqo31qk",
+    "price": "3700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8n500l32wd7gsqo31qk",
+    "price": "3700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8n500l32wd7gsqo31qk",
+    "price": "3700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8n500l32wd7gsqo31qk",
+    "price": "3700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "jcm0ask8n600l52wd772ljl3l8",
+    "price": "1400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "jcm0ask8n600l52wd772ljl3l8",
+    "price": "1400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "jcm0ask8n600l52wd772ljl3l8",
+    "price": "1400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "jcm0ask8n600l52wd772ljl3l8",
+    "price": "1400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "jcm0ask8n600l52wd772ljl3l8",
+    "price": "1400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "jcm0ask8n600l52wd772ljl3l8",
+    "price": "1400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "jcm0ask8n600l52wd772ljl3l8",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "jcm0ask8n600l52wd772ljl3l8",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "jcm0ask8n600l52wd772ljl3l8",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "jcm0ask8n600l52wd772ljl3l8",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "jcm0ask8n600l52wd772ljl3l8",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "jcm0ask8n600l52wd772ljl3l8",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "jcm0ask8n600l52wd772ljl3l8",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8n700l72wd7w1e1k1b1",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8n700l72wd7w1e1k1b1",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8n700l72wd7w1e1k1b1",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8n700l72wd7w1e1k1b1",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8n700l72wd7w1e1k1b1",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8n700l72wd7w1e1k1b1",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8n700l72wd7w1e1k1b1",
+    "price": "1300",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8n700l72wd7w1e1k1b1",
+    "price": "1300",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8n700l72wd7w1e1k1b1",
+    "price": "1300",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8n700l72wd7w1e1k1b1",
+    "price": "1300",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8n700l72wd7w1e1k1b1",
+    "price": "1300",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8n700l72wd7w1e1k1b1",
+    "price": "1300",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8n700l72wd7w1e1k1b1",
+    "price": "1300",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8n900l92wd7afq3mm2l",
+    "price": "1250",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8n900l92wd7afq3mm2l",
+    "price": "1250",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8n900l92wd7afq3mm2l",
+    "price": "1250",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8n900l92wd7afq3mm2l",
+    "price": "1250",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8n900l92wd7afq3mm2l",
+    "price": "1250",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8n900l92wd7afq3mm2l",
+    "price": "1250",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8n900l92wd7afq3mm2l",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8n900l92wd7afq3mm2l",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8n900l92wd7afq3mm2l",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8n900l92wd7afq3mm2l",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8n900l92wd7afq3mm2l",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8n900l92wd7afq3mm2l",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8n900l92wd7afq3mm2l",
+    "price": "1500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8na00lb2wd7o91diwfd",
+    "price": "1100",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8na00lb2wd7o91diwfd",
+    "price": "1100",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8na00lb2wd7o91diwfd",
+    "price": "1100",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8na00lb2wd7o91diwfd",
+    "price": "1100",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8na00lb2wd7o91diwfd",
+    "price": "1100",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8na00lb2wd7o91diwfd",
+    "price": "1100",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8na00lb2wd7o91diwfd",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8na00lb2wd7o91diwfd",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8na00lb2wd7o91diwfd",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8na00lb2wd7o91diwfd",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8na00lb2wd7o91diwfd",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8na00lb2wd7o91diwfd",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8na00lb2wd7o91diwfd",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8nb00ld2wd7np0xuqu2",
+    "price": "1300",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8nb00ld2wd7np0xuqu2",
+    "price": "1300",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8nb00ld2wd7np0xuqu2",
+    "price": "1300",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8nb00ld2wd7np0xuqu2",
+    "price": "1300",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8nb00ld2wd7np0xuqu2",
+    "price": "1300",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8nb00ld2wd7np0xuqu2",
+    "price": "1300",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8nb00ld2wd7np0xuqu2",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8nb00ld2wd7np0xuqu2",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8nb00ld2wd7np0xuqu2",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8nb00ld2wd7np0xuqu2",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8nb00ld2wd7np0xuqu2",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8nb00ld2wd7np0xuqu2",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8nb00ld2wd7np0xuqu2",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8nc00lf2wd7z1sa4zfy",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8nc00lf2wd7z1sa4zfy",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8nc00lf2wd7z1sa4zfy",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8nc00lf2wd7z1sa4zfy",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8nc00lf2wd7z1sa4zfy",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8nc00lf2wd7z1sa4zfy",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8nc00lf2wd7z1sa4zfy",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8nc00lf2wd7z1sa4zfy",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8nc00lf2wd7z1sa4zfy",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8nc00lf2wd7z1sa4zfy",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8nc00lf2wd7z1sa4zfy",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8nc00lf2wd7z1sa4zfy",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8nc00lf2wd7z1sa4zfy",
+    "price": "1200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8nd00lh2wd73wz34r9p",
+    "price": "6000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8nd00lh2wd73wz34r9p",
+    "price": "6000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8nd00lh2wd73wz34r9p",
+    "price": "6000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8nd00lh2wd73wz34r9p",
+    "price": "6000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8nd00lh2wd73wz34r9p",
+    "price": "6000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8nd00lh2wd73wz34r9p",
+    "price": "6000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8nd00lh2wd73wz34r9p",
+    "price": "6500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8nd00lh2wd73wz34r9p",
+    "price": "6500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8nd00lh2wd73wz34r9p",
+    "price": "6500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8nd00lh2wd73wz34r9p",
+    "price": "6500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8nd00lh2wd73wz34r9p",
+    "price": "6500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8nd00lh2wd73wz34r9p",
+    "price": "6500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8nd00lh2wd73wz34r9p",
+    "price": "6500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8nf00lj2wd7a7ltgh19",
+    "price": "1700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8nf00lj2wd7a7ltgh19",
+    "price": "1700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8nf00lj2wd7a7ltgh19",
+    "price": "1700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8nf00lj2wd7a7ltgh19",
+    "price": "1700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8nf00lj2wd7a7ltgh19",
+    "price": "1700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8nf00lj2wd7a7ltgh19",
+    "price": "1700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8nf00lj2wd7a7ltgh19",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8nf00lj2wd7a7ltgh19",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8nf00lj2wd7a7ltgh19",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8nf00lj2wd7a7ltgh19",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8nf00lj2wd7a7ltgh19",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8nf00lj2wd7a7ltgh19",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8nf00lj2wd7a7ltgh19",
+    "price": "1800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8ng00ll2wd7d6nu1vlf",
+    "price": "2300",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8ng00ll2wd7d6nu1vlf",
+    "price": "2300",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8ng00ll2wd7d6nu1vlf",
+    "price": "2300",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8ng00ll2wd7d6nu1vlf",
+    "price": "2300",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8ng00ll2wd7d6nu1vlf",
+    "price": "2300",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8ng00ll2wd7d6nu1vlf",
+    "price": "2300",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8ng00ll2wd7d6nu1vlf",
+    "price": "2200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8ng00ll2wd7d6nu1vlf",
+    "price": "2200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8ng00ll2wd7d6nu1vlf",
+    "price": "2200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8ng00ll2wd7d6nu1vlf",
+    "price": "2200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8ng00ll2wd7d6nu1vlf",
+    "price": "2200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8ng00ll2wd7d6nu1vlf",
+    "price": "2200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8ng00ll2wd7d6nu1vlf",
+    "price": "2200",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8nh00ln2wd7q7plinv9",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8nh00ln2wd7q7plinv9",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8nh00ln2wd7q7plinv9",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8nh00ln2wd7q7plinv9",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8nh00ln2wd7q7plinv9",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8nh00ln2wd7q7plinv9",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8nh00ln2wd7q7plinv9",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8nh00ln2wd7q7plinv9",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8nh00ln2wd7q7plinv9",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8nh00ln2wd7q7plinv9",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8nh00ln2wd7q7plinv9",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8nh00ln2wd7q7plinv9",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8nh00ln2wd7q7plinv9",
+    "price": "500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8nj00lp2wd7uanh2nss",
+    "price": "3500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8nj00lp2wd7uanh2nss",
+    "price": "3500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8nj00lp2wd7uanh2nss",
+    "price": "3500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8nj00lp2wd7uanh2nss",
+    "price": "3500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8nj00lp2wd7uanh2nss",
+    "price": "3500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8nj00lp2wd7uanh2nss",
+    "price": "3500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8nj00lp2wd7uanh2nss",
+    "price": "3500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8nj00lp2wd7uanh2nss",
+    "price": "3500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8nj00lp2wd7uanh2nss",
+    "price": "3500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8nj00lp2wd7uanh2nss",
+    "price": "3500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8nj00lp2wd7uanh2nss",
+    "price": "3500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8nj00lp2wd7uanh2nss",
+    "price": "3500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8nj00lp2wd7uanh2nss",
+    "price": "3500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8nk00lr2wd78z9px1vh",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8nk00lr2wd78z9px1vh",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8nk00lr2wd78z9px1vh",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8nk00lr2wd78z9px1vh",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8nk00lr2wd78z9px1vh",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8nk00lr2wd78z9px1vh",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8nk00lr2wd78z9px1vh",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8nk00lr2wd78z9px1vh",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8nk00lr2wd78z9px1vh",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8nk00lr2wd78z9px1vh",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8nk00lr2wd78z9px1vh",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8nk00lr2wd78z9px1vh",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8nk00lr2wd78z9px1vh",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8nl00lt2wd7pd5097rr",
+    "price": "450",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8nl00lt2wd7pd5097rr",
+    "price": "450",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8nl00lt2wd7pd5097rr",
+    "price": "450",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8nl00lt2wd7pd5097rr",
+    "price": "450",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8nl00lt2wd7pd5097rr",
+    "price": "450",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8nl00lt2wd7pd5097rr",
+    "price": "450",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8nl00lt2wd7pd5097rr",
+    "price": "400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8nl00lt2wd7pd5097rr",
+    "price": "400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8nl00lt2wd7pd5097rr",
+    "price": "400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8nl00lt2wd7pd5097rr",
+    "price": "400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8nl00lt2wd7pd5097rr",
+    "price": "400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8nl00lt2wd7pd5097rr",
+    "price": "400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8nl00lt2wd7pd5097rr",
+    "price": "400",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8nn00lv2wd79gevdy6i",
+    "price": "250",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8nn00lv2wd79gevdy6i",
+    "price": "250",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8nn00lv2wd79gevdy6i",
+    "price": "250",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8nn00lv2wd79gevdy6i",
+    "price": "250",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8nn00lv2wd79gevdy6i",
+    "price": "250",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8nn00lv2wd79gevdy6i",
+    "price": "250",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8nn00lv2wd79gevdy6i",
+    "price": "300",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8nn00lv2wd79gevdy6i",
+    "price": "300",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8nn00lv2wd79gevdy6i",
+    "price": "300",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8nn00lv2wd79gevdy6i",
+    "price": "300",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8nn00lv2wd79gevdy6i",
+    "price": "300",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8nn00lv2wd79gevdy6i",
+    "price": "300",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8nn00lv2wd79gevdy6i",
+    "price": "300",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8no00lx2wd7jbyii1q7",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8no00lx2wd7jbyii1q7",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8no00lx2wd7jbyii1q7",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8no00lx2wd7jbyii1q7",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8no00lx2wd7jbyii1q7",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8no00lx2wd7jbyii1q7",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8no00lx2wd7jbyii1q7",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8no00lx2wd7jbyii1q7",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8no00lx2wd7jbyii1q7",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8no00lx2wd7jbyii1q7",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8no00lx2wd7jbyii1q7",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8no00lx2wd7jbyii1q7",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8no00lx2wd7jbyii1q7",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8np00lz2wd7ra3ac1lx",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8np00lz2wd7ra3ac1lx",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8np00lz2wd7ra3ac1lx",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8np00lz2wd7ra3ac1lx",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8np00lz2wd7ra3ac1lx",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8np00lz2wd7ra3ac1lx",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8np00lz2wd7ra3ac1lx",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8np00lz2wd7ra3ac1lx",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8np00lz2wd7ra3ac1lx",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8np00lz2wd7ra3ac1lx",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8np00lz2wd7ra3ac1lx",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8np00lz2wd7ra3ac1lx",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8np00lz2wd7ra3ac1lx",
+    "price": "850",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8nr00m12wd7510ttefl",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8nr00m12wd7510ttefl",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8nr00m12wd7510ttefl",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8nr00m12wd7510ttefl",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8nr00m12wd7510ttefl",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8nr00m12wd7510ttefl",
+    "price": "1000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8nr00m12wd7510ttefl",
+    "price": "1100",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8nr00m12wd7510ttefl",
+    "price": "1100",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8nr00m12wd7510ttefl",
+    "price": "1100",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8nr00m12wd7510ttefl",
+    "price": "1100",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8nr00m12wd7510ttefl",
+    "price": "1100",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8nr00m12wd7510ttefl",
+    "price": "1100",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8nr00m12wd7510ttefl",
+    "price": "1100",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8ns00m32wd7ggnoazxr",
+    "price": "700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8ns00m32wd7ggnoazxr",
+    "price": "700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8ns00m32wd7ggnoazxr",
+    "price": "700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8ns00m32wd7ggnoazxr",
+    "price": "700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8ns00m32wd7ggnoazxr",
+    "price": "700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8ns00m32wd7ggnoazxr",
+    "price": "700",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8ns00m32wd7ggnoazxr",
+    "price": "750",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8ns00m32wd7ggnoazxr",
+    "price": "750",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8ns00m32wd7ggnoazxr",
+    "price": "750",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8ns00m32wd7ggnoazxr",
+    "price": "750",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8ns00m32wd7ggnoazxr",
+    "price": "750",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8ns00m32wd7ggnoazxr",
+    "price": "750",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8ns00m32wd7ggnoazxr",
+    "price": "750",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8nt00m52wd7zep9pdad",
+    "price": "550",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8nt00m52wd7zep9pdad",
+    "price": "550",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8nt00m52wd7zep9pdad",
+    "price": "550",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8nt00m52wd7zep9pdad",
+    "price": "550",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8nt00m52wd7zep9pdad",
+    "price": "550",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8nt00m52wd7zep9pdad",
+    "price": "550",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8nt00m52wd7zep9pdad",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8nt00m52wd7zep9pdad",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8nt00m52wd7zep9pdad",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8nt00m52wd7zep9pdad",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8nt00m52wd7zep9pdad",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8nt00m52wd7zep9pdad",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8nt00m52wd7zep9pdad",
+    "price": "600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8nu00m72wd7lsvnztyf",
+    "price": "3000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8nu00m72wd7lsvnztyf",
+    "price": "3000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8nu00m72wd7lsvnztyf",
+    "price": "3000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8nu00m72wd7lsvnztyf",
+    "price": "3000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8nu00m72wd7lsvnztyf",
+    "price": "3000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8nu00m72wd7lsvnztyf",
+    "price": "3000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8nu00m72wd7lsvnztyf",
+    "price": "2500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8nu00m72wd7lsvnztyf",
+    "price": "2500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8nu00m72wd7lsvnztyf",
+    "price": "2500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8nu00m72wd7lsvnztyf",
+    "price": "2500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8nu00m72wd7lsvnztyf",
+    "price": "2500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8nu00m72wd7lsvnztyf",
+    "price": "2500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8nu00m72wd7lsvnztyf",
+    "price": "2500",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8nw00m92wd7lgr7albe",
+    "price": "3600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8nw00m92wd7lgr7albe",
+    "price": "3600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8nw00m92wd7lgr7albe",
+    "price": "3600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8nw00m92wd7lgr7albe",
+    "price": "3600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8nw00m92wd7lgr7albe",
+    "price": "3600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8nw00m92wd7lgr7albe",
+    "price": "3600",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8nw00m92wd7lgr7albe",
+    "price": "3000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8nw00m92wd7lgr7albe",
+    "price": "3000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8nw00m92wd7lgr7albe",
+    "price": "3000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8nw00m92wd7lgr7albe",
+    "price": "3000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8nw00m92wd7lgr7albe",
+    "price": "3000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8nw00m92wd7lgr7albe",
+    "price": "3000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8nw00m92wd7lgr7albe",
+    "price": "3000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160t00nevobatyylj8iz",
+    "productId": "cm0ask8nx00mb2wd75wf1qxmr",
+    "price": "3000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160v00ngvobagoja7ytu",
+    "productId": "cm0ask8nx00mb2wd75wf1qxmr",
+    "price": "3000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160w00nivobaikkd6gfa",
+    "productId": "cm0ask8nx00mb2wd75wf1qxmr",
+    "price": "3000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160y00nkvobal02jg6fd",
+    "productId": "cm0ask8nx00mb2wd75wf1qxmr",
+    "price": "3000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq160z00nmvoba9ohenk1y",
+    "productId": "cm0ask8nx00mb2wd75wf1qxmr",
+    "price": "3000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq161000novobaurtfbpk6",
+    "productId": "cm0ask8nx00mb2wd75wf1qxmr",
+    "price": "3000",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vf00gqvoba6dp9xplv",
+    "productId": "cm0ask8nx00mb2wd75wf1qxmr",
+    "price": "2800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vm00gsvoba1rckzvqa",
+    "productId": "cm0ask8nx00mb2wd75wf1qxmr",
+    "price": "2800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vn00guvobaltswnub8",
+    "productId": "cm0ask8nx00mb2wd75wf1qxmr",
+    "price": "2800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15vy00gwvoba33kkag02",
+    "productId": "cm0ask8nx00mb2wd75wf1qxmr",
+    "price": "2800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w000gyvobac93yxic4",
+    "productId": "cm0ask8nx00mb2wd75wf1qxmr",
+    "price": "2800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w100h0voba4s7gza38",
+    "productId": "cm0ask8nx00mb2wd75wf1qxmr",
+    "price": "2800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  },
+  {
+    "cityId": "cm0aq15w200h2vobaz64mkrrd",
+    "productId": "cm0ask8nx00mb2wd75wf1qxmr",
+    "price": "2800",
+    "currency": "xaf",
+    "avalaibility": "Avalaible",
+    "entryDate": "2024-08-04T00:00:00.000Z"
+  }
+]

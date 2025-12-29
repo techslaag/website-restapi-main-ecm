@@ -1,0 +1,23 @@
+
+> restapi@0.1.0 dev
+> next dev -- --port 3500 --port 3500
+
+ ⨯ Failed to start server
+Error: listen EADDRINUSE: address already in use :::3500
+    at Server.setupListenHandle [as _listen2] (node:net:1912:16)
+    at listenInCluster (node:net:1969:12)
+    at Server.listen (node:net:2074:7)
+    at /Users/tallantiou/Documents/work/videocall/ecomatin/app/website-restapi-main/node_modules/next/dist/server/lib/start-server.js:279:16
+    at new Promise (<anonymous>)
+    at startServer (/Users/tallantiou/Documents/work/videocall/ecomatin/app/website-restapi-main/node_modules/next/dist/server/lib/start-server.js:190:11)
+    at /Users/tallantiou/Documents/work/videocall/ecomatin/app/website-restapi-main/node_modules/next/dist/server/lib/start-server.js:309:52
+    at Span.traceAsyncFn (/Users/tallantiou/Documents/work/videocall/ecomatin/app/website-restapi-main/node_modules/next/dist/trace/trace.js:151:26)
+    at process.<anonymous> (/Users/tallantiou/Documents/work/videocall/ecomatin/app/website-restapi-main/node_modules/next/dist/server/lib/start-server.js:309:35)
+    at process.emit (node:events:524:28) {
+  code: 'EADDRINUSE',
+  errno: -48,
+  syscall: 'listen',
+  address: '::',
+  port: 3500
+}
+[?25h

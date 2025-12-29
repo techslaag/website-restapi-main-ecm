@@ -1,0 +1,1795 @@
+[
+  {
+    "name": "centre administratif",
+    "averagePriceBuiltBuilding": 10000,
+    "averagePriceUnbuiltBuilding": 5000,
+    "communeId": "cm0aq15u700fgvoba88eiov8i"
+  },
+  {
+    "name": "NKONZOCK",
+    "averagePriceBuiltBuilding": 10000,
+    "averagePriceUnbuiltBuilding": 5000,
+    "communeId": "cm0aq15u700fgvoba88eiov8i"
+  },
+  {
+    "name": "OTELE",
+    "averagePriceBuiltBuilding": 6000,
+    "averagePriceUnbuiltBuilding": 3000,
+    "communeId": "cm0aq15u700fgvoba88eiov8i"
+  },
+  {
+    "name": "OTOTOMO",
+    "averagePriceBuiltBuilding": 4000,
+    "averagePriceUnbuiltBuilding": 2000,
+    "communeId": "cm0aq15u700fgvoba88eiov8i"
+  },
+  {
+    "name": "OKOUMBI",
+    "averagePriceBuiltBuilding": 4000,
+    "averagePriceUnbuiltBuilding": 2000,
+    "communeId": "cm0aq15u700fgvoba88eiov8i"
+  },
+  {
+    "name": "centre administratif",
+    "averagePriceBuiltBuilding": 12000,
+    "averagePriceUnbuiltBuilding": 6000,
+    "communeId": "cm0aq15u500fevoba4rje3dsi"
+  },
+  {
+    "name": "LYCEE",
+    "averagePriceBuiltBuilding": 16000,
+    "averagePriceUnbuiltBuilding": 8000,
+    "communeId": "cm0aq15u500fevoba4rje3dsi"
+  },
+  {
+    "name": "ELOUMDEM",
+    "averagePriceBuiltBuilding": 16000,
+    "averagePriceUnbuiltBuilding": 8000,
+    "communeId": "cm0aq15u500fevoba4rje3dsi"
+  },
+  {
+    "name": "OKOA MARIA",
+    "averagePriceBuiltBuilding": 4000,
+    "averagePriceUnbuiltBuilding": 2000,
+    "communeId": "cm0aq15u500fevoba4rje3dsi"
+  },
+  {
+    "name": "ANGON 1",
+    "averagePriceBuiltBuilding": 8000,
+    "averagePriceUnbuiltBuilding": 4000,
+    "communeId": "cm0aq15u500fevoba4rje3dsi"
+  },
+  {
+    "name": "ANGON 2",
+    "averagePriceBuiltBuilding": 6000,
+    "averagePriceUnbuiltBuilding": 3000,
+    "communeId": "cm0aq15u500fevoba4rje3dsi"
+  },
+  {
+    "name": "QUARTIER AKONO",
+    "averagePriceBuiltBuilding": 10000,
+    "averagePriceUnbuiltBuilding": 5000,
+    "communeId": "cm0aq15tr00favobadwqd7wl4"
+  },
+  {
+    "name": "AKONO AYAT",
+    "averagePriceBuiltBuilding": 6000,
+    "averagePriceUnbuiltBuilding": 3000,
+    "communeId": "cm0aq15tr00favobadwqd7wl4"
+  },
+  {
+    "name": "NKONG NNEM",
+    "averagePriceBuiltBuilding": 6000,
+    "averagePriceUnbuiltBuilding": 3000,
+    "communeId": "cm0aq15tr00favobadwqd7wl4"
+  },
+  {
+    "name": "NKOL MARIA",
+    "averagePriceBuiltBuilding": 4000,
+    "averagePriceUnbuiltBuilding": 2000,
+    "communeId": "cm0aq15tr00favobadwqd7wl4"
+  },
+  {
+    "name": "NKOL AKONO",
+    "averagePriceBuiltBuilding": 6000,
+    "averagePriceUnbuiltBuilding": 3000,
+    "communeId": "cm0aq15tr00favobadwqd7wl4"
+  },
+  {
+    "name": "ASSONG MIMBANG",
+    "averagePriceBuiltBuilding": 6000,
+    "averagePriceUnbuiltBuilding": 3000,
+    "communeId": "cm0aq15tr00favobadwqd7wl4"
+  },
+  {
+    "name": "CENTRE ADMINISTRATIF",
+    "averagePriceBuiltBuilding": 10000,
+    "averagePriceUnbuiltBuilding": 5000,
+    "communeId": "cm0aq15tr00favobadwqd7wl4"
+  },
+  {
+    "name": "ZOUATOUPSI",
+    "averagePriceBuiltBuilding": 4000,
+    "averagePriceUnbuiltBuilding": 2000,
+    "communeId": "cm0aq15tr00favobadwqd7wl4"
+  },
+  {
+    "name": "NKOLMESSONG",
+    "averagePriceBuiltBuilding": 10000,
+    "averagePriceUnbuiltBuilding": 5000,
+    "communeId": "cm0aq15tr00favobadwqd7wl4"
+  },
+  {
+    "name": "BEKOA",
+    "averagePriceBuiltBuilding": 4000,
+    "averagePriceUnbuiltBuilding": 2000,
+    "communeId": "cm0aq15tr00favobadwqd7wl4"
+  },
+  {
+    "name": "NKONGDOUGOU",
+    "averagePriceBuiltBuilding": 6000,
+    "averagePriceUnbuiltBuilding": 3000,
+    "communeId": "cm0aq15tr00favobadwqd7wl4"
+  },
+  {
+    "name": "BIKOP",
+    "averagePriceBuiltBuilding": 6000,
+    "averagePriceUnbuiltBuilding": 3000,
+    "communeId": "cm0aq15tr00favobadwqd7wl4"
+  },
+  {
+    "name": "NYOMO",
+    "averagePriceBuiltBuilding": 10000,
+    "averagePriceUnbuiltBuilding": 5000,
+    "communeId": "cm0aq15tr00favobadwqd7wl4"
+  },
+  {
+    "name": "ZONE PORTUAIRE DECLAREE D'UTILITE PUBLIQUE",
+    "averagePriceBuiltBuilding": 10000,
+    "averagePriceUnbuiltBuilding": 5000,
+    "communeId": "cm0aq15zp00lsvobaobclxu41"
+  },
+  {
+    "name": "LOBE",
+    "averagePriceBuiltBuilding": 80000,
+    "averagePriceUnbuiltBuilding": 40000,
+    "communeId": "cm0aq15zp00lsvobaobclxu41"
+  },
+  {
+    "name": "BWAMBE",
+    "averagePriceBuiltBuilding": 80000,
+    "averagePriceUnbuiltBuilding": 40000,
+    "communeId": "cm0aq15zp00lsvobaobclxu41"
+  },
+  {
+    "name": "MBEKA'A",
+    "averagePriceBuiltBuilding": 70000,
+    "averagePriceUnbuiltBuilding": 35000,
+    "communeId": "cm0aq15zp00lsvobaobclxu41"
+  },
+  {
+    "name": "EBOME",
+    "averagePriceBuiltBuilding": 80000,
+    "averagePriceUnbuiltBuilding": 40000,
+    "communeId": "cm0aq15zp00lsvobaobclxu41"
+  },
+  {
+    "name": "LENDI",
+    "averagePriceBuiltBuilding": 60000,
+    "averagePriceUnbuiltBuilding": 30000,
+    "communeId": "cm0aq15zp00lsvobaobclxu41"
+  },
+  {
+    "name": "BONGANDOUE",
+    "averagePriceBuiltBuilding": 80000,
+    "averagePriceUnbuiltBuilding": 40000,
+    "communeId": "cm0aq15zp00lsvobaobclxu41"
+  },
+  {
+    "name": "TALLA",
+    "averagePriceBuiltBuilding": 80000,
+    "averagePriceUnbuiltBuilding": 40000,
+    "communeId": "cm0aq15zp00lsvobaobclxu41"
+  },
+  {
+    "name": "MBOAMANGA",
+    "averagePriceBuiltBuilding": 80000,
+    "averagePriceUnbuiltBuilding": 40000,
+    "communeId": "cm0aq15zp00lsvobaobclxu41"
+  },
+  {
+    "name": "MASSAKA",
+    "averagePriceBuiltBuilding": 180000,
+    "averagePriceUnbuiltBuilding": 90000,
+    "communeId": "cm0aq15zp00lsvobaobclxu41"
+  },
+  {
+    "name": "NGOYE",
+    "averagePriceBuiltBuilding": 180000,
+    "averagePriceUnbuiltBuilding": 90000,
+    "communeId": "cm0aq15zp00lsvobaobclxu41"
+  },
+  {
+    "name": "MPANGOU",
+    "averagePriceBuiltBuilding": 80000,
+    "averagePriceUnbuiltBuilding": 40000,
+    "communeId": "cm0aq15zp00lsvobaobclxu41"
+  },
+  {
+    "name": "NEW-TOWN 1",
+    "averagePriceBuiltBuilding": 180000,
+    "averagePriceUnbuiltBuilding": 90000,
+    "communeId": "cm0aq15zp00lsvobaobclxu41"
+  },
+  {
+    "name": "PETIT PARIS",
+    "averagePriceBuiltBuilding": 180000,
+    "averagePriceUnbuiltBuilding": 90000,
+    "communeId": "cm0aq15zp00lsvobaobclxu41"
+  },
+  {
+    "name": "MOKOLO",
+    "averagePriceBuiltBuilding": 180000,
+    "averagePriceUnbuiltBuilding": 90000,
+    "communeId": "cm0aq15zp00lsvobaobclxu41"
+  },
+  {
+    "name": "ZAIRE",
+    "averagePriceBuiltBuilding": 180000,
+    "averagePriceUnbuiltBuilding": 90000,
+    "communeId": "cm0aq15zp00lsvobaobclxu41"
+  },
+  {
+    "name": "centre administratif",
+    "averagePriceBuiltBuilding": 10000,
+    "averagePriceUnbuiltBuilding": 5000,
+    "communeId": "cm0aq15zr00luvoba5eyc10le"
+  },
+  {
+    "name": "centre administratif",
+    "averagePriceBuiltBuilding": 10000,
+    "averagePriceUnbuiltBuilding": 5000,
+    "communeId": "cm0aq15zr00luvoba5eyc10le"
+  },
+  {
+    "name": "LONDJI 1",
+    "averagePriceBuiltBuilding": 80000,
+    "averagePriceUnbuiltBuilding": 40000,
+    "communeId": "cm0aq15zr00luvoba5eyc10le"
+  },
+  {
+    "name": "LONDJI 2",
+    "averagePriceBuiltBuilding": 80000,
+    "averagePriceUnbuiltBuilding": 40000,
+    "communeId": "cm0aq15zr00luvoba5eyc10le"
+  },
+  {
+    "name": "BEBAMBWE 2",
+    "averagePriceBuiltBuilding": 80000,
+    "averagePriceUnbuiltBuilding": 40000,
+    "communeId": "cm0aq15zr00luvoba5eyc10le"
+  },
+  {
+    "name": "BEBAMBWE 1",
+    "averagePriceBuiltBuilding": 80000,
+    "averagePriceUnbuiltBuilding": 40000,
+    "communeId": "cm0aq15zr00luvoba5eyc10le"
+  },
+  {
+    "name": "MPONLONGWE 2",
+    "averagePriceBuiltBuilding": 80000,
+    "averagePriceUnbuiltBuilding": 40000,
+    "communeId": "cm0aq15zr00luvoba5eyc10le"
+  },
+  {
+    "name": "MPONLONGWE 1",
+    "averagePriceBuiltBuilding": 80000,
+    "averagePriceUnbuiltBuilding": 40000,
+    "communeId": "cm0aq15zr00luvoba5eyc10le"
+  },
+  {
+    "name": "EBOUYOE",
+    "averagePriceBuiltBuilding": 80000,
+    "averagePriceUnbuiltBuilding": 40000,
+    "communeId": "cm0aq15zr00luvoba5eyc10le"
+  },
+  {
+    "name": "ELABE",
+    "averagePriceBuiltBuilding": 90000,
+    "averagePriceUnbuiltBuilding": 45000,
+    "communeId": "cm0aq15zr00luvoba5eyc10le"
+  },
+  {
+    "name": "NZIOU",
+    "averagePriceBuiltBuilding": 90000,
+    "averagePriceUnbuiltBuilding": 45000,
+    "communeId": "cm0aq15zr00luvoba5eyc10le"
+  },
+  {
+    "name": "MAHELE",
+    "averagePriceBuiltBuilding": 90000,
+    "averagePriceUnbuiltBuilding": 45000,
+    "communeId": "cm0aq15zr00luvoba5eyc10le"
+  },
+  {
+    "name": "NZAMI",
+    "averagePriceBuiltBuilding": 90000,
+    "averagePriceUnbuiltBuilding": 45000,
+    "communeId": "cm0aq15zr00luvoba5eyc10le"
+  },
+  {
+    "name": "NGOYE-WAMIE",
+    "averagePriceBuiltBuilding": 90000,
+    "averagePriceUnbuiltBuilding": 45000,
+    "communeId": "cm0aq15zr00luvoba5eyc10le"
+  },
+  {
+    "name": "Douala1",
+    "averagePriceUnbuiltBuilding": 200000,
+    "averagePriceBuiltBuilding": 350000,
+    "communeId": "cm0aq160t00nevobatyylj8iz"
+  },
+  {
+    "name": "BONADIBONG",
+    "averagePriceUnbuiltBuilding": 150000,
+    "averagePriceBuiltBuilding": 300000,
+    "communeId": "cm0aq160t00nevobatyylj8iz"
+  },
+  {
+    "name": "NKONDO",
+    "averagePriceUnbuiltBuilding": 150000,
+    "averagePriceBuiltBuilding": 300000,
+    "communeId": "cm0aq160t00nevobatyylj8iz"
+  },
+  {
+    "name": "BESSENGUE",
+    "averagePriceUnbuiltBuilding": 79166,
+    "averagePriceBuiltBuilding": 158333,
+    "communeId": "cm0aq160t00nevobatyylj8iz"
+  },
+  {
+    "name": "BONABEKOMBO",
+    "averagePriceUnbuiltBuilding": 137500,
+    "averagePriceBuiltBuilding": 275000,
+    "communeId": "cm0aq160t00nevobatyylj8iz"
+  },
+  {
+    "name": "BONAKOUAMOUANG",
+    "averagePriceUnbuiltBuilding": 85000,
+    "averagePriceBuiltBuilding": 170000,
+    "communeId": "cm0aq160t00nevobatyylj8iz"
+  },
+  {
+    "name": "BONAMIKENGUE",
+    "averagePriceUnbuiltBuilding": 112500,
+    "averagePriceBuiltBuilding": 225000,
+    "communeId": "cm0aq160t00nevobatyylj8iz"
+  },
+  {
+    "name": "BONEBONG",
+    "averagePriceUnbuiltBuilding": 125000,
+    "averagePriceBuiltBuilding": 250000,
+    "communeId": "cm0aq160t00nevobatyylj8iz"
+  },
+  {
+    "name": "BONENJANG",
+    "averagePriceUnbuiltBuilding": 150000,
+    "averagePriceBuiltBuilding": 300000,
+    "communeId": "cm0aq160t00nevobatyylj8iz"
+  },
+  {
+    "name": "BONELEKE",
+    "averagePriceUnbuiltBuilding": 150000,
+    "averagePriceBuiltBuilding": 300000,
+    "communeId": "cm0aq160t00nevobatyylj8iz"
+  },
+  {
+    "name": "BONAJINJE",
+    "averagePriceUnbuiltBuilding": 150000,
+    "averagePriceBuiltBuilding": 300000,
+    "communeId": "cm0aq160t00nevobatyylj8iz"
+  },
+  {
+    "name": "BONAKOUANG",
+    "averagePriceUnbuiltBuilding": 150000,
+    "averagePriceBuiltBuilding": 300000,
+    "communeId": "cm0aq160t00nevobatyylj8iz"
+  },
+  {
+    "name": "BONALEMBE",
+    "averagePriceUnbuiltBuilding": 150000,
+    "averagePriceBuiltBuilding": 300000,
+    "communeId": "cm0aq160t00nevobatyylj8iz"
+  },
+  {
+    "name": "NGODI-KOTTO",
+    "averagePriceUnbuiltBuilding": 137500,
+    "averagePriceBuiltBuilding": 275000,
+    "communeId": "cm0aq160t00nevobatyylj8iz"
+  },
+  {
+    "name": "BONABELENKON",
+    "averagePriceUnbuiltBuilding": 150000,
+    "averagePriceBuiltBuilding": 300000,
+    "communeId": "cm0aq160t00nevobatyylj8iz"
+  },
+  {
+    "name": "BONALEMBE",
+    "averagePriceUnbuiltBuilding": 150000,
+    "averagePriceBuiltBuilding": 300000,
+    "communeId": "cm0aq160t00nevobatyylj8iz"
+  },
+  {
+    "name": "BONABASSEM",
+    "averagePriceUnbuiltBuilding": 87500,
+    "averagePriceBuiltBuilding": 175000,
+    "communeId": "cm0aq160t00nevobatyylj8iz"
+  },
+  {
+    "name": "BONAMOUANG",
+    "averagePriceUnbuiltBuilding": 73333,
+    "averagePriceBuiltBuilding": 146666,
+    "communeId": "cm0aq160t00nevobatyylj8iz"
+  },
+  {
+    "name": "BONATEKI",
+    "averagePriceUnbuiltBuilding": 81666,
+    "averagePriceBuiltBuilding": 163333,
+    "communeId": "cm0aq160t00nevobatyylj8iz"
+  },
+  {
+    "name": "BONEWANDJA",
+    "averagePriceUnbuiltBuilding": 100000,
+    "averagePriceBuiltBuilding": 200000,
+    "communeId": "cm0aq160t00nevobatyylj8iz"
+  },
+  {
+    "name": "BONAMOUDOUROU",
+    "averagePriceUnbuiltBuilding": 75000,
+    "averagePriceBuiltBuilding": 150000,
+    "communeId": "cm0aq160t00nevobatyylj8iz"
+  },
+  {
+    "name": "BONANTONE",
+    "averagePriceUnbuiltBuilding": 83333,
+    "averagePriceBuiltBuilding": 166666,
+    "communeId": "cm0aq160t00nevobatyylj8iz"
+  },
+  {
+    "name": "BONATENE",
+    "averagePriceUnbuiltBuilding": 100000,
+    "averagePriceBuiltBuilding": 200000,
+    "communeId": "cm0aq160t00nevobatyylj8iz"
+  },
+  {
+    "name": "NEW DEIDO",
+    "averagePriceUnbuiltBuilding": 100000,
+    "averagePriceBuiltBuilding": 200000,
+    "communeId": "cm0aq160t00nevobatyylj8iz"
+  },
+  {
+    "name": "BALI",
+    "averagePriceUnbuiltBuilding": 150000,
+    "averagePriceBuiltBuilding": 300000,
+    "communeId": "cm0aq160t00nevobatyylj8iz"
+  },
+  {
+    "name": "BONAPRISO",
+    "averagePriceUnbuiltBuilding": 200000,
+    "averagePriceBuiltBuilding": 350000,
+    "communeId": "cm0aq160t00nevobatyylj8iz"
+  },
+  {
+    "name": "KOUMASSI",
+    "averagePriceUnbuiltBuilding": 142857,
+    "averagePriceBuiltBuilding": 300000,
+    "communeId": "cm0aq160t00nevobatyylj8iz"
+  },
+  {
+    "name": "YOUPWE",
+    "averagePriceUnbuiltBuilding": 75000,
+    "averagePriceBuiltBuilding": 150000,
+    "communeId": "cm0aq160v00ngvobagoja7ytu"
+  },
+  {
+    "name": "CAMP YABASSI",
+    "averagePriceUnbuiltBuilding": 100000,
+    "averagePriceBuiltBuilding": 200000,
+    "communeId": "cm0aq160v00ngvobagoja7ytu"
+  },
+  {
+    "name": "MAKEA",
+    "averagePriceUnbuiltBuilding": 63750,
+    "averagePriceBuiltBuilding": 127500,
+    "communeId": "cm0aq160v00ngvobagoja7ytu"
+  },
+  {
+    "name": "MBOPPI",
+    "averagePriceUnbuiltBuilding": 65000,
+    "averagePriceBuiltBuilding": 130000,
+    "communeId": "cm0aq160v00ngvobagoja7ytu"
+  },
+  {
+    "name": "BABYLONE",
+    "averagePriceUnbuiltBuilding": 100000,
+    "averagePriceBuiltBuilding": 200000,
+    "communeId": "cm0aq160v00ngvobagoja7ytu"
+  },
+  {
+    "name": "BONADOUMA",
+    "averagePriceUnbuiltBuilding": 100000,
+    "averagePriceBuiltBuilding": 200000,
+    "communeId": "cm0aq160v00ngvobagoja7ytu"
+  },
+  {
+    "name": "KASSALAFAM",
+    "averagePriceUnbuiltBuilding": 100000,
+    "averagePriceBuiltBuilding": 200000,
+    "communeId": "cm0aq160v00ngvobagoja7ytu"
+  },
+  {
+    "name": "NEW BELL",
+    "averagePriceUnbuiltBuilding": 100000,
+    "averagePriceBuiltBuilding": 200000,
+    "communeId": "cm0aq160v00ngvobagoja7ytu"
+  },
+  {
+    "name": "NEW BELL BAMILEKE",
+    "averagePriceUnbuiltBuilding": 30000,
+    "averagePriceBuiltBuilding": 60000,
+    "communeId": "cm0aq160v00ngvobagoja7ytu"
+  },
+  {
+    "name": "NEW BELL BASSA",
+    "averagePriceUnbuiltBuilding": 58750,
+    "averagePriceBuiltBuilding": 117500,
+    "communeId": "cm0aq160v00ngvobagoja7ytu"
+  },
+  {
+    "name": "NKOLMINTA",
+    "averagePriceUnbuiltBuilding": 58333,
+    "averagePriceBuiltBuilding": 116666,
+    "communeId": "cm0aq160v00ngvobagoja7ytu"
+  },
+  {
+    "name": "NKOLOLOUN",
+    "averagePriceUnbuiltBuilding": 54000,
+    "averagePriceBuiltBuilding": 270000,
+    "communeId": "cm0aq160v00ngvobagoja7ytu"
+  },
+  {
+    "name": "MBAM EWONDO",
+    "averagePriceUnbuiltBuilding": 45000,
+    "averagePriceBuiltBuilding": 90000,
+    "communeId": "cm0aq160v00ngvobagoja7ytu"
+  },
+  {
+    "name": "NGANGUE",
+    "averagePriceUnbuiltBuilding": 83333,
+    "averagePriceBuiltBuilding": 166666,
+    "communeId": "cm0aq160v00ngvobagoja7ytu"
+  },
+  {
+    "name": "NEW TOWN AEROPORT I",
+    "averagePriceUnbuiltBuilding": 50000,
+    "averagePriceBuiltBuilding": 100000,
+    "communeId": "cm0aq160v00ngvobagoja7ytu"
+  },
+  {
+    "name": "NEW TOWN AEROPORT II",
+    "averagePriceUnbuiltBuilding": 50000,
+    "averagePriceBuiltBuilding": 100000,
+    "communeId": "cm0aq160v00ngvobagoja7ytu"
+  },
+  {
+    "name": "NEW TOWN AEROPORT III",
+    "averagePriceUnbuiltBuilding": 50000,
+    "averagePriceBuiltBuilding": 100000,
+    "communeId": "cm0aq160v00ngvobagoja7ytu"
+  },
+  {
+    "name": "NEW TOWN AEROPORT IV",
+    "averagePriceUnbuiltBuilding": 50000,
+    "averagePriceBuiltBuilding": 100000,
+    "communeId": "cm0aq160v00ngvobagoja7ytu"
+  },
+  {
+    "name": "NEW BELL BASSA",
+    "averagePriceUnbuiltBuilding": 58750,
+    "averagePriceBuiltBuilding": 117500,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "NEW BELL BASSA",
+    "averagePriceUnbuiltBuilding": 58750,
+    "averagePriceBuiltBuilding": 117500,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "NKOLMINTA",
+    "averagePriceUnbuiltBuilding": 58333,
+    "averagePriceBuiltBuilding": 116666,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "NKOLOLOUN",
+    "averagePriceUnbuiltBuilding": 54000,
+    "averagePriceBuiltBuilding": 270000,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "MBAM EWONDO",
+    "averagePriceUnbuiltBuilding": 45000,
+    "averagePriceBuiltBuilding": 90000,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "NGANGUE",
+    "averagePriceUnbuiltBuilding": 83333,
+    "averagePriceBuiltBuilding": 166666,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "NEW TOWN AEROPORT I",
+    "averagePriceUnbuiltBuilding": 50000,
+    "averagePriceBuiltBuilding": 100000,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "NEW TOWN AEROPORT II",
+    "averagePriceUnbuiltBuilding": 50000,
+    "averagePriceBuiltBuilding": 100000,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "NEW TOWN AEROPORT III",
+    "averagePriceUnbuiltBuilding": 50000,
+    "averagePriceBuiltBuilding": 100000,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "BASSA",
+    "averagePriceUnbuiltBuilding": 100000,
+    "averagePriceBuiltBuilding": 150000,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "NDOKOTI",
+    "averagePriceUnbuiltBuilding": 100000,
+    "averagePriceBuiltBuilding": 200000,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "NDOGSIMBI",
+    "averagePriceUnbuiltBuilding": 100000,
+    "averagePriceBuiltBuilding": 80000,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "BRAZZAVILLE",
+    "averagePriceUnbuiltBuilding": 100000,
+    "averagePriceBuiltBuilding": 74666,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "BONALOKA",
+    "averagePriceUnbuiltBuilding": 25000,
+    "averagePriceBuiltBuilding": 50000,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "BARCELONE",
+    "averagePriceUnbuiltBuilding": 15000,
+    "averagePriceBuiltBuilding": 30000,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "BILONGUE",
+    "averagePriceUnbuiltBuilding": 20000,
+    "averagePriceBuiltBuilding": 36000,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "BOBONGO",
+    "averagePriceUnbuiltBuilding": 15000,
+    "averagePriceBuiltBuilding": 30000,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "BOKO",
+    "averagePriceUnbuiltBuilding": 15000,
+    "averagePriceBuiltBuilding": 30000,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "YASSA",
+    "averagePriceUnbuiltBuilding": 17500,
+    "averagePriceBuiltBuilding": 35000,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "DAKAR",
+    "averagePriceUnbuiltBuilding": 33333,
+    "averagePriceBuiltBuilding": 66666,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "MADAGASCAR",
+    "averagePriceUnbuiltBuilding": 37142,
+    "averagePriceBuiltBuilding": 74285,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "PK6",
+    "averagePriceUnbuiltBuilding": 15000,
+    "averagePriceBuiltBuilding": 30000,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "NDOGPASSI",
+    "averagePriceUnbuiltBuilding": 15000,
+    "averagePriceBuiltBuilding": 30000,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "TEXACO",
+    "averagePriceUnbuiltBuilding": 16785.71,
+    "averagePriceBuiltBuilding": 33571.42,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "JAPOMA",
+    "averagePriceUnbuiltBuilding": 13333,
+    "averagePriceBuiltBuilding": 26666,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "LOGBABA",
+    "averagePriceUnbuiltBuilding": 23333,
+    "averagePriceBuiltBuilding": 46666,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "MBANGA BAKOKO",
+    "averagePriceUnbuiltBuilding": 26250,
+    "averagePriceBuiltBuilding": 52500,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "OYACK",
+    "averagePriceUnbuiltBuilding": 15000,
+    "averagePriceBuiltBuilding": 30000,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "PK 10",
+    "averagePriceUnbuiltBuilding": 20000,
+    "averagePriceBuiltBuilding": 40000,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "PK 11",
+    "averagePriceUnbuiltBuilding": 20000,
+    "averagePriceBuiltBuilding": 40000,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "PK 12",
+    "averagePriceUnbuiltBuilding": 11666,
+    "averagePriceBuiltBuilding": 23333,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "PK 13",
+    "averagePriceUnbuiltBuilding": 11666,
+    "averagePriceBuiltBuilding": 23333,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "SOBOUM",
+    "averagePriceUnbuiltBuilding": 10000,
+    "averagePriceBuiltBuilding": 20000,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "NGODI BAKOKO",
+    "averagePriceUnbuiltBuilding": 10000,
+    "averagePriceBuiltBuilding": 20000,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "NYALLA",
+    "averagePriceUnbuiltBuilding": 15882,
+    "averagePriceBuiltBuilding": 31764,
+    "communeId": "cm0aq160w00nivobaikkd6gfa"
+  },
+  {
+    "name": "MABANDA",
+    "averagePriceUnbuiltBuilding": 25000,
+    "averagePriceBuiltBuilding": 50000,
+    "communeId": "cm0aq160y00nkvobal02jg6fd"
+  },
+  {
+    "name": "ZONE INDUSTRIELLE",
+    "averagePriceUnbuiltBuilding": 100000,
+    "averagePriceBuiltBuilding": 200000,
+    "communeId": "cm0aq160y00nkvobal02jg6fd"
+  },
+  {
+    "name": "PORT",
+    "averagePriceUnbuiltBuilding": 100000,
+    "averagePriceBuiltBuilding": 200000,
+    "communeId": "cm0aq160y00nkvobal02jg6fd"
+  },
+  {
+    "name": "NDOBO",
+    "averagePriceUnbuiltBuilding": 11666.66,
+    "averagePriceBuiltBuilding": 23333.33,
+    "communeId": "cm0aq160y00nkvobal02jg6fd"
+  },
+  {
+    "name": "BONAMATOUMBE",
+    "averagePriceUnbuiltBuilding": 11000,
+    "averagePriceBuiltBuilding": 22000,
+    "communeId": "cm0aq160y00nkvobal02jg6fd"
+  },
+  {
+    "name": "BONJONGO",
+    "averagePriceUnbuiltBuilding": 15000,
+    "averagePriceBuiltBuilding": 22500,
+    "communeId": "cm0aq160y00nkvobal02jg6fd"
+  },
+  {
+    "name": "BONAMBAPPE",
+    "averagePriceUnbuiltBuilding": 35000,
+    "averagePriceBuiltBuilding": 70000,
+    "communeId": "cm0aq160y00nkvobal02jg6fd"
+  },
+  {
+    "name": "BESSEKE",
+    "averagePriceUnbuiltBuilding": 31666,
+    "averagePriceBuiltBuilding": 63333,
+    "communeId": "cm0aq160y00nkvobal02jg6fd"
+  },
+  {
+    "name": "NGWELE",
+    "averagePriceUnbuiltBuilding": 16666,
+    "averagePriceBuiltBuilding": 33333,
+    "communeId": "cm0aq160y00nkvobal02jg6fd"
+  },
+  {
+    "name": "SODIKO",
+    "averagePriceUnbuiltBuilding": 20000,
+    "averagePriceBuiltBuilding": 40000,
+    "communeId": "cm0aq160y00nkvobal02jg6fd"
+  },
+  {
+    "name": "BONASSAMA",
+    "averagePriceUnbuiltBuilding": 31250,
+    "averagePriceBuiltBuilding": 62500,
+    "communeId": "cm0aq160y00nkvobal02jg6fd"
+  },
+  {
+    "name": "BONAMIKANO",
+    "averagePriceUnbuiltBuilding": 26666,
+    "averagePriceBuiltBuilding": 53333,
+    "communeId": "cm0aq160y00nkvobal02jg6fd"
+  },
+  {
+    "name": "BILINGUE",
+    "averagePriceUnbuiltBuilding": 10000,
+    "averagePriceBuiltBuilding": 20000,
+    "communeId": "cm0aq160y00nkvobal02jg6fd"
+  },
+  {
+    "name": "GRAND HANGARD",
+    "averagePriceUnbuiltBuilding": 10000,
+    "averagePriceBuiltBuilding": 20000,
+    "communeId": "cm0aq160y00nkvobal02jg6fd"
+  },
+  {
+    "name": "BANEN",
+    "averagePriceUnbuiltBuilding": 17500,
+    "communeId": "cm0aq160y00nkvobal02jg6fd"
+  },
+  {
+    "name": "BONENDALE",
+    "averagePriceUnbuiltBuilding": 10000,
+    "averagePriceBuiltBuilding": 17500,
+    "communeId": "cm0aq160y00nkvobal02jg6fd"
+  },
+  {
+    "name": "DIKOLLO",
+    "averagePriceUnbuiltBuilding": 20000,
+    "averagePriceBuiltBuilding": 27500,
+    "communeId": "cm0aq160y00nkvobal02jg6fd"
+  },
+  {
+    "name": "MPONJO",
+    "averagePriceUnbuiltBuilding": 20000,
+    "averagePriceBuiltBuilding": 40000,
+    "communeId": "cm0aq160y00nkvobal02jg6fd"
+  },
+  {
+    "name": "NANGAH",
+    "averagePriceUnbuiltBuilding": 20000,
+    "averagePriceBuiltBuilding": 40000,
+    "communeId": "cm0aq160y00nkvobal02jg6fd"
+  },
+  {
+    "name": "MINKWELLE",
+    "averagePriceUnbuiltBuilding": 5000,
+    "averagePriceBuiltBuilding": 10000,
+    "communeId": "cm0aq160y00nkvobal02jg6fd"
+  },
+  {
+    "name": "BONABOULOU",
+    "averagePriceUnbuiltBuilding": 5000,
+    "averagePriceBuiltBuilding": 10000,
+    "communeId": "cm0aq160y00nkvobal02jg6fd"
+  },
+  {
+    "name": "BONADIBOKO",
+    "averagePriceUnbuiltBuilding": 5000,
+    "averagePriceBuiltBuilding": 10000,
+    "communeId": "cm0aq160y00nkvobal02jg6fd"
+  },
+  {
+    "name": "BONADJANGWA",
+    "averagePriceUnbuiltBuilding": 5000,
+    "averagePriceBuiltBuilding": 10000,
+    "communeId": "cm0aq160y00nkvobal02jg6fd"
+  },
+  {
+    "name": "BONALEMBE",
+    "averagePriceUnbuiltBuilding": 5000,
+    "averagePriceBuiltBuilding": 10000,
+    "communeId": "cm0aq160y00nkvobal02jg6fd"
+  },
+  {
+    "name": "BONAMBONGO",
+    "averagePriceUnbuiltBuilding": 5000,
+    "averagePriceBuiltBuilding": 10000,
+    "communeId": "cm0aq160y00nkvobal02jg6fd"
+  },
+  {
+    "name": "BONATUTO",
+    "averagePriceUnbuiltBuilding": 5000,
+    "averagePriceBuiltBuilding": 10000,
+    "communeId": "cm0aq160y00nkvobal02jg6fd"
+  },
+  {
+    "name": "DIPOMO",
+    "averagePriceUnbuiltBuilding": 5000,
+    "averagePriceBuiltBuilding": 10000,
+    "communeId": "cm0aq160y00nkvobal02jg6fd"
+  },
+  {
+    "name": "BEPENDA",
+    "averagePriceUnbuiltBuilding": 27586,
+    "averagePriceBuiltBuilding": 55172,
+    "communeId": "cm0aq160z00nmvoba9ohenk1y"
+  },
+  {
+    "name": "BONAMOUSSADI",
+    "averagePriceUnbuiltBuilding": 75000,
+    "averagePriceBuiltBuilding": 150000,
+    "communeId": "cm0aq160z00nmvoba9ohenk1y"
+  },
+  {
+    "name": "NDOKOTI",
+    "averagePriceUnbuiltBuilding": 100000,
+    "averagePriceBuiltBuilding": 200000,
+    "communeId": "cm0aq160z00nmvoba9ohenk1y"
+  },
+  {
+    "name": "CITE CICAM",
+    "averagePriceUnbuiltBuilding": 47727,
+    "averagePriceBuiltBuilding": 95454,
+    "communeId": "cm0aq160z00nmvoba9ohenk1y"
+  },
+  {
+    "name": "LOGPOM",
+    "averagePriceUnbuiltBuilding": 36875,
+    "averagePriceBuiltBuilding": 73750,
+    "communeId": "cm0aq160z00nmvoba9ohenk1y"
+  },
+  {
+    "name": "LOGBESSOU I",
+    "averagePriceUnbuiltBuilding": 15000,
+    "averagePriceBuiltBuilding": 30000,
+    "communeId": "cm0aq160z00nmvoba9ohenk1y"
+  },
+  {
+    "name": "MAKEPE",
+    "averagePriceUnbuiltBuilding": 66818.18,
+    "averagePriceBuiltBuilding": 133636.36,
+    "communeId": "cm0aq160z00nmvoba9ohenk1y"
+  },
+  {
+    "name": "NDOGBONG",
+    "averagePriceUnbuiltBuilding": 39615.38,
+    "averagePriceBuiltBuilding": 79230.76,
+    "communeId": "cm0aq160z00nmvoba9ohenk1y"
+  },
+  {
+    "name": "BANGUE",
+    "averagePriceUnbuiltBuilding": 10000,
+    "averagePriceBuiltBuilding": 20000,
+    "communeId": "cm0aq160z00nmvoba9ohenk1y"
+  },
+  {
+    "name": "BEEDI",
+    "averagePriceUnbuiltBuilding": 25000,
+    "averagePriceBuiltBuilding": 50000,
+    "communeId": "cm0aq160z00nmvoba9ohenk1y"
+  },
+  {
+    "name": "CITE DES PALMIERS",
+    "averagePriceUnbuiltBuilding": 50000,
+    "averagePriceBuiltBuilding": 100000,
+    "communeId": "cm0aq160z00nmvoba9ohenk1y"
+  },
+  {
+    "name": "KOTTO",
+    "averagePriceUnbuiltBuilding": 75000,
+    "averagePriceBuiltBuilding": 150000,
+    "communeId": "cm0aq160z00nmvoba9ohenk1y"
+  },
+  {
+    "name": "PK 8 KONDI",
+    "averagePriceUnbuiltBuilding": 20000,
+    "averagePriceBuiltBuilding": 40000,
+    "communeId": "cm0aq160z00nmvoba9ohenk1y"
+  },
+  {
+    "name": "LENDI",
+    "averagePriceUnbuiltBuilding": 10000,
+    "averagePriceBuiltBuilding": 20000,
+    "communeId": "cm0aq160z00nmvoba9ohenk1y"
+  },
+  {
+    "name": "NGOMA",
+    "averagePriceUnbuiltBuilding": 10000,
+    "averagePriceBuiltBuilding": 20000,
+    "communeId": "cm0aq160z00nmvoba9ohenk1y"
+  },
+  {
+    "name": "NGOMBE",
+    "averagePriceUnbuiltBuilding": 10000,
+    "averagePriceBuiltBuilding": 20000,
+    "communeId": "cm0aq160z00nmvoba9ohenk1y"
+  },
+  {
+    "name": "PK 17",
+    "averagePriceUnbuiltBuilding": 10000,
+    "averagePriceBuiltBuilding": 20000,
+    "communeId": "cm0aq160z00nmvoba9ohenk1y"
+  },
+  {
+    "name": "BASTOS EKOUDOU",
+    "averagePriceUnbuiltBuilding": 150000,
+    "averagePriceBuiltBuilding": 300000,
+    "communeId": "cm0aq15vf00gqvoba6dp9xplv"
+  },
+  {
+    "name": "BASTOS NTOUGOU",
+    "averagePriceUnbuiltBuilding": 150000,
+    "averagePriceBuiltBuilding": 300000,
+    "communeId": "cm0aq15vf00gqvoba6dp9xplv"
+  },
+  {
+    "name": "BASTOS EKOUDOU",
+    "averagePriceUnbuiltBuilding": 150000,
+    "averagePriceBuiltBuilding": 300000,
+    "communeId": "cm0aq15vf00gqvoba6dp9xplv"
+  },
+  {
+    "name": "CNETRE COMMERCIAL",
+    "averagePriceUnbuiltBuilding": 150000,
+    "averagePriceBuiltBuilding": 300000,
+    "communeId": "cm0aq15vf00gqvoba6dp9xplv"
+  },
+  {
+    "name": "ELIG ESSONO",
+    "averagePriceUnbuiltBuilding": 100000,
+    "averagePriceBuiltBuilding": 200000,
+    "communeId": "cm0aq15vf00gqvoba6dp9xplv"
+  },
+  {
+    "name": "EMANA",
+    "averagePriceUnbuiltBuilding": 17500,
+    "averagePriceBuiltBuilding": 30000,
+    "communeId": "cm0aq15vf00gqvoba6dp9xplv"
+  },
+  {
+    "name": "ETOA MMEKI",
+    "averagePriceUnbuiltBuilding": 75000,
+    "averagePriceBuiltBuilding": 150000,
+    "communeId": "cm0aq15vf00gqvoba6dp9xplv"
+  },
+  {
+    "name": "ETOUDI",
+    "averagePriceUnbuiltBuilding": 60833,
+    "averagePriceBuiltBuilding": 121666,
+    "communeId": "cm0aq15vf00gqvoba6dp9xplv"
+  },
+  {
+    "name": "HYPPODROME",
+    "averagePriceUnbuiltBuilding": 100000,
+    "averagePriceBuiltBuilding": 200000,
+    "communeId": "cm0aq15vf00gqvoba6dp9xplv"
+  },
+  {
+    "name": "MBALLA 1",
+    "averagePriceUnbuiltBuilding": 25000,
+    "averagePriceBuiltBuilding": 50000,
+    "communeId": "cm0aq15vf00gqvoba6dp9xplv"
+  },
+  {
+    "name": "MBALLA 2",
+    "averagePriceUnbuiltBuilding": 100000,
+    "averagePriceBuiltBuilding": 200000,
+    "communeId": "cm0aq15vf00gqvoba6dp9xplv"
+  },
+  {
+    "name": "MBALLA 3",
+    "averagePriceUnbuiltBuilding": 30000,
+    "averagePriceBuiltBuilding": 60000,
+    "communeId": "cm0aq15vf00gqvoba6dp9xplv"
+  },
+  {
+    "name": "MBALLA 4",
+    "averagePriceUnbuiltBuilding": 75000,
+    "averagePriceBuiltBuilding": 150000,
+    "communeId": "cm0aq15vf00gqvoba6dp9xplv"
+  },
+  {
+    "name": "MBALLA 5",
+    "averagePriceUnbuiltBuilding": 75000,
+    "averagePriceBuiltBuilding": 150000,
+    "communeId": "cm0aq15vf00gqvoba6dp9xplv"
+  },
+  {
+    "name": "MBALLA 6",
+    "averagePriceUnbuiltBuilding": 75000,
+    "averagePriceBuiltBuilding": 150000,
+    "communeId": "cm0aq15vf00gqvoba6dp9xplv"
+  },
+  {
+    "name": "MESSASSI",
+    "averagePriceUnbuiltBuilding": 15000,
+    "averagePriceBuiltBuilding": 30000,
+    "communeId": "cm0aq15vf00gqvoba6dp9xplv"
+  },
+  {
+    "name": "NKOL ETON",
+    "averagePriceUnbuiltBuilding": 75000,
+    "averagePriceBuiltBuilding": 150000,
+    "communeId": "cm0aq15vf00gqvoba6dp9xplv"
+  },
+  {
+    "name": "NKOLBONG",
+    "averagePriceUnbuiltBuilding": 10000,
+    "averagePriceBuiltBuilding": 20000,
+    "communeId": "cm0aq15vf00gqvoba6dp9xplv"
+  },
+  {
+    "name": "NKOLONDOM",
+    "averagePriceUnbuiltBuilding": 20000,
+    "averagePriceBuiltBuilding": 40000,
+    "communeId": "cm0aq15vf00gqvoba6dp9xplv"
+  },
+  {
+    "name": "NKOLONDOM",
+    "averagePriceUnbuiltBuilding": 100000,
+    "averagePriceBuiltBuilding": 200000,
+    "communeId": "cm0aq15vf00gqvoba6dp9xplv"
+  },
+  {
+    "name": "NYOM",
+    "averagePriceUnbuiltBuilding": 13500,
+    "averagePriceBuiltBuilding": 27500,
+    "communeId": "cm0aq15vf00gqvoba6dp9xplv"
+  },
+  {
+    "name": "OKOLO",
+    "averagePriceUnbuiltBuilding": 15000,
+    "averagePriceBuiltBuilding": 30000,
+    "communeId": "cm0aq15vf00gqvoba6dp9xplv"
+  },
+  {
+    "name": "OLEMBE",
+    "averagePriceUnbuiltBuilding": 15000,
+    "averagePriceBuiltBuilding": 30000,
+    "communeId": "cm0aq15vf00gqvoba6dp9xplv"
+  },
+  {
+    "name": "TSINGA VILLAGE",
+    "averagePriceUnbuiltBuilding": 10000,
+    "averagePriceBuiltBuilding": 20000,
+    "communeId": "cm0aq15vf00gqvoba6dp9xplv"
+  },
+  {
+    "name": "AZEGUE",
+    "averagePriceUnbuiltBuilding": 50000,
+    "averagePriceBuiltBuilding": 100000,
+    "communeId": "cm0aq15vm00gsvoba1rckzvqa"
+  },
+  {
+    "name": "CITE VERTE",
+    "averagePriceUnbuiltBuilding": 46666,
+    "averagePriceBuiltBuilding": 93333,
+    "communeId": "cm0aq15vm00gsvoba1rckzvqa"
+  },
+  {
+    "name": "BRIQUETERIE",
+    "averagePriceUnbuiltBuilding": 55000,
+    "averagePriceBuiltBuilding": 120000,
+    "communeId": "cm0aq15vm00gsvoba1rckzvqa"
+  },
+  {
+    "name": "EKOUDOU",
+    "averagePriceUnbuiltBuilding": 35000,
+    "averagePriceBuiltBuilding": 70000,
+    "communeId": "cm0aq15vm00gsvoba1rckzvqa"
+  },
+  {
+    "name": "ETETACK",
+    "averagePriceUnbuiltBuilding": 15000,
+    "averagePriceBuiltBuilding": 30000,
+    "communeId": "cm0aq15vm00gsvoba1rckzvqa"
+  },
+  {
+    "name": "FEBE",
+    "averagePriceUnbuiltBuilding": 51666,
+    "averagePriceBuiltBuilding": 103333,
+    "communeId": "cm0aq15vm00gsvoba1rckzvqa"
+  },
+  {
+    "name": "GOLF",
+    "averagePriceUnbuiltBuilding": 200000,
+    "averagePriceBuiltBuilding": 400000,
+    "communeId": "cm0aq15vm00gsvoba1rckzvqa"
+  },
+  {
+    "name": "MADAGASCAR",
+    "averagePriceUnbuiltBuilding": 56000,
+    "averagePriceBuiltBuilding": 112000,
+    "communeId": "cm0aq15vm00gsvoba1rckzvqa"
+  },
+  {
+    "name": "MBANKOLO",
+    "averagePriceUnbuiltBuilding": 23333,
+    "averagePriceBuiltBuilding": 46666,
+    "communeId": "cm0aq15vm00gsvoba1rckzvqa"
+  },
+  {
+    "name": "MESSA",
+    "averagePriceUnbuiltBuilding": 100000,
+    "averagePriceBuiltBuilding": 200000,
+    "communeId": "cm0aq15vm00gsvoba1rckzvqa"
+  },
+  {
+    "name": "MESSA CARRIERE",
+    "averagePriceUnbuiltBuilding": 25000,
+    "averagePriceBuiltBuilding": 50000,
+    "communeId": "cm0aq15vm00gsvoba1rckzvqa"
+  },
+  {
+    "name": "MOKOLO",
+    "averagePriceUnbuiltBuilding": 73333,
+    "averagePriceBuiltBuilding": 146666,
+    "communeId": "cm0aq15vm00gsvoba1rckzvqa"
+  },
+  {
+    "name": "NDINDAN",
+    "averagePriceUnbuiltBuilding": 150000,
+    "averagePriceBuiltBuilding": 300000,
+    "communeId": "cm0aq15vm00gsvoba1rckzvqa"
+  },
+  {
+    "name": "NKOMKANA",
+    "averagePriceUnbuiltBuilding": 43500,
+    "averagePriceBuiltBuilding": 77000,
+    "communeId": "cm0aq15vm00gsvoba1rckzvqa"
+  },
+  {
+    "name": "NTOUGOU",
+    "averagePriceUnbuiltBuilding": 133333,
+    "averagePriceBuiltBuilding": 266666,
+    "communeId": "cm0aq15vm00gsvoba1rckzvqa"
+  },
+  {
+    "name": "OLIGA",
+    "averagePriceUnbuiltBuilding": 110000,
+    "averagePriceBuiltBuilding": 216666,
+    "communeId": "cm0aq15vm00gsvoba1rckzvqa"
+  },
+  {
+    "name": "TSINGA",
+    "averagePriceUnbuiltBuilding": 112222,
+    "averagePriceBuiltBuilding": 224444,
+    "communeId": "cm0aq15vm00gsvoba1rckzvqa"
+  },
+  {
+    "name": "AFAN OYOA",
+    "averagePriceUnbuiltBuilding": 10000,
+    "averagePriceBuiltBuilding": 20000,
+    "communeId": "cm0aq15vn00guvobaltswnub8"
+  },
+  {
+    "name": "AHALA",
+    "averagePriceUnbuiltBuilding": 34285,
+    "averagePriceBuiltBuilding": 68571,
+    "communeId": "cm0aq15vn00guvobaltswnub8"
+  },
+  {
+    "name": "BIYEM-ASSI",
+    "averagePriceUnbuiltBuilding": 30000,
+    "averagePriceBuiltBuilding": 60000,
+    "communeId": "cm0aq15vn00guvobaltswnub8"
+  },
+  {
+    "name": "DAKAR",
+    "averagePriceUnbuiltBuilding": 20000,
+    "averagePriceBuiltBuilding": 40000,
+    "communeId": "cm0aq15vn00guvobaltswnub8"
+  },
+  {
+    "name": "AFOULAN",
+    "averagePriceUnbuiltBuilding": 23571,
+    "averagePriceBuiltBuilding": 47142,
+    "communeId": "cm0aq15vn00guvobaltswnub8"
+  },
+  {
+    "name": "ELIG-EFFA",
+    "averagePriceUnbuiltBuilding": 35000,
+    "averagePriceBuiltBuilding": 70000,
+    "communeId": "cm0aq15vn00guvobaltswnub8"
+  },
+  {
+    "name": "ETOA",
+    "averagePriceUnbuiltBuilding": 10000,
+    "averagePriceBuiltBuilding": 20000,
+    "communeId": "cm0aq15vn00guvobaltswnub8"
+  },
+  {
+    "name": "EZALA",
+    "averagePriceUnbuiltBuilding": 7000,
+    "averagePriceBuiltBuilding": 15000,
+    "communeId": "cm0aq15vn00guvobaltswnub8"
+  },
+  {
+    "name": "MBALIGON",
+    "averagePriceUnbuiltBuilding": 10000,
+    "averagePriceBuiltBuilding": 20000,
+    "communeId": "cm0aq15vn00guvobaltswnub8"
+  },
+  {
+    "name": "MELEN",
+    "averagePriceUnbuiltBuilding": 100000,
+    "averagePriceBuiltBuilding": 200000,
+    "communeId": "cm0aq15vn00guvobaltswnub8"
+  },
+  {
+    "name": "MFOUNDI'ASSI",
+    "averagePriceUnbuiltBuilding": 100000,
+    "averagePriceBuiltBuilding": 200000,
+    "communeId": "cm0aq15vn00guvobaltswnub8"
+  },
+  {
+    "name": "NGOA EKELLE",
+    "averagePriceUnbuiltBuilding": 70000,
+    "averagePriceBuiltBuilding": 140000,
+    "communeId": "cm0aq15vn00guvobaltswnub8"
+  },
+  {
+    "name": "NSAM",
+    "averagePriceUnbuiltBuilding": 53333,
+    "averagePriceBuiltBuilding": 106666,
+    "communeId": "cm0aq15vn00guvobaltswnub8"
+  },
+  {
+    "name": "NSIMEYONG",
+    "averagePriceUnbuiltBuilding": 25000,
+    "averagePriceBuiltBuilding": 50000,
+    "communeId": "cm0aq15vn00guvobaltswnub8"
+  },
+  {
+    "name": "NSIMEYONG 1",
+    "averagePriceUnbuiltBuilding": 30000,
+    "averagePriceBuiltBuilding": 60000,
+    "communeId": "cm0aq15vn00guvobaltswnub8"
+  },
+  {
+    "name": "NSIMEYONG 2",
+    "averagePriceUnbuiltBuilding": 30000,
+    "averagePriceBuiltBuilding": 60000,
+    "communeId": "cm0aq15vn00guvobaltswnub8"
+  },
+  {
+    "name": "NSIMEYONG 3",
+    "averagePriceUnbuiltBuilding": 25000,
+    "averagePriceBuiltBuilding": 50000,
+    "communeId": "cm0aq15vn00guvobaltswnub8"
+  },
+  {
+    "name": "NSIMEYONG 4",
+    "averagePriceUnbuiltBuilding": 25000,
+    "averagePriceBuiltBuilding": 50000,
+    "communeId": "cm0aq15vn00guvobaltswnub8"
+  },
+  {
+    "name": "NSIMEYONG 5",
+    "averagePriceUnbuiltBuilding": 25000,
+    "averagePriceBuiltBuilding": 50000,
+    "communeId": "cm0aq15vn00guvobaltswnub8"
+  },
+  {
+    "name": "OBILI",
+    "averagePriceUnbuiltBuilding": 60000,
+    "averagePriceBuiltBuilding": 120000,
+    "communeId": "cm0aq15vn00guvobaltswnub8"
+  },
+  {
+    "name": "OBOBOGO",
+    "averagePriceUnbuiltBuilding": 25000,
+    "averagePriceBuiltBuilding": 50000,
+    "communeId": "cm0aq15vn00guvobaltswnub8"
+  },
+  {
+    "name": "OLEZOA",
+    "averagePriceUnbuiltBuilding": 75000,
+    "averagePriceBuiltBuilding": 150000,
+    "communeId": "cm0aq15vn00guvobaltswnub8"
+  },
+  {
+    "name": "ABOME",
+    "averagePriceUnbuiltBuilding": 10000,
+    "averagePriceBuiltBuilding": 20000,
+    "communeId": "cm0aq15vy00gwvoba33kkag02"
+  },
+  {
+    "name": "ANGUISSA",
+    "averagePriceUnbuiltBuilding": 27500,
+    "averagePriceBuiltBuilding": 55000,
+    "communeId": "cm0aq15vy00gwvoba33kkag02"
+  },
+  {
+    "name": "AWAE MVOG MANGA",
+    "averagePriceUnbuiltBuilding": 16666,
+    "averagePriceBuiltBuilding": 33333,
+    "communeId": "cm0aq15vy00gwvoba33kkag02"
+  },
+  {
+    "name": "BITENG",
+    "averagePriceUnbuiltBuilding": 27500,
+    "averagePriceBuiltBuilding": 55000,
+    "communeId": "cm0aq15vy00gwvoba33kkag02"
+  },
+  {
+    "name": "EKIE",
+    "averagePriceUnbuiltBuilding": 35000,
+    "averagePriceBuiltBuilding": 70000,
+    "communeId": "cm0aq15vy00gwvoba33kkag02"
+  },
+  {
+    "name": "EKOUMDOUM",
+    "averagePriceUnbuiltBuilding": 25000,
+    "averagePriceBuiltBuilding": 50000,
+    "communeId": "cm0aq15vy00gwvoba33kkag02"
+  },
+  {
+    "name": "EKOUNOU",
+    "averagePriceUnbuiltBuilding": 40000,
+    "averagePriceBuiltBuilding": 80000,
+    "communeId": "cm0aq15vy00gwvoba33kkag02"
+  },
+  {
+    "name": "ELIG-EDOU",
+    "averagePriceUnbuiltBuilding": 30000,
+    "averagePriceBuiltBuilding": 60000,
+    "communeId": "cm0aq15vy00gwvoba33kkag02"
+  },
+  {
+    "name": "EMOMBO",
+    "averagePriceUnbuiltBuilding": 35000,
+    "averagePriceBuiltBuilding": 70000,
+    "communeId": "cm0aq15vy00gwvoba33kkag02"
+  },
+  {
+    "name": "ETAM-BAFIA",
+    "averagePriceUnbuiltBuilding": 25000,
+    "averagePriceBuiltBuilding": 50000,
+    "communeId": "cm0aq15vy00gwvoba33kkag02"
+  },
+  {
+    "name": "EWOUKANG",
+    "averagePriceUnbuiltBuilding": 25000,
+    "averagePriceBuiltBuilding": 50000,
+    "communeId": "cm0aq15vy00gwvoba33kkag02"
+  },
+  {
+    "name": "KONDENGUI",
+    "averagePriceUnbuiltBuilding": 28000,
+    "averagePriceBuiltBuilding": 56000,
+    "communeId": "cm0aq15vy00gwvoba33kkag02"
+  },
+  {
+    "name": "MBOG-ABANG",
+    "averagePriceUnbuiltBuilding": 22500,
+    "averagePriceBuiltBuilding": 45000,
+    "communeId": "cm0aq15vy00gwvoba33kkag02"
+  },
+  {
+    "name": "MESSAMENDONGO",
+    "averagePriceUnbuiltBuilding": 32500,
+    "averagePriceBuiltBuilding": 65000,
+    "communeId": "cm0aq15vy00gwvoba33kkag02"
+  },
+  {
+    "name": "MIMBOMAN",
+    "averagePriceUnbuiltBuilding": 40000,
+    "averagePriceBuiltBuilding": 80000,
+    "communeId": "cm0aq15vy00gwvoba33kkag02"
+  },
+  {
+    "name": "MINKAN",
+    "averagePriceUnbuiltBuilding": 15000,
+    "averagePriceBuiltBuilding": 30000,
+    "communeId": "cm0aq15vy00gwvoba33kkag02"
+  },
+  {
+    "name": "MVAN",
+    "averagePriceUnbuiltBuilding": 55833,
+    "averagePriceBuiltBuilding": 111666,
+    "communeId": "cm0aq15vy00gwvoba33kkag02"
+  },
+  {
+    "name": "MVOG-MBI",
+    "averagePriceUnbuiltBuilding": 100000,
+    "averagePriceBuiltBuilding": 200000,
+    "communeId": "cm0aq15vy00gwvoba33kkag02"
+  },
+  {
+    "name": "NDAMVOUT",
+    "averagePriceUnbuiltBuilding": 76666,
+    "averagePriceBuiltBuilding": 153333,
+    "communeId": "cm0aq15vy00gwvoba33kkag02"
+  },
+  {
+    "name": "NKOLANGA",
+    "averagePriceUnbuiltBuilding": 25000,
+    "averagePriceBuiltBuilding": 50000,
+    "communeId": "cm0aq15vy00gwvoba33kkag02"
+  },
+  {
+    "name": "NKOLDONGO",
+    "averagePriceUnbuiltBuilding": 51666,
+    "averagePriceBuiltBuilding": 101111,
+    "communeId": "cm0aq15vy00gwvoba33kkag02"
+  },
+  {
+    "name": "NKOLO",
+    "averagePriceUnbuiltBuilding": 10000,
+    "averagePriceBuiltBuilding": 20000,
+    "communeId": "cm0aq15vy00gwvoba33kkag02"
+  },
+  {
+    "name": "NKOMO",
+    "averagePriceUnbuiltBuilding": 60000,
+    "averagePriceBuiltBuilding": 120000,
+    "communeId": "cm0aq15vy00gwvoba33kkag02"
+  },
+  {
+    "name": "NTUI-ESSONG",
+    "averagePriceUnbuiltBuilding": 10000,
+    "averagePriceBuiltBuilding": 20000,
+    "communeId": "cm0aq15vy00gwvoba33kkag02"
+  },
+  {
+    "name": "ODZA",
+    "averagePriceUnbuiltBuilding": 42500,
+    "averagePriceBuiltBuilding": 85000,
+    "communeId": "cm0aq15vy00gwvoba33kkag02"
+  },
+  {
+    "name": "TOUTOULI",
+    "averagePriceUnbuiltBuilding": 10000,
+    "averagePriceBuiltBuilding": 20000,
+    "communeId": "cm0aq15vy00gwvoba33kkag02"
+  },
+  {
+    "name": "ESSOS",
+    "averagePriceUnbuiltBuilding": 93750,
+    "averagePriceBuiltBuilding": 187500,
+    "communeId": "cm0aq15w000gyvobac93yxic4"
+  },
+  {
+    "name": "MFANDENA",
+    "averagePriceUnbuiltBuilding": 106666,
+    "averagePriceBuiltBuilding": 183333,
+    "communeId": "cm0aq15w000gyvobac93yxic4"
+  },
+  {
+    "name": "MVOG-ADA",
+    "averagePriceUnbuiltBuilding": 61000,
+    "averagePriceBuiltBuilding": 122000,
+    "communeId": "cm0aq15w000gyvobac93yxic4"
+  },
+  {
+    "name": "MVOG-EBANDA",
+    "averagePriceUnbuiltBuilding": 25000,
+    "averagePriceBuiltBuilding": 50000,
+    "communeId": "cm0aq15w000gyvobac93yxic4"
+  },
+  {
+    "name": "NGOULMEKONG",
+    "averagePriceUnbuiltBuilding": 17500,
+    "averagePriceBuiltBuilding": 35000,
+    "communeId": "cm0aq15w000gyvobac93yxic4"
+  },
+  {
+    "name": "NGOUSSO",
+    "averagePriceUnbuiltBuilding": 75000,
+    "averagePriceBuiltBuilding": 150000,
+    "communeId": "cm0aq15w000gyvobac93yxic4"
+  },
+  {
+    "name": "NKOL EBOGO",
+    "averagePriceUnbuiltBuilding": 75000,
+    "averagePriceBuiltBuilding": 150000,
+    "communeId": "cm0aq15w000gyvobac93yxic4"
+  },
+  {
+    "name": "NKOL-MESSENG",
+    "averagePriceUnbuiltBuilding": 20000,
+    "averagePriceBuiltBuilding": 40000,
+    "communeId": "cm0aq15w000gyvobac93yxic4"
+  },
+  {
+    "name": "QUARTIER FOUDA",
+    "averagePriceUnbuiltBuilding": 75000,
+    "averagePriceBuiltBuilding": 150000,
+    "communeId": "cm0aq15w000gyvobac93yxic4"
+  },
+  {
+    "name": "BIYEM-ASSI",
+    "averagePriceUnbuiltBuilding": 55416,
+    "averagePriceBuiltBuilding": 110833,
+    "communeId": "cm0aq15w100h0voba4s7gza38"
+  },
+  {
+    "name": "ELIG EFFA",
+    "averagePriceUnbuiltBuilding": 35000,
+    "averagePriceBuiltBuilding": 70000,
+    "communeId": "cm0aq15w100h0voba4s7gza38"
+  },
+  {
+    "name": "ETOUG-EBE",
+    "averagePriceUnbuiltBuilding": 28000,
+    "averagePriceBuiltBuilding": 56000,
+    "communeId": "cm0aq15w100h0voba4s7gza38"
+  },
+  {
+    "name": "MELEN",
+    "averagePriceUnbuiltBuilding": 75000,
+    "averagePriceBuiltBuilding": 150000,
+    "communeId": "cm0aq15w100h0voba4s7gza38"
+  },
+  {
+    "name": "MELEN ARRIERE PLAN",
+    "averagePriceUnbuiltBuilding": 100000,
+    "averagePriceBuiltBuilding": 200000,
+    "communeId": "cm0aq15w100h0voba4s7gza38"
+  },
+  {
+    "name": "MELEN",
+    "averagePriceUnbuiltBuilding": 41000,
+    "averagePriceBuiltBuilding": 82000,
+    "communeId": "cm0aq15w100h0voba4s7gza38"
+  },
+  {
+    "name": "MENDONG",
+    "averagePriceUnbuiltBuilding": 36875,
+    "averagePriceBuiltBuilding": 70375,
+    "communeId": "cm0aq15w100h0voba4s7gza38"
+  },
+  {
+    "name": "MESSA",
+    "averagePriceUnbuiltBuilding": 100000,
+    "averagePriceBuiltBuilding": 166666,
+    "communeId": "cm0aq15w100h0voba4s7gza38"
+  },
+  {
+    "name": "NKOL-BIKOK",
+    "averagePriceUnbuiltBuilding": 30000,
+    "averagePriceBuiltBuilding": 60000,
+    "communeId": "cm0aq15w100h0voba4s7gza38"
+  },
+  {
+    "name": "SIMBOCK",
+    "averagePriceUnbuiltBuilding": 25000,
+    "averagePriceBuiltBuilding": 50000,
+    "communeId": "cm0aq15w100h0voba4s7gza38"
+  },
+  {
+    "name": "AKOK NDOE",
+    "averagePriceUnbuiltBuilding": 10000,
+    "averagePriceBuiltBuilding": 20000,
+    "communeId": "cm0aq15w200h2vobaz64mkrrd"
+  },
+  {
+    "name": "EBOT MEFOU",
+    "averagePriceUnbuiltBuilding": 20000,
+    "averagePriceBuiltBuilding": 40000,
+    "communeId": "cm0aq15w200h2vobaz64mkrrd"
+  },
+  {
+    "name": "EKOREZOCK",
+    "averagePriceUnbuiltBuilding": 20000,
+    "averagePriceBuiltBuilding": 40000,
+    "communeId": "cm0aq15w200h2vobaz64mkrrd"
+  },
+  {
+    "name": "ETETAK",
+    "averagePriceUnbuiltBuilding": 20000,
+    "averagePriceBuiltBuilding": 40000,
+    "communeId": "cm0aq15w200h2vobaz64mkrrd"
+  },
+  {
+    "name": "MBOG DOUM",
+    "averagePriceUnbuiltBuilding": 25000,
+    "averagePriceBuiltBuilding": 50000,
+    "communeId": "cm0aq15w200h2vobaz64mkrrd"
+  },
+  {
+    "name": "MESSEBE",
+    "averagePriceUnbuiltBuilding": 20000,
+    "averagePriceBuiltBuilding": 40000,
+    "communeId": "cm0aq15w200h2vobaz64mkrrd"
+  },
+  {
+    "name": "MINKOA MEYOS",
+    "averagePriceUnbuiltBuilding": 20000,
+    "averagePriceBuiltBuilding": 40000,
+    "communeId": "cm0aq15w200h2vobaz64mkrrd"
+  },
+  {
+    "name": "NDAM VOUTH",
+    "averagePriceUnbuiltBuilding": 15000,
+    "averagePriceBuiltBuilding": 30000,
+    "communeId": "cm0aq15w200h2vobaz64mkrrd"
+  },
+  {
+    "name": "NKOL NKOUMOU",
+    "averagePriceUnbuiltBuilding": 10000,
+    "averagePriceBuiltBuilding": 20000,
+    "communeId": "cm0aq15w200h2vobaz64mkrrd"
+  },
+  {
+    "name": "NKOL SO'O",
+    "averagePriceUnbuiltBuilding": 21666,
+    "averagePriceBuiltBuilding": 43333,
+    "communeId": "cm0aq15w200h2vobaz64mkrrd"
+  },
+  {
+    "name": "NKOLAFEME",
+    "averagePriceUnbuiltBuilding": 20000,
+    "averagePriceBuiltBuilding": 40000,
+    "communeId": "cm0aq15w200h2vobaz64mkrrd"
+  },
+  {
+    "name": "NKOLBISSONG",
+    "averagePriceUnbuiltBuilding": 27500,
+    "averagePriceBuiltBuilding": 55000,
+    "communeId": "cm0aq15w200h2vobaz64mkrrd"
+  },
+  {
+    "name": "OYOM-ABANG",
+    "averagePriceUnbuiltBuilding": 22000,
+    "averagePriceBuiltBuilding": 40000,
+    "communeId": "cm0aq15w200h2vobaz64mkrrd"
+  }
+]

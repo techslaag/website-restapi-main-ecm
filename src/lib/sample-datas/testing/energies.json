@@ -1,0 +1,105 @@
+[
+  {
+    "name": "Gasoil",
+    "price": 820,
+    "currency": "xaf",
+    "countryId": "clz1vz39w0005632c8x1pkkfz",
+    "successorId": "clzjlbu4s0001rwqve5aizpkz",
+    "measurementId": "clzjkaktc00062kclx3zet8vi"
+  },
+  {
+    "name": "Super",
+    "price": 840,
+    "currency": "xaf",
+    "countryId": "clz1vz39w0005632c8x1pkkfz",
+    "successorId": "clzjlbu4u0003rwqvs0q9m13i",
+    "measurementId": "clzjkaktc00062kclx3zet8vi"
+  },
+  {
+    "name": "Pétrole",
+    "price": 400,
+    "currency": "xaf",
+    "countryId": "clz1vz39w0005632c8x1pkkfz",
+    "successorId": "clzjlbu4y0005rwqvm4rqpeta",
+    "measurementId":  "clzjkaktc00062kclx3zet8vi"
+  },
+  {
+    "name": "Elec. ménages BT",
+    "price": 79,
+    "currency": "xaf",
+    "countryId": "clz1vz39w0005632c8x1pkkfz",
+    "successorId": "clzjlbu500007rwqvvfbvc8kr",
+    "measurementId": "clzjkbf7k00072kclnssm1nko"
+  },
+  {
+    "name": "Elec. ménages MT",
+    "price": 85,
+    "currency": "xaf",
+    "countryId": "clz1vz39w0005632c8x1pkkfz",
+    "successorId": "clzjlbu520009rwqvagnzzyk9",
+    "measurementId": "clzjkbf7k00072kclnssm1nko"
+  },
+  {
+    "name": "Elec. ménages HT",
+    "price": 99,
+    "currency": "xaf",
+    "countryId": "clz1vz39w0005632c8x1pkkfz",
+    "successorId": "clzjlbu54000brwqvhovyws3r",
+    "measurementId": "clzjkbf7k00072kclnssm1nko"
+  },
+  {
+    "name": "Elec. Entreprises BT",
+    "price": 92,
+    "currency": "xaf",
+    "countryId": "clz1vz39w0005632c8x1pkkfz",
+    "successorId": "clzjlbu56000drwqv6f7syj4f",
+    "measurementId": "clzjkbf7k00072kclnssm1nko"
+  },
+  {
+    "name": "Elec. Entreprises MT",
+    "price": 99,
+    "currency": "xaf",
+    "countryId": "clz1vz39w0005632c8x1pkkfz",
+    "successorId": "clzjlbu59000frwqvl5kkhfjr",
+    "measurementId": "clzjkbf7k00072kclnssm1nko"
+  },
+  {
+    "name": "Elec. Entreprises HT",
+    "price": 110,
+    "currency": "xaf",
+    "countryId": "clz1vz39w0005632c8x1pkkfz",
+    "successorId": "clzjlbu5c000hrwqvxx323eda",
+    "measurementId": "clzjkbf7k00072kclnssm1nko"
+  },
+  {
+    "name": "Gaz domestique 12,5Kg",
+    "price": 6500,
+    "currency": "xaf",
+    "countryId": "clz1vz39w0005632c8x1pkkfz",
+    "successorId": "clzjlbu5e000jrwqvjz28ncvv",
+    "measurementId": "clzjkbuih00092kcloflug9vd"
+  },
+  {
+    "name": "Gaz domestique 6,2Kg",
+    "price": 3500,
+    "currency": "xaf",
+    "countryId": "clz1vz39w0005632c8x1pkkfz",
+    "successorId": "clzjlbu5h000lrwqv37ekxl9l",
+    "measurementId": "clzjkc4rv000a2kclyigyu2r6"
+  },
+  {
+    "name": "Gaz domestique 25Kg",
+    "price": 13500,
+    "currency": "xaf",
+    "countryId": "clz1vz39w0005632c8x1pkkfz",
+    "successorId": "clzjlbu5j000nrwqvd1iphp5w",
+    "measurementId": "clzjkcbl3000b2kcl75bfnb2k"
+  },
+  {
+    "name": "Gaz domestique 35Kg",
+    "price": 70000,
+    "currency": "xaf",
+    "countryId": "clz1vz39w0005632c8x1pkkfz",
+    "measurementId": "clzjkcbl3000b2kcl75bfnb2k"
+  }
+]

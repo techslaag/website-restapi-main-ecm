@@ -1,0 +1,417 @@
+[
+  {
+    "name": "Ail",
+    "description": "Ail frais",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "FruitsAndVegetables",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "VitaminsAndMinerals",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Arachide",
+    "description": "Arachides fraîches",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "FruitsAndVegetables",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "Proteins",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Avocat",
+    "description": "Avocats frais",
+    "unitOfMeasurementId": "cm0aqjc6l00sbvoba1kss4eq5",
+    "mainClass": "FruitsAndVegetables",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "Fat",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Ananas",
+    "description": "Ananas frais",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "FruitsAndVegetables",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "Carbohydrates",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Banane dessert",
+    "description": "Bananes dessert fraîches",
+    "unitOfMeasurementId": "cm0aqjidf00sdvobaeuc4n7u9",
+    "mainClass": "FruitsAndVegetables",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "Carbohydrates",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Banane plantain",
+    "description": "Bananes plantain fraîches",
+    "unitOfMeasurementId": "cm0aqjidf00sdvobaeuc4n7u9",
+    "mainClass": "FruitsAndVegetables",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "Carbohydrates",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Baoba en poudre",
+    "description": "Noix et graines diverses",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "FruitsAndVegetables",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "Proteins",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Bongo en poudre",
+    "description": "Noix et graines diverses",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "FruitsAndVegetables",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "Proteins",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Carotte",
+    "description": "Carottes fraîches",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "FruitsAndVegetables",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "VitaminsAndMinerals",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Choux rouge",
+    "description": "Choux rouge frais",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "FruitsAndVegetables",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "VitaminsAndMinerals",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Choux blanc",
+    "description": "Choux blanc frais",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "FruitsAndVegetables",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "VitaminsAndMinerals",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Citron",
+    "description": "Citrons frais",
+    "unitOfMeasurementId": "cm0aqjtxb00sjvobacf1twpj2",
+    "mainClass": "FruitsAndVegetables",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "VitaminsAndMinerals",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Concombre",
+    "description": "Concombres frais",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "FruitsAndVegetables",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "VitaminsAndMinerals",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Djansang",
+    "description": "Djansang frais",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "FruitsAndVegetables",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "Proteins",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Farine de blé",
+    "description": "Farine de blé",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "CerealsAndCerealBasedProducts",
+    "originAndTreatment": "ProcessedProducts",
+    "nutritionalClass": "Carbohydrates",
+    "specialClass": "GlutenFree"
+  },
+  {
+    "name": "Farine de manioc",
+    "description": "Farine de manioc",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "CerealsAndCerealBasedProducts",
+    "originAndTreatment": "ProcessedProducts",
+    "nutritionalClass": "Carbohydrates",
+    "specialClass": "GlutenFree"
+  },
+  {
+    "name": "Farine de maïs",
+    "description": "Farine de maïs",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "CerealsAndCerealBasedProducts",
+    "originAndTreatment": "ProcessedProducts",
+    "nutritionalClass": "Carbohydrates",
+    "specialClass": "GlutenFree"
+  },
+  {
+    "name": "Foléré",
+    "description": "Foléré frais",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "FruitsAndVegetables",
+    "additives": "EmulsifiersAndStabilizers",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "VitaminsAndMinerals",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Gingembre",
+    "description": "Gingembre frais",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "FruitsAndVegetables",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "VitaminsAndMinerals",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Gombo",
+    "description": "Gombo frais",
+    "unitOfMeasurementId": "cm0aqjtxb00sjvobacf1twpj2",
+    "mainClass": "FruitsAndVegetables",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "VitaminsAndMinerals",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Haricot",
+    "description": "Haricots frais",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "FruitsAndVegetables",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "Proteins",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Huile de palme",
+    "description": "Huile de palme",
+    "unitOfMeasurementId": "cm0aqjzeo00snvobaqe3kvxw5",
+    "mainClass": "FatsAndOils",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "Fat",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Huile raffinée",
+    "description": "Huile végétale raffinée",
+    "unitOfMeasurementId": "cm0aqjzeo00snvobaqe3kvxw5",
+    "mainClass": "FatsAndOils",
+    "originAndTreatment": "ProcessedProducts",
+    "nutritionalClass": "Fat"
+  },
+  {
+    "name": "Igname blanc",
+    "description": "Igname blanc frais",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "FruitsAndVegetables",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "Carbohydrates",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Lait en poudre",
+    "description": "Lait en poudre",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "DairyProducts",
+    "originAndTreatment": "ProcessedProducts",
+    "nutritionalClass": "Proteins"
+  },
+  {
+    "name": "Mangue",
+    "description": "Mangues fraîches",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "FruitsAndVegetables",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "VitaminsAndMinerals",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Mil",
+    "description": "Mil",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "CerealsAndCerealBasedProducts",
+    "originAndTreatment": "ProcessedProducts",
+    "nutritionalClass": "Carbohydrates",
+    "specialClass": "GlutenFree"
+  },
+  {
+    "name": "Oignon",
+    "description": "Oignons frais",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "FruitsAndVegetables",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "VitaminsAndMinerals",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Orange",
+    "description": "Oranges fraîches",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "FruitsAndVegetables",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "VitaminsAndMinerals",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Pastèque",
+    "description": "Pastèques fraîches",
+    "unitOfMeasurementId": "cm0aqjc6l00sbvoba1kss4eq5",
+    "mainClass": "FruitsAndVegetables",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "Carbohydrates",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Piment",
+    "description": "Piments frais",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "FruitsAndVegetables",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "VitaminsAndMinerals",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Pistasche",
+    "description": "Pistasche",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "FruitsAndVegetables",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "Proteins",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Poisson",
+    "description": "Poisson frais",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "FishAndFisheryProducts",
+    "originAndTreatment": "ProductsAnimal",
+    "nutritionalClass": "Proteins",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Poivron",
+    "description": "Poivrons frais",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "FruitsAndVegetables",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "VitaminsAndMinerals",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Pomme de terre",
+    "description": "Pommes de terre fraîches",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "FruitsAndVegetables",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "Carbohydrates",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Poulet",
+    "description": "Poulet frais",
+    "unitOfMeasurementId": "cm0aqjtxb00sjvobacf1twpj2",
+    "mainClass": "MeatAndMeatProducts",
+    "originAndTreatment": "ProductsAnimal",
+    "nutritionalClass": "Proteins",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Riz",
+    "description": "Riz",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "CerealsAndCerealBasedProducts",
+    "originAndTreatment": "ProcessedProducts",
+    "nutritionalClass": "Carbohydrates",
+    "specialClass": "GlutenFree"
+  },
+  {
+    "name": "Salade",
+    "description": "Salade verte fraîche",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "Salads",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "VitaminsAndMinerals",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Sel",
+    "description": "Sel de table",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "SaltSpicesSoupsSauces",
+    "originAndTreatment": "ProcessedProducts",
+    "nutritionalClass": "VitaminsAndMinerals"
+  },
+  {
+    "name": "Sucre en poudre blanc",
+    "description": "Sucre en poudre blanc",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "Sweeteners",
+    "originAndTreatment": "ProcessedProducts",
+    "nutritionalClass": "Carbohydrates"
+  },
+  {
+    "name": "Sucre en poudre roux",
+    "description": "Sucre en poudre roux",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "Sweeteners",
+    "originAndTreatment": "ProcessedProducts",
+    "nutritionalClass": "Carbohydrates"
+  },
+  {
+    "name": "Soja en poudre",
+    "description": "Soja en poudre",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "CerealsAndCerealBasedProducts",
+    "originAndTreatment": "ProcessedProducts",
+    "nutritionalClass": "Proteins"
+  },
+  {
+    "name": "Tomate",
+    "description": "Tomates fraîches",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "FruitsAndVegetables",
+    "originAndTreatment": "ProductsPlant",
+    "nutritionalClass": "VitaminsAndMinerals",
+    "specialClass": "Organic"
+  },
+  {
+    "name": "Tapioca jaune",
+    "description": "Tapioca jaune",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "CerealsAndCerealBasedProducts",
+    "originAndTreatment": "ProcessedProducts",
+    "nutritionalClass": "Carbohydrates",
+    "specialClass": "GlutenFree"
+  },
+  {
+    "name": "Viande de bœuf avec os",
+    "description": "Viande de bœuf avec os",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "MeatAndMeatProducts",
+    "originAndTreatment": "ProductsAnimal",
+    "nutritionalClass": "Proteins"
+  },
+  {
+    "name": "Viande de bœuf sans os",
+    "description": "Viande de bœuf sans os",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "MeatAndMeatProducts",
+    "originAndTreatment": "ProductsAnimal",
+    "nutritionalClass": "Proteins"
+  },
+  {
+    "name": "Viande de porc",
+    "description": "Viande de porc",
+    "unitOfMeasurementId": "cm0aqjoxq00sgvobae33fjf9b",
+    "mainClass": "MeatAndMeatProducts",
+    "originAndTreatment": "ProductsAnimal",
+    "nutritionalClass": "Proteins"
+  }
+]

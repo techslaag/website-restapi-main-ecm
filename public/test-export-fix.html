@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Test Export Fix</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .button { 
+            background: #0073aa; color: white; padding: 8px 16px; 
+            border: none; border-radius: 3px; cursor: pointer; 
+            text-decoration: none; display: inline-block; margin: 5px;
+        }
+        .button:hover { background: #005a87; }
+        .test-section { margin: 20px 0; padding: 20px; border: 1px solid #ddd; }
+        .status { padding: 10px; margin: 10px 0; border-radius: 3px; }
+        .success { background: #dff0d8; color: #3c763d; }
+        .error { background: #f2dede; color: #a94442; }
+    </style>
+</head>
+<body>
+    <h1>Test Export Fix</h1>
+    
+    <div class="status" id="status">Loading...</div>
+    
+    <div class="test-section">
+        <h2>Test 1: Direct Link (This should NOT open new page)</h2>
+        <a href="http://localhost:3500/api/ads/export/excel?ad_id=1001" class="button">
+            Direct Export Link (ad_id=1001)
+        </a>
+    </div>
+    
+    <div class="test-section">
+        <h2>Test 2: Button with onclick (This should NOT open new page)</h2>
+        <button class="button" onclick="window.open('http://localhost:3500/api/ads/export/excel?ad_id=1002', '_blank')">
+            Button with window.open (ad_id=1002)
+        </button>
+    </div>
+    
+    <div class="test-section">
+        <h2>Test 3: Simulating WordPress admin URL structure</h2>
+        <p>Current page URL has ad_id=59801 (simulated)</p>
+        <a href="http://localhost:3500/api/ads/export/excel" class="button">
+            Export Current Ad (should detect ad_id from URL)
+        </a>
+    </div>
+    
+    <div class="test-section">
+        <h2>Test 4: Export All Ads</h2>
+        <a href="http://localhost:3500/api/ads/export/excel" class="button">
+            Export All Ads
+        </a>
+    </div>
+    
+    <div class="test-section">
+        <h2>Instructions for WordPress Integration</h2>
+        <p><strong>Add this line to your WordPress admin pages:</strong></p>
+        <pre>&lt;script src="http://localhost:3500/api/assets/wordpress-export-fix.js"&gt;&lt;/script&gt;</pre>
+        
+        <p><strong>Or manually copy this script tag:</strong></p>
+        <pre id="script-tag"></pre>
+        
+        <p>This script will automatically intercept all export links and force downloads instead of opening new pages.</p>
+    </div>
+    
+    <script>
+        // Add ad_id to URL to simulate WordPress admin page
+        if (!window.location.search.includes('ad_id=')) {
+            const newUrl = window.location.href + (window.location.search ? '&' : '?') + 'ad_id=59801';
+            window.history.replaceState({}, '', newUrl);
+        }
+        
+        // Show the script tag
+        document.getElementById('script-tag').textContent = 
+            '<script src="' + window.location.origin + '/api/assets/wordpress-export-fix.js"><\/script>';
+        
+        // Load the export fix
+        const script = document.createElement('script');
+        script.src = 'http://localhost:3500/api/assets/wordpress-export-fix.js';
+        script.onload = function() {
+            document.getElementById('status').className = 'status success';
+            document.getElementById('status').textContent = '✅ Export fix loaded successfully! Click any export button above - it should download instead of opening a new page.';
+        };
+        script.onerror = function() {
+            document.getElementById('status').className = 'status error';
+            document.getElementById('status').textContent = '❌ Failed to load export fix. Make sure the server is running on localhost:3500';
+        };
+        document.head.appendChild(script);
+    </script>
+</body>
+</html>

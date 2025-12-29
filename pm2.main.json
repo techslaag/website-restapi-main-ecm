@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "ecomatin-nextjs-api-prod",
+      "script": "npm run start -- -p 3011",
+      "watch": true,
+      "cron_restart": "0 0 * * *"
+    }
+  ]
+}

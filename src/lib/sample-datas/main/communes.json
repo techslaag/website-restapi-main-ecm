@@ -1,0 +1,2565 @@
+[
+  {
+    "name": "Babadjou",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0j90018e5jmbkm1e191"
+  },
+
+  {
+    "name": "Batcham",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0j90018e5jmbkm1e191"
+  },
+
+  {
+    "name": "Galim",
+    "type": "ruralCommune",
+    "averagePriceBuiltBuilding": 1000,
+    "averagePriceUnbuiltBuilding": 1800,
+    "departmentId": "cm0alv0j90018e5jmbkm1e191"
+  },
+
+  {
+    "name": "Mbouda",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0j90018e5jmbkm1e191"
+  },
+
+  {
+    "name": "Barndaké",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0j50014e5jmlsrwjkt5"
+  },
+
+  {
+    "name": "Bashéo",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0j50014e5jmlsrwjkt5"
+  },
+
+  {
+    "name": "Bibemi",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0j50014e5jmlsrwjkt5"
+  },
+
+  {
+    "name": "Dembo",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0j50014e5jmlsrwjkt5"
+  },
+
+  {
+    "name": "Garoua Ier",
+    "type": "districtMunicipality",
+    "averagePriceUnbuiltBuilding": 5000,
+    "departmentId": "cm0alv0j50014e5jmlsrwjkt5"
+  },
+
+  {
+    "name": "Garoua IIe",
+    "type": "districtMunicipality",
+    "averagePriceUnbuiltBuilding": 5000,
+    "departmentId": "cm0alv0j50014e5jmlsrwjkt5"
+  },
+
+  {
+    "name": "Garoua IIIe",
+    "type": "districtMunicipality",
+    "averagePriceUnbuiltBuilding": 5000,
+    "departmentId": "cm0alv0j50014e5jmlsrwjkt5"
+  },
+
+  {
+    "name": "Gashiga",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0j50014e5jmlsrwjkt5"
+  },
+
+  {
+    "name": "Lagdo",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0j50014e5jmlsrwjkt5"
+  },
+
+  {
+    "name": "Ngong",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0j50014e5jmlsrwjkt5"
+  },
+
+  {
+    "name": "Pitoa",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0j50014e5jmlsrwjkt5"
+  },
+
+  {
+    "name": "Touroua",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0j50014e5jmlsrwjkt5"
+  },
+
+  {
+    "name": "Gari-Gombo",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0ip000qe5jm30sfdsso"
+  },
+
+  {
+    "name": "Moloundou",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0ip000qe5jm30sfdsso"
+  },
+
+  {
+    "name": "Salapoumbé",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0ip000qe5jm30sfdsso"
+  },
+
+  {
+    "name": "Yokadouma",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0ip000qe5jm30sfdsso"
+  },
+
+  {
+    "name": "Belo",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0jq001ke5jmfd9q29n6"
+  },
+
+  {
+    "name": "Njinikom",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0jq001ke5jmfd9q29n6"
+  },
+
+  {
+    "name": "Fonfuka",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0jq001ke5jmfd9q29n6"
+  },
+
+  {
+    "name": "Fundong",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0jq001ke5jmfd9q29n6"
+  },
+
+  {
+    "name": "Elak-Oku",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0jr001le5jm3xj0jusb"
+  },
+
+  {
+    "name": "Jakiri",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0jr001le5jm3xj0jusb"
+  },
+
+  {
+    "name": "Kumbo",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0jr001le5jm3xj0jusb"
+  },
+
+  {
+    "name": "Nkor",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0jr001le5jm3xj0jusb"
+  },
+
+  {
+    "name": "Mbiame",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0jr001le5jm3xj0jusb"
+  },
+
+  {
+    "name": "Nkum",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0jr001le5jm3xj0jusb"
+  },
+
+  {
+    "name": "Bogo",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0iu000ue5jmz3d60e9j"
+  },
+
+  {
+    "name": "Dargala",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iu000ue5jmz3d60e9j"
+  },
+
+  {
+    "name": "Darak",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iu000ue5jmz3d60e9j"
+  },
+
+  {
+    "name": "Gazawa",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0iu000ue5jmz3d60e9j"
+  },
+
+  {
+    "name": "Maroua Ier",
+    "type": "districtMunicipality",
+    "averagePriceUnbuiltBuilding": 5000,
+    "departmentId": "cm0alv0iu000ue5jmz3d60e9j"
+  },
+
+  {
+    "name": "Maroua IIe",
+    "type": "districtMunicipality",
+    "averagePriceUnbuiltBuilding": 5000,
+    "departmentId": "cm0alv0iu000ue5jmz3d60e9j"
+  },
+
+  {
+    "name": "Maroua IIIe",
+    "type": "districtMunicipality",
+    "averagePriceUnbuiltBuilding": 5000,
+    "departmentId": "cm0alv0iu000ue5jmz3d60e9j"
+  },
+
+  {
+    "name": "Meri",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0iu000ue5jmz3d60e9j"
+  },
+
+  {
+    "name": "Ndoukoula",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iu000ue5jmz3d60e9j"
+  },
+
+  {
+    "name": "Petté",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iu000ue5jmz3d60e9j"
+  },
+
+  {
+    "name": "Bengbis",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0jm001ge5jmt8hwazmn"
+  },
+
+  {
+    "name": "Djoum",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0jm001ge5jmt8hwazmn"
+  },
+
+  {
+    "name": "Mintom",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0jm001ge5jmt8hwazmn"
+  },
+
+  {
+    "name": "Oveng",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0jm001ge5jmt8hwazmn"
+  },
+
+  {
+    "name": "Sangmélima",
+    "type": "ruralCommune",
+    "averagePriceBuiltBuilding": 1800,
+    "averagePriceUnbuiltBuilding": 3500,
+    "departmentId": "cm0alv0jm001ge5jmt8hwazmn"
+  },
+
+  {
+    "name": "Zoétélé",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1500,
+    "departmentId": "cm0alv0jm001ge5jmt8hwazmn"
+  },
+
+  {
+    "name": "Ngaoundal",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0i7000be5jm07vftdyq"
+  },
+
+  {
+    "name": "Tibati",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0i7000be5jm07vftdyq"
+  },
+
+  {
+    "name": "Ako",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0js001me5jmn8zvuve4"
+  },
+
+  {
+    "name": "Misaje",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0js001me5jmn8zvuve4"
+  },
+
+  {
+    "name": "Ndu",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0js001me5jmn8zvuve4"
+  },
+
+  {
+    "name": "Nkambé",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0js001me5jmn8zvuve4"
+  },
+
+  {
+    "name": "Nwa",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0js001me5jmn8zvuve4"
+  },
+
+  {
+    "name": "Buéa",
+    "type": "ruralCommune",
+    "averagePriceBuiltBuilding": 2500,
+    "averagePriceUnbuiltBuilding": 3500,
+    "departmentId": "cm0alv0jw001re5jmfd8wr9h4"
+  },
+
+  {
+    "name": "Limbé Ier",
+    "type": "districtMunicipality",
+    "averagePriceBuiltBuilding": 2000,
+    "averagePriceUnbuiltBuilding": 3000,
+    "departmentId": "cm0alv0jw001re5jmfd8wr9h4"
+  },
+
+  {
+    "name": "Limbé IIe",
+    "type": "districtMunicipality",
+    "averagePriceBuiltBuilding": 2000,
+    "averagePriceUnbuiltBuilding": 3000,
+    "departmentId": "cm0alv0jw001re5jmfd8wr9h4"
+  },
+
+  {
+    "name": "Limbé IIIe",
+    "type": "districtMunicipality",
+    "averagePriceBuiltBuilding": 2000,
+    "averagePriceUnbuiltBuilding": 3000,
+    "departmentId": "cm0alv0jw001re5jmfd8wr9h4"
+  },
+
+  {
+    "name": "Muyuka",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2166,
+    "departmentId": "cm0alv0jw001re5jmfd8wr9h4"
+  },
+
+  {
+    "name": "Tiko",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0jw001re5jmfd8wr9h4"
+  },
+
+  {
+    "name": "West Coast",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0jw001re5jmfd8wr9h4"
+  },
+
+  {
+    "name": "Beka",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0j60015e5jmbtd4m2z0"
+  },
+
+  {
+    "name": "Poli",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0j60015e5jmbtd4m2z0"
+  },
+
+  {
+    "name": "Galim-Tignère",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0i8000ce5jmbeokly8f"
+  },
+
+  {
+    "name": "Kontcha",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0i8000ce5jmbeokly8f"
+  },
+
+  {
+    "name": "Tignère",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0i8000ce5jmbeokly8f"
+  },
+
+  {
+    "name": "Mayo-Baléo",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0i8000ce5jmbeokly8f"
+  },
+
+  {
+    "name": "Bafang",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0jf0019e5jm4ic3k5av"
+  },
+
+  {
+    "name": "Bakou",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0jf0019e5jm4ic3k5av"
+  },
+
+  {
+    "name": "Bana",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0jf0019e5jm4ic3k5av"
+  },
+
+  {
+    "name": "Bandja",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0jf0019e5jm4ic3k5av"
+  },
+
+  {
+    "name": "Banka",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0jf0019e5jm4ic3k5av"
+  },
+
+  {
+    "name": "Banwa",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0jf0019e5jm4ic3k5av"
+  },
+
+  {
+    "name": "Kekem",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0jf0019e5jm4ic3k5av"
+  },
+
+  {
+    "name": "Abong-Mbang",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0iq000re5jmrp7lnbja"
+  },
+
+  {
+    "name": "Angossas",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0iq000re5jmrp7lnbja"
+  },
+
+  {
+    "name": "Atok",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0iq000re5jmrp7lnbja"
+  },
+
+  {
+    "name": "Dimako",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0iq000re5jmrp7lnbja"
+  },
+
+  {
+    "name": "Doumaintang",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iq000re5jmrp7lnbja"
+  },
+
+  {
+    "name": "Doumé",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0iq000re5jmrp7lnbja"
+  },
+
+  {
+    "name": "Lomié",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0iq000re5jmrp7lnbja"
+  },
+
+  {
+    "name": "Mboma",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iq000re5jmrp7lnbja"
+  },
+
+  {
+    "name": "Messamena",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0iq000re5jmrp7lnbja"
+  },
+
+  {
+    "name": "Messok",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iq000re5jmrp7lnbja"
+  },
+
+  {
+    "name": "Mindourou",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iq000re5jmrp7lnbja"
+  },
+
+  {
+    "name": "Ngoyla",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0iq000re5jmrp7lnbja"
+  },
+
+  {
+    "name": "Nguelemendouka",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0iq000re5jmrp7lnbja"
+  },
+
+  {
+    "name": "Somalomo",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iq000re5jmrp7lnbja"
+  },
+
+  {
+    "name": "Bibey",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0ie000ge5jmi94rgrcu"
+  },
+
+  {
+    "name": "Lembe-Yezoum",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0ie000ge5jmi94rgrcu"
+  },
+
+  {
+    "name": "Mbandjock",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0ie000ge5jmi94rgrcu"
+  },
+
+  {
+    "name": "Minta",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0ie000ge5jmi94rgrcu"
+  },
+
+  {
+    "name": "Nanga-Eboko",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0ie000ge5jmi94rgrcu"
+  },
+
+  {
+    "name": "Nkoteng",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0ie000ge5jmi94rgrcu"
+  },
+
+  {
+    "name": "Nsem",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0ie000ge5jmi94rgrcu"
+  },
+
+  {
+    "name": "Baham",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0jg001ae5jm0rchojx1"
+  },
+
+  {
+    "name": "Bamendjou",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0jg001ae5jm0rchojx1"
+  },
+
+  {
+    "name": "Bangou",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0jg001ae5jm0rchojx1"
+  },
+
+  {
+    "name": "Batié",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0jg001ae5jm0rchojx1"
+  },
+
+  {
+    "name": "Batouri",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0is000se5jm360dbjee"
+  },
+
+  {
+    "name": "Kentzou",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0is000se5jm360dbjee"
+  },
+
+  {
+    "name": "Kette",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0is000se5jm360dbjee"
+  },
+
+  {
+    "name": "Mbang",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0is000se5jm360dbjee"
+  },
+
+  {
+    "name": "Ndelele",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0is000se5jm360dbjee"
+  },
+
+  {
+    "name": "Nguelebok",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0is000se5jm360dbjee"
+  },
+
+  {
+    "name": "Ouli",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0is000se5jm360dbjee"
+  },
+
+  {
+    "name": "Bandjoun",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0jh001be5jmj7iv8sem"
+  },
+
+  {
+    "name": "Bayangam",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0jh001be5jmj7iv8sem"
+  },
+
+  {
+    "name": "Demdeng",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0jh001be5jmj7iv8sem"
+  },
+
+  {
+    "name": "Bangem",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0jx001se5jmnt15ll2a"
+  },
+
+  {
+    "name": "Nguti",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0jx001se5jmnt15ll2a"
+  },
+
+  {
+    "name": "Tombel",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0jx001se5jmnt15ll2a"
+  },
+
+  {
+    "name": "Alou",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0jy001te5jmzjza547a"
+  },
+
+  {
+    "name": "Menji",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0jy001te5jmzjza547a"
+  },
+
+  {
+    "name": "Wabane",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0jy001te5jmzjza547a"
+  },
+
+  {
+    "name": "Batchenga",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0if000he5jmc85tv9fg"
+  },
+
+  {
+    "name": "Ebebda",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0if000he5jmc85tv9fg"
+  },
+
+  {
+    "name": "Elig-Mfomo",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0if000he5jmc85tv9fg"
+  },
+
+  {
+    "name": "Evodoula",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0if000he5jmc85tv9fg"
+  },
+
+  {
+    "name": "Lobo",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0if000he5jmc85tv9fg"
+  },
+
+  {
+    "name": "Monatélé",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0if000he5jmc85tv9fg"
+  },
+
+  {
+    "name": "Obala",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0if000he5jmc85tv9fg"
+  },
+
+  {
+    "name": "Sa'a",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0if000he5jmc85tv9fg"
+  },
+
+  {
+    "name": "Okola",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0if000he5jmc85tv9fg"
+  },
+
+  {
+    "name": "Blangoua",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iv000ve5jmlng80k8j"
+  },
+
+  {
+    "name": "Fotokol",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iv000ve5jmlng80k8j"
+  },
+
+  {
+    "name": "Goulfey",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0iv000ve5jmlng80k8j"
+  },
+
+  {
+    "name": "Hile-Alifa",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iv000ve5jmlng80k8j"
+  },
+
+  {
+    "name": "Kousséri",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 3000,
+    "departmentId": "cm0alv0iv000ve5jmlng80k8j"
+  },
+
+  {
+    "name": "Logone-Birni",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0iv000ve5jmlng80k8j"
+  },
+
+  {
+    "name": "Makary",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0iv000ve5jmlng80k8j"
+  },
+
+  {
+    "name": "Waza",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0iv000ve5jmlng80k8j"
+  },
+
+  {
+    "name": "Zina",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iv000ve5jmlng80k8j"
+  },
+
+  {
+    "name": "Bertoua Ier",
+    "type": "districtMunicipality",
+    "averagePriceUnbuiltBuilding": 5000,
+    "departmentId": "cm0alv0it000te5jmr11uwas5"
+  },
+
+  {
+    "name": "Bertoua IIe",
+    "type": "districtMunicipality",
+    "averagePriceUnbuiltBuilding": 5000,
+    "departmentId": "cm0alv0it000te5jmr11uwas5"
+  },
+
+  {
+    "name": "Bélabo",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0it000te5jmr11uwas5"
+  },
+
+  {
+    "name": "Bétaré-Oya",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0it000te5jmr11uwas5"
+  },
+
+  {
+    "name": "Diang",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0it000te5jmr11uwas5"
+  },
+
+  {
+    "name": "Garoua-Boulaï",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0it000te5jmr11uwas5"
+  },
+
+  {
+    "name": "Mandjou",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0it000te5jmr11uwas5"
+  },
+
+  {
+    "name": "Ngoura",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0it000te5jmr11uwas5"
+  },
+
+  {
+    "name": "Akwaya",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0jz001ue5jmfowq2ya5"
+  },
+
+  {
+    "name": "Eyumodjock",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0jz001ue5jmfowq2ya5"
+  },
+
+  {
+    "name": "Mamfé",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0jz001ue5jmfowq2ya5"
+  },
+
+  {
+    "name": "Upper Bayang",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0jz001ue5jmfowq2ya5"
+  },
+
+  {
+    "name": "Bankim",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0ia000de5jmy35kaqto"
+  },
+
+  {
+    "name": "Banyo",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0ia000de5jmy35kaqto"
+  },
+
+  {
+    "name": "Mayo-Darlé",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0ia000de5jmy35kaqto"
+  },
+
+  {
+    "name": "Datcheka",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iw000we5jm3dbwfs8h"
+  },
+
+  {
+    "name": "Gobo",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iw000we5jm3dbwfs8h"
+  },
+
+  {
+    "name": "Guémé",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iw000we5jm3dbwfs8h"
+  },
+
+  {
+    "name": "Guéré",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iw000we5jm3dbwfs8h"
+  },
+
+  {
+    "name": "Kai-Kai",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iw000we5jm3dbwfs8h"
+  },
+
+  {
+    "name": "Kar-Hay",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iw000we5jm3dbwfs8h"
+  },
+
+  {
+    "name": "Kalfou",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iw000we5jm3dbwfs8h"
+  },
+
+  {
+    "name": "Yagoua",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iw000we5jm3dbwfs8h"
+  },
+
+  {
+    "name": "Maga",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iw000we5jm3dbwfs8h"
+  },
+
+  {
+    "name": "Tchati-Bali",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iw000we5jm3dbwfs8h"
+  },
+
+  {
+    "name": "Wina",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iw000we5jm3dbwfs8h"
+  },
+
+  {
+    "name": "Dziguilao",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0ix000xe5jmw7ohl7sg"
+  },
+
+  {
+    "name": "Guidiguis",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0ix000xe5jmw7ohl7sg"
+  },
+
+  {
+    "name": "Kaélé",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0ix000xe5jmw7ohl7sg"
+  },
+
+  {
+    "name": "Mindif",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0ix000xe5jmw7ohl7sg"
+  },
+
+  {
+    "name": "Moulvoudaye",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0ix000xe5jmw7ohl7sg"
+  },
+
+  {
+    "name": "Moutourwa",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0ix000xe5jmw7ohl7sg"
+  },
+
+  {
+    "name": "Touloum",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0ix000xe5jmw7ohl7sg"
+  },
+
+  {
+    "name": "Figuil",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0j70016e5jmhayaa0lf"
+  },
+
+  {
+    "name": "Guider",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0j70016e5jmhayaa0lf"
+  },
+
+  {
+    "name": "Mayo-Oulo",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0j70016e5jmhayaa0lf"
+  },
+
+  {
+    "name": "Madingring",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0j80017e5jmzn6y7toy"
+  },
+
+  {
+    "name": "Rey-Bouba",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0j80017e5jmzn6y7toy"
+  },
+
+  {
+    "name": "Tcholliré",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0j80017e5jmzn6y7toy"
+  },
+
+  {
+    "name": "Touboro",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0j80017e5jmzn6y7toy"
+  },
+
+  {
+    "name": "Kolofata",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iy000ye5jmqc13s2ux"
+  },
+
+  {
+    "name": "Mora",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0iy000ye5jmqc13s2ux"
+  },
+
+  {
+    "name": "Tokombéré",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iy000ye5jmqc13s2ux"
+  },
+
+  {
+    "name": "Bourrha",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iz000ze5jmjrz1vtyk"
+  },
+
+  {
+    "name": "Hina",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iz000ze5jmjrz1vtyk"
+  },
+
+  {
+    "name": "Koza",
+    "type": "ruralCommune",
+    "averagePriceBuiltBuilding": 1200,
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0iz000ze5jmjrz1vtyk"
+  },
+
+  {
+    "name": "Mogodé",
+    "type": "ruralCommune",
+    "averagePriceBuiltBuilding": 700,
+    "averagePriceUnbuiltBuilding": 1400,
+    "departmentId": "cm0alv0iz000ze5jmjrz1vtyk"
+  },
+
+  {
+    "name": "Mokolo",
+    "type": "ruralCommune",
+    "averagePriceBuiltBuilding": 1300,
+    "averagePriceUnbuiltBuilding": 2200,
+    "departmentId": "cm0alv0iz000ze5jmjrz1vtyk"
+  },
+
+  {
+    "name": "Mozogo",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0iz000ze5jmjrz1vtyk"
+  },
+
+  {
+    "name": "Soulédé-Roua",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0iz000ze5jmjrz1vtyk"
+  },
+
+  {
+    "name": "Bafia",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0ig000ie5jm23dgnqkj"
+  },
+
+  {
+    "name": "Bokito",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0ig000ie5jm23dgnqkj"
+  },
+
+  {
+    "name": "Deuk",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0ig000ie5jm23dgnqkj"
+  },
+
+  {
+    "name": "Kiiki",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0ig000ie5jm23dgnqkj"
+  },
+
+  {
+    "name": "Kon-Yambetta",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0ig000ie5jm23dgnqkj"
+  },
+
+  {
+    "name": "Makénéné",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0ig000ie5jm23dgnqkj"
+  },
+
+  {
+    "name": "Ndikiniméki",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0ig000ie5jm23dgnqkj"
+  },
+
+  {
+    "name": "Nitoukou",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0ig000ie5jm23dgnqkj"
+  },
+
+  {
+    "name": "Ombessa",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 750,
+    "departmentId": "cm0alv0ig000ie5jm23dgnqkj"
+  },
+
+  {
+    "name": "Mbangassina",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0ih000je5jmqcgo0l2j"
+  },
+
+  {
+    "name": "Ngambè-Tikar",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0ih000je5jmqcgo0l2j"
+  },
+
+  {
+    "name": "Ngoro",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0ih000je5jmqcgo0l2j"
+  },
+
+  {
+    "name": "Ntui",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0ih000je5jmqcgo0l2j"
+  },
+
+  {
+    "name": "Yoko",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0ih000je5jmqcgo0l2j"
+  },
+
+  {
+    "name": "Dir",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0ib000ee5jmpu4sa1dk"
+  },
+
+  {
+    "name": "Djohong",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0ib000ee5jmpu4sa1dk"
+  },
+
+  {
+    "name": "Meiganga",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0ib000ee5jmpu4sa1dk"
+  },
+
+  {
+    "name": "Ngaoui",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0ib000ee5jmpu4sa1dk"
+  },
+
+  {
+    "name": "Awaé",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "clz829ciw001bicn6khejob3j"
+  },
+
+  {
+    "name": "Edzendouan",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "clz829ciw001bicn6khejob3j"
+  },
+
+  {
+    "name": "Esse",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "clz829ciw001bicn6khejob3j"
+  },
+
+  {
+    "name": "Mfou",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "clz829ciw001bicn6khejob3j"
+  },
+
+  {
+    "name": "Nkolafamba",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "clz829ciw001bicn6khejob3j"
+  },
+
+  {
+    "name": "Olanguina",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "clz829ciw001bicn6khejob3j"
+  },
+
+  {
+    "name": "Soa",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 3500,
+    "departmentId": "clz829ciw001bicn6khejob3j"
+  },
+
+  {
+    "name": "Afanloum",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "clz829ciw001bicn6khejob3j"
+  },
+
+  {
+    "name": "Akono",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0ij000le5jmfxzkrqpj"
+  },
+
+  {
+    "name": "Bikok",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0ij000le5jmfxzkrqpj"
+  },
+
+  {
+    "name": "Mbankomo",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0ij000le5jmfxzkrqpj"
+  },
+
+  {
+    "name": "Ngoumou",
+    "type": "ruralCommune",
+    "averagePriceBuiltBuilding": 1250,
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0ij000le5jmfxzkrqpj"
+  },
+
+  {
+    "name": "Konye",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 933,
+    "departmentId": "cm0alv0k0001ve5jmkgw6nrcn"
+  },
+
+  {
+    "name": "Kumba Ier",
+    "type": "districtMunicipality",
+    "averagePriceUnbuiltBuilding": 933,
+    "departmentId": "cm0alv0k0001ve5jmkgw6nrcn"
+  },
+
+  {
+    "name": "Kumba IIe",
+    "type": "districtMunicipality",
+    "averagePriceUnbuiltBuilding": 933,
+    "departmentId": "cm0alv0k0001ve5jmkgw6nrcn"
+  },
+
+  {
+    "name": "Kumba IIIe",
+    "type": "districtMunicipality",
+    "averagePriceUnbuiltBuilding": 933,
+    "departmentId": "cm0alv0k0001ve5jmkgw6nrcn"
+  },
+
+  {
+    "name": "Mbonge",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 933,
+    "departmentId": "cm0alv0k0001ve5jmkgw6nrcn"
+  },
+
+  {
+    "name": "Benakuma",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0js001ne5jmt90cvpy6"
+  },
+
+  {
+    "name": "Furu-Awa",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0js001ne5jmt90cvpy6"
+  },
+
+  {
+    "name": "Wum",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0js001ne5jmt90cvpy6"
+  },
+
+  {
+    "name": "Zhoa",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0js001ne5jmt90cvpy6"
+  },
+
+  {
+    "name": "Dschang",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 3000,
+    "departmentId": "cm0alv0ji001ce5jmsg95olo9"
+  },
+
+  {
+    "name": "Fokoué",
+    "type": "ruralCommune",
+    "averagePriceBuiltBuilding": 1200,
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0ji001ce5jmsg95olo9"
+  },
+
+  {
+    "name": "Nkong-Zem",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0ji001ce5jmsg95olo9"
+  },
+
+  {
+    "name": "Fongo-Tongo",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0ji001ce5jmsg95olo9"
+  },
+
+  {
+    "name": "Penka-Michel",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0ji001ce5jmsg95olo9"
+  },
+
+  {
+    "name": "Santchou",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0ji001ce5jmsg95olo9"
+  },
+
+  {
+    "name": "Bafut",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0jt001oe5jmf12nevdc"
+  },
+
+  {
+    "name": "Bali",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0jt001oe5jmf12nevdc"
+  },
+
+  {
+    "name": "Bamenda Ier",
+    "type": "districtMunicipality",
+    "averagePriceUnbuiltBuilding": 5000,
+    "departmentId": "cm0alv0jt001oe5jmf12nevdc"
+  },
+
+  {
+    "name": "Bamenda IIe",
+    "type": "districtMunicipality",
+    "averagePriceUnbuiltBuilding": 5000,
+    "departmentId": "cm0alv0jt001oe5jmf12nevdc"
+  },
+
+  {
+    "name": "Bamenda IIIe",
+    "type": "districtMunicipality",
+    "averagePriceUnbuiltBuilding": 5000,
+    "departmentId": "cm0alv0jt001oe5jmf12nevdc"
+  },
+
+  {
+    "name": "Santa",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0jt001oe5jmf12nevdc"
+  },
+
+  {
+    "name": "Tubah",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0jt001oe5jmf12nevdc"
+  },
+
+  {
+    "name": "Yaoundé Ier",
+    "type": "districtMunicipality",
+    "averagePriceBuiltBuilding": 114459,
+    "averagePriceUnbuiltBuilding": 57486,
+    "departmentId": "cm0alv0ik000me5jm6avd6p06"
+  },
+
+  {
+    "name": "Yaoundé IIe",
+    "type": "districtMunicipality",
+    "averagePriceBuiltBuilding": 137105,
+    "averagePriceUnbuiltBuilding": 68961,
+    "departmentId": "cm0alv0ik000me5jm6avd6p06"
+  },
+
+  {
+    "name": "Yaoundé IIIe",
+    "type": "districtMunicipality",
+    "averagePriceBuiltBuilding": 80522,
+    "averagePriceUnbuiltBuilding": 40254,
+    "departmentId": "cm0alv0ik000me5jm6avd6p06"
+  },
+
+  {
+    "name": "Yaoundé IVe",
+    "type": "districtMunicipality",
+    "averagePriceBuiltBuilding": 78611,
+    "averagePriceUnbuiltBuilding": 39444,
+    "departmentId": "cm0alv0ik000me5jm6avd6p06"
+  },
+
+  {
+    "name": "Yaoundé Ve",
+    "type": "districtMunicipality",
+    "averagePriceBuiltBuilding": 125455,
+    "averagePriceUnbuiltBuilding": 64773,
+    "departmentId": "cm0alv0ik000me5jm6avd6p06"
+  },
+
+  {
+    "name": "Yaoundé VIe",
+    "type": "districtMunicipality",
+    "averagePriceBuiltBuilding": 83939,
+    "averagePriceUnbuiltBuilding": 43265,
+    "departmentId": "cm0alv0ik000me5jm6avd6p06"
+  },
+
+  {
+    "name": "Yaoundé VIIe",
+    "type": "districtMunicipality",
+    "averagePriceBuiltBuilding": 40870,
+    "averagePriceUnbuiltBuilding": 20435,
+    "departmentId": "cm0alv0ik000me5jm6avd6p06"
+  },
+
+  {
+    "name": "Meyomessala",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0jm001ge5jmt8hwazmn"
+  },
+
+  {
+    "name": "Meyomessi",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0jm001ge5jmt8hwazmn"
+  },
+
+  {
+    "name": "Bafoussam Ier",
+    "type": "districtMunicipality",
+    "averagePriceUnbuiltBuilding": 5000,
+    "departmentId": "cm0alv0jj001de5jmjyw5xnuv"
+  },
+
+  {
+    "name": "Bafoussam IIe",
+    "type": "districtMunicipality",
+    "averagePriceUnbuiltBuilding": 5000,
+    "departmentId": "cm0alv0jj001de5jmjyw5xnuv"
+  },
+
+  {
+    "name": "Bafoussam IIIe",
+    "type": "districtMunicipality",
+    "averagePriceUnbuiltBuilding": 5000,
+    "departmentId": "cm0alv0jj001de5jmjyw5xnuv"
+  },
+
+  {
+    "name": "Andek",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0ju001pe5jm4bkx64vz"
+  },
+
+  {
+    "name": "Batibo",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0ju001pe5jm4bkx64vz"
+  },
+
+  {
+    "name": "Njikwa",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0ju001pe5jm4bkx64vz"
+  },
+
+  {
+    "name": "Mbengwi",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0ju001pe5jm4bkx64vz"
+  },
+
+  {
+    "name": "Widikum-Boffe",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0ju001pe5jm4bkx64vz"
+  },
+
+  {
+    "name": "Baré",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0j00010e5jm84weteg2"
+  },
+
+  {
+    "name": "Bonaléa",
+    "type": "ruralCommune",
+    "departmentId": "cm0alv0j00010e5jm84weteg2"
+  },
+
+  {
+    "name": "Dibombari",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0j00010e5jm84weteg2"
+  },
+
+  {
+    "name": "Ebone",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0j00010e5jm84weteg2"
+  },
+
+  {
+    "name": "Loum",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0j00010e5jm84weteg2"
+  },
+
+  {
+    "name": "Manjo",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0j00010e5jm84weteg2"
+  },
+
+  {
+    "name": "Mbanga",
+    "type": "ruralCommune",
+    "averagePriceBuiltBuilding": 60000,
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0j00010e5jm84weteg2"
+  },
+
+  {
+    "name": "Melong",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0j00010e5jm84weteg2"
+  },
+
+  {
+    "name": "Mombo",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0j00010e5jm84weteg2"
+  },
+
+  {
+    "name": "Nkongsamba Ier",
+    "type": "districtMunicipality",
+    "averagePriceBuiltBuilding": 80000,
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0j00010e5jm84weteg2"
+  },
+
+  {
+    "name": "Nkongsamba IIe",
+    "type": "districtMunicipality",
+    "averagePriceBuiltBuilding": 80000,
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0j00010e5jm84weteg2"
+  },
+
+  {
+    "name": "Nkongsamba IIIe",
+    "type": "districtMunicipality",
+    "averagePriceBuiltBuilding": 80000,
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0j00010e5jm84weteg2"
+  },
+
+  {
+    "name": "Penja",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0j00010e5jm84weteg2"
+  },
+
+  {
+    "name": "Biwong-Bane",
+    "type": "ruralCommune",
+    "averagePriceBuiltBuilding": 1142,
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0jn001he5jmsnb727mk"
+  },
+
+  {
+    "name": "Biwong-Bulu",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0jn001he5jmsnb727mk"
+  },
+
+  {
+    "name": "Ebolowa Ier",
+    "type": "districtMunicipality",
+    "averagePriceBuiltBuilding": 2500,
+    "averagePriceUnbuiltBuilding": 5000,
+    "departmentId": "cm0alv0jn001he5jmsnb727mk"
+  },
+
+  {
+    "name": "Ebolowa IIe",
+    "type": "districtMunicipality",
+    "averagePriceBuiltBuilding": 1142,
+    "averagePriceUnbuiltBuilding": 5000,
+    "departmentId": "cm0alv0jn001he5jmsnb727mk"
+  },
+
+  {
+    "name": "Efoulan",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0jn001he5jmsnb727mk"
+  },
+
+  {
+    "name": "Mengong",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0jn001he5jmsnb727mk"
+  },
+
+  {
+    "name": "Mvangan",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0jn001he5jmsnb727mk"
+  },
+
+  {
+    "name": "Ngoulemakong",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0jn001he5jmsnb727mk"
+  },
+
+  {
+    "name": "Bangangté",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2500,
+    "departmentId": "cm0alv0jk001ee5jm7o5e6gar"
+  },
+
+  {
+    "name": "Bassamba",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0jk001ee5jm7o5e6gar"
+  },
+
+  {
+    "name": "Bazou",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0jk001ee5jm7o5e6gar"
+  },
+
+  {
+    "name": "Tonga",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0jk001ee5jm7o5e6gar"
+  },
+  {
+    "name": "Bamusso",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0k7001we5jmlbd05o7b"
+  },
+
+  {
+    "name": "Dikome-Balue",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0k7001we5jmlbd05o7b"
+  },
+
+  {
+    "name": "Ekondo-Titi",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0k7001we5jmlbd05o7b"
+  },
+
+  {
+    "name": "Idabato",
+    "type": "ruralCommune",
+    "averagePriceBuiltBuilding": 255,
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0k7001we5jmlbd05o7b"
+  },
+
+  {
+    "name": "Isanguele",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0k7001we5jmlbd05o7b"
+  },
+
+  {
+    "name": "Kombo-Abedimo",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0k7001we5jmlbd05o7b"
+  },
+
+  {
+    "name": "Kombo-Idinti",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0k7001we5jmlbd05o7b"
+  },
+
+  {
+    "name": "Mundemba",
+    "type": "ruralCommune",
+    "averagePriceBuiltBuilding": 255,
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0k7001we5jmlbd05o7b"
+  },
+
+  {
+    "name": "Toko",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 200,
+    "departmentId": "cm0alv0k7001we5jmlbd05o7b"
+  },
+
+  {
+    "name": "Babessi",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0jv001qe5jmwx66y7xx"
+  },
+
+  {
+    "name": "Balikumbat",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0jv001qe5jmwx66y7xx"
+  },
+
+  {
+    "name": "Ndop",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0jv001qe5jmwx66y7xx"
+  },
+
+  {
+    "name": "Ndobian",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0j20011e5jmosb2slyf"
+  },
+
+  {
+    "name": "Nkondjock",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0j20011e5jmosb2slyf"
+  },
+
+  {
+    "name": "Yabassi",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0j20011e5jmosb2slyf"
+  },
+
+  {
+    "name": "Yingui",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0j20011e5jmosb2slyf"
+  },
+
+  {
+    "name": "Bangourain",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0jl001fe5jmegryxidj"
+  },
+
+  {
+    "name": "Foumban",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0jl001fe5jmegryxidj"
+  },
+
+  {
+    "name": "Foumbot",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0jl001fe5jmegryxidj"
+  },
+
+  {
+    "name": "Kouoptamo",
+    "type": "ruralCommune",
+    "averagePriceBuiltBuilding": 1200,
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0jl001fe5jmegryxidj"
+  },
+
+  {
+    "name": "Koutaba",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0jl001fe5jmegryxidj"
+  },
+
+  {
+    "name": "Magba",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0jl001fe5jmegryxidj"
+  },
+
+  {
+    "name": "Malentouen",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0jl001fe5jmegryxidj"
+  },
+
+  {
+    "name": "Massangam",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0jl001fe5jmegryxidj"
+  },
+
+  {
+    "name": "Njimom",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0jl001fe5jmegryxidj"
+  },
+
+  {
+    "name": "Biyouha",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0im000ne5jmclc5btr0"
+  },
+
+  {
+    "name": "Bondjock",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0im000ne5jmclc5btr0"
+  },
+
+  {
+    "name": "Bot-Makak",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0im000ne5jmclc5btr0"
+  },
+
+  {
+    "name": "Dibang",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0im000ne5jmclc5btr0"
+  },
+
+  {
+    "name": "Éséka",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0im000ne5jmclc5btr0"
+  },
+
+  {
+    "name": "Makak",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0im000ne5jmclc5btr0"
+  },
+
+  {
+    "name": "Matomb",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0im000ne5jmclc5btr0"
+  },
+
+  {
+    "name": "Messondo",
+    "type": "ruralCommune",
+    "averagePriceBuiltBuilding": 0,
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0im000ne5jmclc5btr0"
+  },
+
+  {
+    "name": "Ngog-Mapubi",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0im000ne5jmclc5btr0"
+  },
+
+  {
+    "name": "Ngui-Bassal",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0im000ne5jmclc5btr0"
+  },
+
+  {
+    "name": "Akonolinga",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0in000oe5jmqkgi0pas"
+  },
+
+  {
+    "name": "Ayos",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0in000oe5jmqkgi0pas"
+  },
+  {
+    "name": "Endom",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0in000oe5jmqkgi0pas"
+  },
+
+  {
+    "name": "Kobdombo",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0in000oe5jmqkgi0pas"
+  },
+
+  {
+    "name": "Mengang",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0in000oe5jmqkgi0pas"
+  },
+
+  {
+    "name": "Akoeman",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0io000pe5jmkgbzeft6"
+  },
+
+  {
+    "name": "Dzeng",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0io000pe5jmkgbzeft6"
+  },
+
+  {
+    "name": "Mbalmayo",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0io000pe5jmkgbzeft6"
+  },
+
+  {
+    "name": "Mengueme",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0io000pe5jmkgbzeft6"
+  },
+
+  {
+    "name": "Ngomedzap",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0io000pe5jmkgbzeft6"
+  },
+
+  {
+    "name": "Nkolmetet",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0io000pe5jmkgbzeft6"
+  },
+
+  {
+    "name": "Akom II",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0jo001ie5jmxo6f6fps"
+  },
+
+  {
+    "name": "Bipindi",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0jo001ie5jmxo6f6fps"
+  },
+
+  {
+    "name": "Campo",
+    "type": "ruralCommune",
+    "averagePriceBuiltBuilding": 1500,
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0jo001ie5jmxo6f6fps"
+  },
+
+  {
+    "name": "Kribi Ier",
+    "type": "districtMunicipality",
+    "averagePriceBuiltBuilding": 112857,
+    "averagePriceUnbuiltBuilding": 56429,
+    "departmentId": "cm0alv0jo001ie5jmxo6f6fps"
+  },
+
+  {
+    "name": "Kribi IIe",
+    "type": "districtMunicipality",
+    "averagePriceBuiltBuilding": 83846,
+    "averagePriceUnbuiltBuilding": 41923,
+    "departmentId": "cm0alv0jo001ie5jmxo6f6fps"
+  },
+
+  {
+    "name": "Lokoundjé",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0jo001ie5jmxo6f6fps"
+  },
+
+  {
+    "name": "Lolodorf",
+    "type": "ruralCommune",
+    "averagePriceBuiltBuilding": 1200,
+    "averagePriceUnbuiltBuilding": 2500,
+    "departmentId": "cm0alv0jo001ie5jmxo6f6fps"
+  },
+
+  {
+    "name": "Mvengue",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0jo001ie5jmxo6f6fps"
+  },
+
+  {
+    "name": "Niete",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0jo001ie5jmxo6f6fps"
+  },
+
+  {
+    "name": "Dibamba",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0j30012e5jmnj5uyym5"
+  },
+
+  {
+    "name": "Dizangué",
+    "type": "ruralCommune",
+    "averagePriceBuiltBuilding": 733,
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0j30012e5jmnj5uyym5"
+  },
+
+  {
+    "name": "Édéa Ier",
+    "type": "districtMunicipality",
+    "averagePriceBuiltBuilding": 733,
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0j30012e5jmnj5uyym5"
+  },
+
+  {
+    "name": "Édéa IIe",
+    "type": "districtMunicipality",
+    "averagePriceBuiltBuilding": 733,
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0j30012e5jmnj5uyym5"
+  },
+
+  {
+    "name": "Massock-Songloulou",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0j30012e5jmnj5uyym5"
+  },
+
+  {
+    "name": "Mouanko",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0j30012e5jmnj5uyym5"
+  },
+
+  {
+    "name": "Ndom",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0j30012e5jmnj5uyym5"
+  },
+
+  {
+    "name": "Ngambe",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0j30012e5jmnj5uyym5"
+  },
+
+  {
+    "name": "Ngwei",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 1000,
+    "departmentId": "cm0alv0j30012e5jmnj5uyym5"
+  },
+
+  {
+    "name": "Nyanon",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0j30012e5jmnj5uyym5"
+  },
+
+  {
+    "name": "Pouma",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0j30012e5jmnj5uyym5"
+  },
+
+  {
+    "name": "Ambam",
+    "type": "ruralCommune",
+    "averagePriceBuiltBuilding": 1150,
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0jp001je5jmln2wlhm2"
+  },
+
+  {
+    "name": "Kyé-Ossi",
+    "type": "ruralCommune",
+    "averagePriceBuiltBuilding": 1150,
+    "averagePriceUnbuiltBuilding": 2000,
+    "departmentId": "cm0alv0jp001je5jmln2wlhm2"
+  },
+
+  {
+    "name": "Ma'an",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0jp001je5jmln2wlhm2"
+  },
+
+  {
+    "name": "Olamze",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0jp001je5jmln2wlhm2"
+  },
+
+  {
+    "name": "Belel",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0ic000fe5jmvgv23e3h"
+  },
+
+  {
+    "name": "Martap",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0ic000fe5jmvgv23e3h"
+  },
+
+  {
+    "name": "Mbe",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 500,
+    "departmentId": "cm0alv0ic000fe5jmvgv23e3h"
+  },
+
+  {
+    "name": "Nganha",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0ic000fe5jmvgv23e3h"
+  },
+
+  {
+    "name": "Nyambaka",
+    "type": "ruralCommune",
+    "averagePriceUnbuiltBuilding": 300,
+    "departmentId": "cm0alv0ic000fe5jmvgv23e3h"
+  },
+
+  {
+    "name": "Ngaoundéré Ier",
+    "type": "districtMunicipality",
+    "averagePriceBuiltBuilding": 5000,
+    "averagePriceUnbuiltBuilding": 1150,
+    "departmentId": "cm0alv0ic000fe5jmvgv23e3h"
+  },
+
+  {
+    "name": "Ngaoundéré IIe",
+    "type": "districtMunicipality",
+    "averagePriceBuiltBuilding": 5000,
+    "averagePriceUnbuiltBuilding": 1150,
+    "departmentId": "cm0alv0ic000fe5jmvgv23e3h"
+  },
+
+  {
+    "name": "Ngaoundéré IIIe",
+    "type": "districtMunicipality",
+    "averagePriceBuiltBuilding": 5000,
+    "averagePriceUnbuiltBuilding": 1150,
+    "departmentId": "cm0alv0ic000fe5jmvgv23e3h"
+  },
+
+  {
+    "name": "Douala Ier",
+    "type": "districtMunicipality",
+    "averagePriceBuiltBuilding": 276937,
+    "averagePriceUnbuiltBuilding": 145000,
+    "departmentId": "cm0alv0j40013e5jmwrbtlt1h"
+  },
+
+  {
+    "name": "Douala IIe",
+    "type": "districtMunicipality",
+    "averagePriceBuiltBuilding": 138730,
+    "averagePriceUnbuiltBuilding": 63095,
+    "departmentId": "cm0alv0j40013e5jmwrbtlt1h"
+  },
+
+  {
+    "name": "Douala IIIe",
+    "type": "districtMunicipality",
+    "averagePriceBuiltBuilding": 50848,
+    "averagePriceUnbuiltBuilding": 26024,
+    "departmentId": "cm0alv0j40013e5jmwrbtlt1h"
+  },
+
+  {
+    "name": "Douala IVe",
+    "type": "districtMunicipality",
+    "averagePriceBuiltBuilding": 44980,
+    "averagePriceUnbuiltBuilding": 22229,
+    "departmentId": "cm0alv0j40013e5jmwrbtlt1h"
+  },
+
+  {
+    "name": "Douala Ve",
+    "type": "districtMunicipality",
+    "averagePriceBuiltBuilding": 93889,
+    "averagePriceUnbuiltBuilding": 46944,
+    "departmentId": "cm0alv0j40013e5jmwrbtlt1h"
+  },
+
+  {
+    "name": "Douala VIe",
+    "type": "districtMunicipality",
+    "averagePriceBuiltBuilding": 93889,
+    "averagePriceUnbuiltBuilding": 46944,
+    "departmentId": "cm0alv0j40013e5jmwrbtlt1h"
+  }
+]

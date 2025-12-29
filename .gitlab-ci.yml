@@ -1,0 +1,69 @@
+cache:
+  key: ${CI_COMMIT_REF_NAME}
+  paths:
+    - node_modules/
+    - .next/cache/
+
+image: node:20.11.1-alpine
+
+stages:
+  - build
+  - deploy
+  - cron
+
+variables:
+  DOMAIN_NAME: ecomatin.be
+  PROJECT_FOLDER_NAME: ecomatin-nextjs-api
+  PROJECT_NAME: $CI_COMMIT_REF_NAME
+  WEB_ROOT: /var/www
+
+build:
+  stage: build
+  script:
+    - npm install --legacy-peer-deps
+    - cp -f ./env/.env.testing ./.env
+    - npm run prisma:generate
+    - npm run build
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "push"
+    - if: $CI_PIPELINE_SOURCE == "web" && $SUBSCRIPTION_REMINDER_CRON != "true"
+    - if: $CI_PIPELINE_SOURCE == "merge_request_event"
+
+deploy:
+  stage: deploy
+  script:
+    - mkdir -p ${WEB_ROOT}/${PROJECT_FOLDER_NAME}/builds/${PROJECT_NAME}/${CI_COMMIT_SHORT_SHA}
+    - cp -rf ./* ${WEB_ROOT}/${PROJECT_FOLDER_NAME}/builds/${PROJECT_NAME}/${CI_COMMIT_SHORT_SHA}
+    - cd ${WEB_ROOT}/${PROJECT_FOLDER_NAME}/builds/${PROJECT_NAME}/${CI_COMMIT_SHORT_SHA}
+    - rm -f ./.env
+    - cp -f ./env/.env.${CI_COMMIT_REF_NAME} ./.env
+    - npm install --legacy-peer-deps
+    - npm run prisma:generate
+    - npm run build
+    # - env HOME=/home/pm2 pm2 stop pm2.${CI_COMMIT_REF_NAME}.json || true
+    # - env HOME=/home/pm2 pm2 delete pm2.${CI_COMMIT_REF_NAME}.json || true
+    # - env HOME=/home/pm2 pm2 start pm2.${CI_COMMIT_REF_NAME}.json
+    # - env HOME=/home/pm2 pm2 save
+  rules:
+    - if: $CI_PIPELINE_SOURCE == "push" && ($CI_COMMIT_REF_NAME == "main" || $CI_COMMIT_REF_NAME == "testing")
+    - if: $CI_PIPELINE_SOURCE == "web" && $SUBSCRIPTION_REMINDER_CRON != "true" && ($CI_COMMIT_REF_NAME == "main" || $CI_COMMIT_REF_NAME == "testing")
+
+# Job cron pour les rappels d'abonnement - INDEPENDANT
+subscription-reminder-cron:
+  stage: cron
+  image: alpine:latest
+  before_script:
+    - apk update && apk add --no-cache curl
+  script:
+    - echo "Execution du cron de rappel d'abonnement"
+    - echo "Date $(date)"
+    - echo "Branche $CI_COMMIT_REF_NAME"
+    - chmod +x ./scripts/subscription-reminder-cron.sh
+    - ./scripts/subscription-reminder-cron.sh
+  rules:
+    # Déclenché par un schedule GitLab avec la variable SUBSCRIPTION_REMINDER_CRON=true
+    - if: $CI_PIPELINE_SOURCE == "schedule" && $SUBSCRIPTION_REMINDER_CRON == "true"
+    # Déclenché manuellement via l'interface GitLab avec la variable SUBSCRIPTION_REMINDER_CRON=true
+    - if: $CI_PIPELINE_SOURCE == "web" && $SUBSCRIPTION_REMINDER_CRON == "true"
+  needs: []
+

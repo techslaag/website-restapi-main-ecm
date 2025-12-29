@@ -1,0 +1,1957 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider     = "mysql"
+  url          = env("DATABASE_URL")
+  relationMode = "prisma"
+}
+
+model mod180_actionscheduler_actions {
+  action_id            BigInt    @id @default(autoincrement()) @db.UnsignedBigInt
+  hook                 String
+  status               String    @db.VarChar(20)
+  scheduled_date_gmt   DateTime? @default(now()) @db.DateTime(0)
+  scheduled_date_local DateTime? @default(now()) @db.DateTime(0)
+  args                 String?
+  schedule             String?   @db.LongText
+  group_id             BigInt    @default(0) @db.UnsignedBigInt
+  attempts             Int       @default(0)
+  last_attempt_gmt     DateTime? @default(now()) @db.DateTime(0)
+  last_attempt_local   DateTime? @default(now()) @db.DateTime(0)
+  claim_id             BigInt    @default(0) @db.UnsignedBigInt
+  extended_args        String?   @db.VarChar(8000)
+  priority             Int       @default(10) @db.UnsignedTinyInt
+
+  @@index([args], map: "args")
+  @@index([claim_id], map: "claim_id")
+  @@index([claim_id, status, scheduled_date_gmt], map: "claim_id_status_scheduled_date_gmt")
+  @@index([group_id], map: "group_id")
+  @@index([hook], map: "hook")
+  @@index([last_attempt_gmt], map: "last_attempt_gmt")
+  @@index([scheduled_date_gmt], map: "scheduled_date_gmt")
+  @@index([status], map: "status")
+}
+
+model mod180_actionscheduler_claims {
+  claim_id         BigInt    @id @default(autoincrement()) @db.UnsignedBigInt
+  date_created_gmt DateTime? @default(now()) @db.DateTime(0)
+
+  @@index([date_created_gmt], map: "date_created_gmt")
+}
+
+model mod180_actionscheduler_groups {
+  group_id BigInt @id @default(autoincrement()) @db.UnsignedBigInt
+  slug     String @db.VarChar(255)
+
+  @@index([slug(length: 191)], map: "slug")
+}
+
+model mod180_actionscheduler_logs {
+  log_id         BigInt    @id @default(autoincrement()) @db.UnsignedBigInt
+  action_id      BigInt    @db.UnsignedBigInt
+  message        String    @db.Text
+  log_date_gmt   DateTime? @default(now()) @db.DateTime(0)
+  log_date_local DateTime? @default(now()) @db.DateTime(0)
+
+  @@index([action_id], map: "action_id")
+  @@index([log_date_gmt], map: "log_date_gmt")
+}
+
+model mod180_bravepopup_goal_stats {
+  id          Int       @id @default(autoincrement()) @db.MediumInt
+  goal_time   DateTime? @default(now()) @db.DateTime(0)
+  popup       Int
+  country     String?   @db.VarChar(50)
+  ip          String?   @db.VarChar(50)
+  device      String?   @default("") @db.VarChar(20)
+  goaltype    String?   @db.VarChar(20)
+  actiontype  String?   @db.VarChar(20)
+  actiondata  String?   @db.VarChar(150)
+  autotracked Int?      @default(0)
+  url         String    @default("") @db.VarChar(155)
+  user        Int       @default(0)
+  viewed      Int       @default(0)
+}
+
+model mod180_bravepopup_stats {
+  id    Int    @id @default(autoincrement()) @db.MediumInt
+  popup Int
+  stats String @db.Text
+}
+
+model mod180_bravepopup_submissions {
+  id            Int       @id @default(autoincrement()) @db.MediumInt
+  title         String?   @default("") @db.VarChar(50)
+  submitted     DateTime? @default(now()) @db.DateTime(0)
+  settings      String?   @db.Text
+  submission    String?   @db.Text
+  automation    String?   @db.Text
+  popup         Int
+  form_id       String?   @db.VarChar(50)
+  form_settings String?   @db.Text
+  tags          String?   @db.Text
+  country       String?   @db.VarChar(50)
+  ip            String?   @db.VarChar(50)
+  device        String?   @default("") @db.VarChar(20)
+  url           String    @default("") @db.VarChar(155)
+  user          String?   @default("") @db.VarChar(155)
+}
+
+model mod180_ce4wp_abandoned_checkout {
+  checkout_id           BigInt    @id @default(autoincrement()) @db.UnsignedBigInt
+  user_id               BigInt    @default(0) @db.UnsignedBigInt
+  user_email            String    @default("") @db.VarChar(200)
+  checkout_contents     String    @db.LongText
+  checkout_updated      DateTime? @default(now()) @db.DateTime(0)
+  checkout_updated_ts   Int       @default(0) @db.UnsignedInt
+  checkout_created      DateTime? @default(now()) @db.DateTime(0)
+  checkout_created_ts   Int       @default(0) @db.UnsignedInt
+  checkout_recovered    DateTime? @default(now()) @db.DateTime(0)
+  checkout_recovered_ts Int?      @default(0) @db.UnsignedInt
+  checkout_consent      Int       @default(1) @db.UnsignedInt
+  checkout_uuid         String    @unique(map: "checkout_uuid") @default("") @db.VarChar(36)
+}
+
+model mod180_commentmeta {
+  meta_id    BigInt  @id @default(autoincrement()) @db.UnsignedBigInt
+  comment_id BigInt  @default(0) @db.UnsignedBigInt
+  meta_key   String? @db.VarChar(255)
+  meta_value String? @db.LongText
+
+  @@index([comment_id], map: "comment_id")
+  @@index([meta_key(length: 191)], map: "meta_key")
+}
+
+model mod180_comments {
+  comment_ID           BigInt    @id @default(autoincrement()) @db.UnsignedBigInt
+  comment_post_ID      BigInt    @default(0) @db.UnsignedBigInt
+  comment_author       String    @db.TinyText
+  comment_author_email String    @default("") @db.VarChar(100)
+  comment_author_url   String    @default("") @db.VarChar(200)
+  comment_author_IP    String    @default("") @db.VarChar(100)
+  comment_date         DateTime? @default(now()) @db.DateTime(0)
+  comment_date_gmt     DateTime? @default(now()) @db.DateTime(0)
+  comment_content      String    @db.Text
+  comment_karma        Int       @default(0)
+  comment_approved     String    @default("1") @db.VarChar(20)
+  comment_agent        String    @default("") @db.VarChar(255)
+  comment_type         String    @default("comment") @db.VarChar(20)
+  comment_parent       BigInt    @default(0) @db.UnsignedBigInt
+  user_id              BigInt    @default(0) @db.UnsignedBigInt
+
+  @@index([comment_approved, comment_date_gmt], map: "comment_approved_date_gmt")
+  @@index([comment_author_email(length: 10)], map: "comment_author_email")
+  @@index([comment_date_gmt], map: "comment_date_gmt")
+  @@index([comment_parent], map: "comment_parent")
+  @@index([comment_post_ID], map: "comment_post_ID")
+  @@index([comment_type], map: "woo_idx_comment_type")
+}
+
+model mod180_csshero4 {
+  step_id          Int       @unique(map: "step_id") @default(autoincrement()) @db.MediumInt
+  step_time        DateTime? @default(now()) @db.DateTime(0)
+  step_type        String    @db.VarChar(30)
+  step_name        String    @db.VarChar(100)
+  step_data        Bytes     @db.MediumBlob
+  step_theme       String    @db.VarChar(100)
+  step_context     String    @db.VarChar(30)
+  step_active_flag String    @db.VarChar(3)
+}
+
+model mod180_duplicator_backups {
+  id           BigInt    @id @default(autoincrement()) @db.UnsignedBigInt
+  name         String    @db.VarChar(250)
+  hash         String    @db.VarChar(50)
+  archive_name String    @default("") @db.VarChar(350)
+  status       Int
+  progress     Float     @default(0) @db.Float
+  flags        String    @default("")
+  package      String    @db.LongText
+  owner        String    @default("") @db.VarChar(60)
+  version      String    @default("") @db.VarChar(30)
+  created      DateTime? @default(now()) @db.Timestamp(0)
+  updated_at   DateTime  @default(now()) @db.Timestamp(0)
+
+  @@index([archive_name], map: "archive_name")
+  @@index([created], map: "created")
+  @@index([flags], map: "flags")
+  @@index([hash], map: "hash")
+  @@index([name], map: "name")
+  @@index([status], map: "status")
+  @@index([updated_at], map: "updated_at")
+  @@index([version], map: "version")
+}
+
+model mod180_duplicator_entities {
+  id         BigInt    @id @default(autoincrement()) @db.UnsignedBigInt
+  type       String    @db.VarChar(100)
+  value_1    String    @default("") @db.VarChar(255)
+  value_2    String    @default("") @db.VarChar(255)
+  value_3    String    @default("") @db.VarChar(255)
+  value_4    String    @default("") @db.VarChar(255)
+  value_5    String    @default("") @db.VarChar(255)
+  data       String    @db.LongText
+  version    String    @default("") @db.VarChar(30)
+  created_at DateTime? @default(now()) @db.Timestamp(0)
+  updated_at DateTime  @default(now()) @db.Timestamp(0)
+
+  @@index([created_at], map: "created_at")
+  @@index([type], map: "type_idx")
+  @@index([updated_at], map: "updated_at")
+  @@index([value_1], map: "value_1")
+  @@index([value_2], map: "value_2")
+  @@index([value_3], map: "value_3")
+  @@index([value_4], map: "value_4")
+  @@index([value_5], map: "value_5")
+  @@index([version], map: "version")
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model mod180_e_submissions {
+  id                      BigInt   @id @default(autoincrement()) @db.UnsignedBigInt
+  type                    String?  @db.VarChar(60)
+  hash_id                 String   @unique(map: "hash_id_unique_index") @db.VarChar(60)
+  main_meta_id            BigInt   @db.UnsignedBigInt
+  post_id                 BigInt   @db.UnsignedBigInt
+  referer                 String   @db.VarChar(500)
+  referer_title           String?  @db.VarChar(300)
+  element_id              String   @db.VarChar(20)
+  form_name               String   @db.VarChar(60)
+  campaign_id             BigInt   @db.UnsignedBigInt
+  user_id                 BigInt?  @db.UnsignedBigInt
+  user_ip                 String   @db.VarChar(46)
+  user_agent              String   @db.Text
+  actions_count           Int?     @default(0)
+  actions_succeeded_count Int?     @default(0)
+  status                  String   @db.VarChar(20)
+  is_read                 Boolean  @default(false)
+  meta                    String?  @db.Text
+  created_at_gmt          DateTime @db.DateTime(0)
+  updated_at_gmt          DateTime @db.DateTime(0)
+  created_at              DateTime @db.DateTime(0)
+  updated_at              DateTime @db.DateTime(0)
+
+  @@index([campaign_id], map: "campaign_id_index")
+  @@index([created_at_gmt], map: "created_at_gmt_index")
+  @@index([created_at], map: "created_at_index")
+  @@index([element_id], map: "element_id_index")
+  @@index([hash_id], map: "hash_id_index")
+  @@index([is_read], map: "is_read_index")
+  @@index([main_meta_id], map: "main_meta_id_index")
+  @@index([post_id], map: "post_id_index")
+  @@index([referer(length: 191)], map: "referer_index")
+  @@index([referer_title(length: 191)], map: "referer_title_index")
+  @@index([status], map: "status_index")
+  @@index([type], map: "type_index")
+  @@index([updated_at_gmt], map: "updated_at_gmt_index")
+  @@index([updated_at], map: "updated_at_index")
+  @@index([user_id], map: "user_id_index")
+  @@index([user_ip], map: "user_ip_index")
+}
+
+model mod180_e_submissions_actions_log {
+  id             BigInt   @id @default(autoincrement()) @db.UnsignedBigInt
+  submission_id  BigInt   @db.UnsignedBigInt
+  action_name    String   @db.VarChar(60)
+  action_label   String?  @db.VarChar(60)
+  status         String   @db.VarChar(20)
+  log            String?  @db.Text
+  created_at_gmt DateTime @db.DateTime(0)
+  updated_at_gmt DateTime @db.DateTime(0)
+  created_at     DateTime @db.DateTime(0)
+  updated_at     DateTime @db.DateTime(0)
+
+  @@index([action_name], map: "action_name_index")
+  @@index([created_at_gmt], map: "created_at_gmt_index")
+  @@index([created_at], map: "created_at_index")
+  @@index([status], map: "status_index")
+  @@index([submission_id], map: "submission_id_index")
+  @@index([updated_at_gmt], map: "updated_at_gmt_index")
+  @@index([updated_at], map: "updated_at_index")
+}
+
+model mod180_e_submissions_values {
+  id            BigInt  @id @default(autoincrement()) @db.UnsignedBigInt
+  submission_id BigInt  @default(0) @db.UnsignedBigInt
+  key           String? @db.VarChar(60)
+  value         String? @db.LongText
+
+  @@index([key], map: "key_index")
+  @@index([submission_id], map: "submission_id_index")
+}
+
+/// The underlying table does not contain a valid unique identifier and can therefore currently not be handled by Prisma Client.
+model mod180_ihc_cheat_off {
+  uid  Int
+  hash String @db.VarChar(40)
+
+  @@ignore
+}
+
+model mod180_ihc_coupons {
+  id                     Int      @id @default(autoincrement())
+  code                   String?  @db.VarChar(200)
+  settings               String?  @db.Text
+  submited_coupons_count Int?
+  status                 Boolean?
+}
+
+/// The underlying table does not contain a valid unique identifier and can therefore currently not be handled by Prisma Client.
+model mod180_ihc_dashboard_notifications {
+  type  String @db.VarChar(40)
+  value Int?   @default(0)
+
+  @@ignore
+}
+
+model mod180_ihc_debug_payments {
+  id          Int       @id @default(autoincrement())
+  source      String?   @db.VarChar(200)
+  message     String?   @db.Text
+  insert_time DateTime? @db.DateTime(0)
+}
+
+/// The underlying table does not contain a valid unique identifier and can therefore currently not be handled by Prisma Client.
+model mod180_ihc_download_monitor_limit {
+  uid            Int
+  lid            Int
+  download_limit Int
+
+  @@ignore
+}
+
+model mod180_ihc_gift_templates {
+  id       Int     @id @default(autoincrement())
+  lid      Int?
+  settings String? @db.Text
+  status   Int?    @db.TinyInt
+}
+
+model mod180_ihc_invitation_codes {
+  id           Int      @id @default(autoincrement())
+  code         String?  @db.VarChar(200)
+  settings     String?  @db.Text
+  submited     Int?
+  repeat_limit Int?
+  status       Boolean?
+}
+
+model mod180_ihc_memberships {
+  id                Int      @id @default(autoincrement())
+  name              String   @db.VarChar(200)
+  label             String   @db.VarChar(200)
+  short_description String?  @db.VarChar(400)
+  payment_type      String?  @db.VarChar(50)
+  price             Decimal? @default(0.00) @db.Decimal(12, 2)
+  status            Boolean? @default(true)
+  the_order         Int?
+  created_at        Int?
+
+  @@index([id], map: "idx_ihc_memberships_id")
+}
+
+model mod180_ihc_memberships_meta {
+  id            Int     @id @default(autoincrement())
+  membership_id Int
+  meta_key      String  @db.VarChar(300)
+  meta_value    String? @db.Text
+
+  @@index([membership_id], map: "idx_ihc_memberships_meta_membership_id")
+}
+
+model mod180_ihc_notifications {
+  id                Int      @id @default(autoincrement())
+  notification_type String?  @db.VarChar(200)
+  level_id          String?  @db.VarChar(200)
+  subject           String?  @db.Text
+  message           String?  @db.Text
+  pushover_message  String?  @db.Text
+  pushover_status   Boolean  @default(false)
+  status            Boolean?
+}
+
+model mod180_ihc_notifications_logs {
+  id                Int      @id @default(autoincrement())
+  notification_type String?  @db.VarChar(100)
+  email_address     String?  @db.VarChar(300)
+  subject           String?  @db.VarChar(300)
+  message           String?  @db.Text
+  uid               Int
+  lid               Int
+  create_date       DateTime @default(now()) @db.Timestamp(0)
+}
+
+model mod180_ihc_orders {
+  id                Int      @id @default(autoincrement())
+  uid               Int?
+  lid               Int?
+  amount_type       String?  @db.VarChar(200)
+  amount_value      Decimal? @default(0.00) @db.Decimal(12, 2)
+  automated_payment Boolean?
+  status            String?  @db.VarChar(100)
+  create_date       DateTime @default(now()) @db.Timestamp(0)
+
+  @@index([uid], map: "idx_ihc_orders_uid")
+}
+
+model mod180_ihc_orders_meta {
+  id         Int     @id @default(autoincrement())
+  order_id   Int?
+  meta_key   String? @db.VarChar(200)
+  meta_value String? @db.Text
+
+  @@index([order_id], map: "idx_ihc_orders_meta_order_id")
+}
+
+model mod180_ihc_reason_for_cancel_delete_levels {
+  id          Int     @id @default(autoincrement())
+  uid         Int
+  lid         Int
+  reason      String? @db.VarChar(400)
+  action_type String? @db.VarChar(30)
+  action_date Int?
+}
+
+model mod180_ihc_security_login {
+  id             Int      @id @default(autoincrement())
+  username       String?  @db.VarChar(200)
+  ip             String?  @db.VarChar(30)
+  log_time       Int?
+  attempts_count Int?
+  locked         Boolean?
+}
+
+model mod180_ihc_taxes {
+  id           Int      @id @default(autoincrement())
+  country_code String?  @db.VarChar(20)
+  state_code   String?  @default("") @db.VarChar(50)
+  amount_value Decimal? @default(0.00) @db.Decimal(12, 2)
+  label        String?  @db.VarChar(200)
+  description  String?  @db.Text
+  status       Boolean?
+}
+
+model mod180_ihc_user_levels {
+  id           Int       @id @default(autoincrement())
+  user_id      Int
+  level_id     Int
+  start_time   DateTime? @db.DateTime(0)
+  update_time  DateTime? @db.DateTime(0)
+  expire_time  DateTime? @db.DateTime(0)
+  notification Boolean?  @default(false)
+  status       Int
+
+  @@index([user_id], map: "idx_ihc_user_levels_user_id")
+}
+
+model mod180_ihc_user_logs {
+  id          Int     @id @default(autoincrement())
+  uid         Int     @default(0)
+  lid         Int?
+  log_type    String? @db.VarChar(100)
+  log_content String? @db.Text
+  create_date Int?
+
+  @@index([uid], map: "idx_ihc_user_logs_uid")
+}
+
+model mod180_ihc_user_sites {
+  id      Int  @id @default(autoincrement())
+  site_id Int?
+  uid     Int?
+  lid     Int?
+}
+
+model mod180_ihc_user_subscriptions_meta {
+  id              BigInt  @id @default(autoincrement())
+  subscription_id BigInt
+  meta_key        String  @db.VarChar(300)
+  meta_value      String? @db.Text
+
+  @@index([subscription_id], map: "idx_ihc_user_subscriptions_meta_subscription_id")
+}
+
+model mod180_ihc_woo_product_level_relations {
+  id                 Int     @id @default(autoincrement())
+  ihc_woo_product_id Int?
+  lid                Int?
+  woo_item           Int?
+  woo_item_type      String? @db.VarChar(200)
+}
+
+model mod180_ihc_woo_products {
+  id             Int       @id @default(autoincrement())
+  slug           String    @db.VarChar(200)
+  discount_type  String?   @db.VarChar(20)
+  discount_value Decimal?  @db.Decimal(12, 2)
+  start_date     DateTime? @db.DateTime(0)
+  end_date       DateTime? @db.DateTime(0)
+  settings       String?   @db.Text
+  status         Boolean?  @default(false)
+}
+
+model mod180_indeed_members_payments {
+  id           Int      @id @default(autoincrement())
+  txn_id       String?  @db.VarChar(100)
+  u_id         Int?
+  payment_data String?  @db.Text
+  history      String?  @db.Text
+  orders       String?  @db.Text
+  paydate      DateTime @default(now()) @db.Timestamp(0)
+
+  @@index([u_id], map: "idx_indeed_members_payments_uid")
+}
+
+model mod180_iwomi {
+  id           Int       @id @default(autoincrement()) @db.MediumInt
+  date         DateTime? @default(now()) @db.DateTime(0)
+  article_id   Int
+  article_name String    @db.VarChar(255)
+  price        String    @default("") @db.VarChar(255)
+}
+
+model mod180_links {
+  link_id          BigInt    @id @default(autoincrement()) @db.UnsignedBigInt
+  link_url         String    @default("") @db.VarChar(255)
+  link_name        String    @default("") @db.VarChar(255)
+  link_image       String    @default("") @db.VarChar(255)
+  link_target      String    @default("") @db.VarChar(25)
+  link_description String    @default("") @db.VarChar(255)
+  link_visible     String    @default("Y") @db.VarChar(20)
+  link_owner       BigInt    @default(1) @db.UnsignedBigInt
+  link_rating      Int       @default(0)
+  link_updated     DateTime? @default(now()) @db.DateTime(0)
+  link_rel         String    @default("") @db.VarChar(255)
+  link_notes       String    @db.MediumText
+  link_rss         String    @default("") @db.VarChar(255)
+
+  @@index([link_visible], map: "link_visible")
+}
+
+model mod180_mailchimp_carts {
+  id         String   @db.VarChar(255)
+  email      String   @id @db.VarChar(100)
+  user_id    Int?
+  cart       String   @db.Text
+  created_at DateTime @db.DateTime(0)
+}
+
+model mod180_mailchimp_jobs {
+  id         BigInt   @id @default(autoincrement())
+  obj_id     String?  @db.Text
+  job        String   @db.Text
+  created_at DateTime @db.DateTime(0)
+}
+
+model mod180_mepr_events {
+  id          BigInt   @id @default(autoincrement())
+  event       String   @default("login") @db.VarChar(255)
+  args        String?  @db.VarChar(255)
+  evt_id      BigInt
+  evt_id_type String   @db.VarChar(255)
+  created_at  DateTime @db.DateTime(0)
+
+  @@index([args(length: 191)], map: "event_args")
+  @@index([created_at], map: "event_created_at")
+  @@index([event(length: 191)], map: "event_event")
+  @@index([evt_id], map: "event_evt_id")
+  @@index([evt_id_type(length: 191)], map: "event_evt_id_type")
+}
+
+model mod180_mepr_jobs {
+  id         BigInt    @id @default(autoincrement())
+  runtime    DateTime  @db.DateTime(0)
+  firstrun   DateTime  @db.DateTime(0)
+  lastrun    DateTime? @db.DateTime(0)
+  priority   BigInt?   @default(10)
+  tries      BigInt?   @default(0)
+  class      String    @db.VarChar(255)
+  batch      String?   @db.VarChar(255)
+  args       String?   @db.Text
+  reason     String?   @db.Text
+  status     String?   @default("pending") @db.VarChar(255)
+  created_at DateTime  @db.DateTime(0)
+
+  @@index([batch(length: 191)], map: "job_batch")
+  @@index([class(length: 191)], map: "job_class")
+  @@index([created_at], map: "job_created_at")
+  @@index([firstrun], map: "job_firstrun")
+  @@index([lastrun], map: "job_lastrun")
+  @@index([priority], map: "job_priority")
+  @@index([runtime], map: "job_runtime")
+  @@index([status(length: 191)], map: "job_status")
+  @@index([tries], map: "job_tries")
+}
+
+model mod180_mepr_members {
+  id                  BigInt   @id @default(autoincrement())
+  user_id             BigInt   @unique(map: "mp_user_id")
+  first_txn_id        BigInt?
+  latest_txn_id       BigInt?
+  txn_count           BigInt?
+  expired_txn_count   BigInt?
+  active_txn_count    BigInt?
+  sub_count           BigInt?
+  pending_sub_count   BigInt?
+  active_sub_count    BigInt?
+  suspended_sub_count BigInt?
+  cancelled_sub_count BigInt?
+  memberships         String?  @db.LongText
+  last_login_id       BigInt?
+  login_count         BigInt?
+  total_spent         Decimal? @default(0.00) @db.Decimal(16, 2)
+  created_at          DateTime @db.DateTime(0)
+  updated_at          DateTime @db.DateTime(0)
+  trial_txn_count     BigInt?
+
+  @@index([active_sub_count], map: "mp_active_sub_count")
+  @@index([active_txn_count], map: "mp_active_txn_count")
+  @@index([cancelled_sub_count], map: "mp_cancelled_sub_count")
+  @@index([created_at], map: "mp_created_at")
+  @@index([expired_txn_count], map: "mp_expired_txn_count")
+  @@index([latest_txn_id], map: "mp_first_txn_id")
+  @@index([last_login_id], map: "mp_last_login_id")
+  @@index([latest_txn_id], map: "mp_latest_txn_id")
+  @@index([login_count], map: "mp_login_count")
+  @@index([pending_sub_count], map: "mp_pending_sub_count")
+  @@index([sub_count], map: "mp_sub_count")
+  @@index([suspended_sub_count], map: "mp_suspended_sub_count")
+  @@index([total_spent], map: "mp_total_spent")
+  @@index([trial_txn_count], map: "mp_trial_txn_count")
+  @@index([txn_count], map: "mp_txn_count")
+  @@index([updated_at], map: "mp_updated_at")
+}
+
+model mod180_mepr_rule_access_conditions {
+  id               BigInt @id @default(autoincrement())
+  rule_id          BigInt
+  access_type      String @db.VarChar(20)
+  access_operator  String @db.VarChar(20)
+  access_condition String @db.VarChar(60)
+
+  @@index([access_condition], map: "mp_access_condition")
+  @@index([rule_id], map: "mp_access_rule_id")
+  @@index([access_type], map: "mp_access_type")
+}
+
+model mod180_mepr_subscription_meta {
+  id              BigInt  @id @default(autoincrement())
+  subscription_id BigInt? @default(0)
+  meta_key        String?
+  meta_value      String? @db.LongText
+
+  @@index([meta_key], map: "meta_key")
+  @@index([subscription_id], map: "subscription_id")
+}
+
+model mod180_mepr_subscriptions {
+  id                         BigInt   @id @default(autoincrement())
+  user_id                    BigInt
+  product_id                 BigInt
+  coupon_id                  BigInt?
+  subscr_id                  String?  @default("") @db.VarChar(255)
+  price                      Decimal  @db.Decimal(16, 2)
+  total                      Decimal? @default(0.00) @db.Decimal(16, 2)
+  tax_amount                 Decimal? @default(0.00) @db.Decimal(16, 2)
+  tax_rate                   Decimal? @default(0.000) @db.Decimal(6, 3)
+  tax_desc                   String?  @default("") @db.VarChar(255)
+  tax_compound               Int?     @default(0)
+  tax_shipping               Int?     @default(1)
+  tax_class                  String?  @default("standard") @db.VarChar(255)
+  gateway                    String?  @default("manual") @db.VarChar(255)
+  response                   String?  @db.LongText
+  period                     Int?     @default(1)
+  period_type                String?  @default("months") @db.VarChar(20)
+  limit_cycles               Boolean? @default(false)
+  limit_cycles_num           Int?     @default(1)
+  limit_cycles_action        String?  @default("lifetime") @db.VarChar(255)
+  limit_cycles_expires_after Int?     @default(1)
+  limit_cycles_expires_type  String?  @default("days") @db.VarChar(255)
+  prorated_trial             Boolean? @default(false)
+  trial                      Boolean? @default(false)
+  trial_days                 Int?     @default(1)
+  trial_amount               Decimal? @default(0.00) @db.Decimal(16, 2)
+  status                     String?  @default("pending") @db.VarChar(20)
+  created_at                 DateTime @db.DateTime(0)
+  cc_last4                   String?  @default("4242") @db.VarChar(10)
+  cc_exp_month               String?  @default("01") @db.VarChar(10)
+  cc_exp_year                String?  @default("1999") @db.VarChar(10)
+  token                      String?  @db.VarChar(64)
+
+  @@index([cc_exp_month], map: "mp_cc_exp_month")
+  @@index([cc_exp_year], map: "mp_cc_exp_year")
+  @@index([cc_last4], map: "mp_cc_last4")
+  @@index([coupon_id], map: "mp_coupon_id")
+  @@index([created_at], map: "mp_created_at")
+  @@index([gateway(length: 191)], map: "mp_gateway")
+  @@index([limit_cycles], map: "mp_limit_cycles")
+  @@index([limit_cycles_action(length: 191)], map: "mp_limit_cycles_action")
+  @@index([limit_cycles_num], map: "mp_limit_cycles_num")
+  @@index([period], map: "mp_period")
+  @@index([period_type], map: "mp_period_type")
+  @@index([product_id], map: "mp_product_id")
+  @@index([prorated_trial], map: "mp_prorated_trial")
+  @@index([status], map: "mp_status")
+  @@index([subscr_id(length: 191)], map: "mp_subscr_id")
+  @@index([token], map: "mp_token")
+  @@index([trial], map: "mp_trial")
+  @@index([trial_days], map: "mp_trial_days")
+  @@index([user_id], map: "mp_user_id")
+}
+
+model mod180_mepr_tax_rate_locations {
+  id            BigInt @id @default(autoincrement())
+  tax_rate_id   BigInt
+  location_code String @db.VarChar(200)
+  location_type String @db.VarChar(40)
+
+  @@index([location_code(length: 191)], map: "mp_location_code")
+  @@index([location_type], map: "mp_location_type")
+  @@index([location_type, location_code(length: 191)], map: "mp_location_type_code")
+  @@index([tax_rate_id], map: "mp_tax_rate_id")
+}
+
+model mod180_mepr_tax_rates {
+  id           BigInt @id @default(autoincrement())
+  tax_country  String @default("") @db.VarChar(255)
+  tax_state    String @default("") @db.VarChar(255)
+  tax_rate     String @default("") @db.VarChar(255)
+  tax_desc     String @default("") @db.VarChar(255)
+  tax_priority BigInt @default(0)
+  tax_compound Int    @default(0)
+  tax_shipping Int    @default(1)
+  tax_order    BigInt
+  tax_class    String @default("standard") @db.VarChar(255)
+
+  @@index([tax_class(length: 191)], map: "mp_tax_class")
+  @@index([tax_compound], map: "mp_tax_compound")
+  @@index([tax_country(length: 191)], map: "mp_tax_country")
+  @@index([tax_desc(length: 191)], map: "mp_tax_desc")
+  @@index([tax_order], map: "mp_tax_order")
+  @@index([tax_priority], map: "mp_tax_priority")
+  @@index([tax_rate(length: 191)], map: "mp_tax_rate")
+  @@index([tax_shipping], map: "mp_tax_shipping")
+  @@index([tax_state(length: 191)], map: "mp_tax_state")
+}
+
+model mod180_mepr_transaction_meta {
+  id             BigInt  @id @default(autoincrement())
+  transaction_id BigInt? @default(0)
+  meta_key       String?
+  meta_value     String? @db.LongText
+
+  @@index([meta_key], map: "meta_key")
+  @@index([transaction_id], map: "transaction_id")
+}
+
+model mod180_mepr_transactions {
+  id                    BigInt    @id @default(autoincrement())
+  amount                Decimal   @db.Decimal(16, 2)
+  total                 Decimal?  @default(0.00) @db.Decimal(16, 2)
+  tax_amount            Decimal?  @default(0.00) @db.Decimal(16, 2)
+  tax_rate              Decimal?  @default(0.000) @db.Decimal(6, 3)
+  tax_desc              String?   @default("") @db.VarChar(255)
+  tax_compound          Int?      @default(0)
+  tax_shipping          Int?      @default(1)
+  tax_class             String?   @default("standard") @db.VarChar(255)
+  user_id               BigInt
+  product_id            BigInt
+  coupon_id             BigInt?
+  trans_num             String?   @db.VarChar(255)
+  status                String?   @default("pending") @db.VarChar(255)
+  txn_type              String?   @default("payment") @db.VarChar(255)
+  response              String?   @db.Text
+  gateway               String?   @default("manual") @db.VarChar(255)
+  subscription_id       BigInt?
+  prorated              Boolean?  @default(false)
+  created_at            DateTime  @db.DateTime(0)
+  expires_at            DateTime? @default(now()) @db.DateTime(0)
+  corporate_account_id  BigInt?   @default(0)
+  parent_transaction_id BigInt?   @default(0)
+
+  @@index([amount], map: "amount")
+  @@index([corporate_account_id], map: "corporate_account_id")
+  @@index([coupon_id], map: "coupon_id")
+  @@index([created_at], map: "created_at")
+  @@index([expires_at], map: "expires_at")
+  @@index([gateway(length: 191)], map: "gateway")
+  @@index([parent_transaction_id], map: "parent_transaction_id")
+  @@index([product_id], map: "product_id")
+  @@index([prorated], map: "prorated")
+  @@index([status(length: 191)], map: "status")
+  @@index([subscription_id], map: "subscription_id")
+  @@index([tax_amount], map: "tax_amount")
+  @@index([tax_class(length: 191)], map: "tax_class")
+  @@index([tax_compound], map: "tax_compound")
+  @@index([tax_desc(length: 191)], map: "tax_desc")
+  @@index([tax_rate], map: "tax_rate")
+  @@index([tax_shipping], map: "tax_shipping")
+  @@index([total], map: "total")
+  @@index([trans_num(length: 191)], map: "trans_num")
+  @@index([txn_type(length: 191)], map: "txn_type")
+  @@index([user_id], map: "user_id")
+}
+
+model mod180_options {
+  option_id    BigInt @id @default(autoincrement()) @db.UnsignedBigInt
+  option_name  String @unique(map: "option_name") @default("")
+  option_value String @db.LongText
+  autoload     String @default("yes") @db.VarChar(20)
+
+  @@index([autoload], map: "autoload")
+}
+
+model mod180_postmeta {
+  meta_id    BigInt       @id @default(autoincrement()) @db.UnsignedBigInt
+  post_id    BigInt       @default(0) @db.UnsignedBigInt
+  meta_key   String?
+  meta_value String?      @db.LongText
+  post       mod180_posts @relation(fields: [post_id], references: [ID])
+
+  @@index([meta_key], map: "meta_key")
+  @@index([post_id], map: "post_id")
+}
+
+model mod180_posts {
+  ID                    BigInt                      @id @default(autoincrement()) @db.UnsignedBigInt
+  post_author           BigInt                      @default(0) @db.UnsignedBigInt
+  post_date             DateTime?                   @default(now()) @db.DateTime(0)
+  post_date_gmt         DateTime?                   @default(now()) @db.DateTime(0)
+  post_content          String                      @db.LongText
+  post_title            String                      @db.Text
+  post_excerpt          String                      @db.Text
+  post_status           String                      @default("publish") @db.VarChar(20)
+  comment_status        String                      @default("open") @db.VarChar(20)
+  ping_status           String                      @default("open") @db.VarChar(20)
+  post_password         String                      @default("") @db.VarChar(255)
+  post_name             String                      @default("") @db.VarChar(200)
+  to_ping               String                      @db.Text
+  pinged                String                      @db.Text
+  post_modified         DateTime?                   @default(now()) @db.DateTime(0)
+  post_modified_gmt     DateTime?                   @default(now()) @db.DateTime(0)
+  post_content_filtered String                      @db.LongText
+  post_parent           BigInt?                     @default(0) @db.UnsignedBigInt
+  guid                  String                      @default("") @db.VarChar(255)
+  menu_order            Int                         @default(0)
+  post_type             String                      @default("post") @db.VarChar(20)
+  post_mime_type        String                      @default("") @db.VarChar(100)
+  comment_count         BigInt                      @default(0)
+  author                mod180_users                @relation(fields: [post_author], references: [ID])
+  parent                mod180_posts?               @relation("PostParent", fields: [post_parent], references: [ID], onDelete: NoAction, onUpdate: NoAction)
+  children              mod180_posts[]              @relation("PostParent")
+  meta                  mod180_postmeta[]
+  termRelationships     mod180_term_relationships[]
+  headingPosts          HeadingPost[]
+  visits                Postvisit[]
+  purchases             Purchase[]
+
+  @@index([post_author], map: "post_author")
+  @@index([post_name(length: 191)], map: "post_name")
+  @@index([post_parent], map: "post_parent")
+  @@index([post_type, post_status, post_date, ID], map: "type_status_date")
+}
+
+model mod180_rank_math_analytics_inspections {
+  id                       BigInt    @id @default(autoincrement()) @db.UnsignedBigInt
+  page                     String    @db.VarChar(500)
+  created                  DateTime  @default(now()) @db.Timestamp(0)
+  index_verdict            String    @db.VarChar(64)
+  indexing_state           String    @db.VarChar(64)
+  coverage_state           String    @db.Text
+  page_fetch_state         String    @db.VarChar(64)
+  robots_txt_state         String    @db.VarChar(64)
+  mobile_usability_verdict String    @db.VarChar(64)
+  mobile_usability_issues  String    @db.LongText
+  rich_results_verdict     String    @db.VarChar(64)
+  rich_results_items       String    @db.LongText
+  last_crawl_time          DateTime? @default(now()) @db.Timestamp(0)
+  crawled_as               String    @db.VarChar(64)
+  google_canonical         String    @db.Text
+  user_canonical           String    @db.Text
+  sitemap                  String    @db.Text
+  referring_urls           String    @db.LongText
+  raw_api_response         String    @db.LongText
+
+  @@index([page(length: 190)], map: "analytics_object_page")
+  @@index([created], map: "created")
+  @@index([index_verdict], map: "index_verdict")
+  @@index([mobile_usability_verdict], map: "mobile_usability_verdict")
+  @@index([page_fetch_state], map: "page_fetch_state")
+  @@index([rich_results_verdict], map: "rich_results_verdict")
+  @@index([robots_txt_state], map: "robots_txt_state")
+}
+
+model mod180_rank_math_analytics_objects {
+  id                  BigInt    @id @default(autoincrement()) @db.UnsignedBigInt
+  created             DateTime  @default(now()) @db.Timestamp(0)
+  title               String    @db.Text
+  page                String    @db.VarChar(500)
+  object_type         String    @db.VarChar(100)
+  object_subtype      String    @db.VarChar(100)
+  object_id           BigInt    @db.UnsignedBigInt
+  primary_key         String    @db.VarChar(255)
+  seo_score           Int       @default(0) @db.TinyInt
+  page_score          Int       @default(0) @db.TinyInt
+  is_indexable        Boolean   @default(true)
+  schemas_in_use      String?   @db.VarChar(500)
+  desktop_interactive Float?    @default(0)
+  desktop_pagescore   Float?    @default(0)
+  mobile_interactive  Float?    @default(0)
+  mobile_pagescore    Float?    @default(0)
+  pagespeed_refreshed DateTime? @db.Timestamp(0)
+
+  @@index([page(length: 190)], map: "analytics_object_page")
+}
+
+model mod180_rank_math_internal_links {
+  id             BigInt @id @default(autoincrement()) @db.UnsignedBigInt
+  url            String @db.VarChar(255)
+  post_id        BigInt @db.UnsignedBigInt
+  target_post_id BigInt @db.UnsignedBigInt
+  type           String @db.VarChar(8)
+
+  @@index([post_id, type], map: "link_direction")
+}
+
+model mod180_rank_math_internal_meta {
+  object_id           BigInt @id @db.UnsignedBigInt
+  internal_link_count Int?   @default(0) @db.UnsignedInt
+  external_link_count Int?   @default(0) @db.UnsignedInt
+  incoming_link_count Int?   @default(0) @db.UnsignedInt
+}
+
+model mod180_rank_math_redirections {
+  id            BigInt    @id @default(autoincrement()) @db.UnsignedBigInt
+  sources       String    @db.Text
+  url_to        String    @db.Text
+  header_code   Int       @db.UnsignedSmallInt
+  hits          BigInt    @default(0) @db.UnsignedBigInt
+  status        String    @default("active") @db.VarChar(25)
+  created       DateTime? @default(now()) @db.DateTime(0)
+  updated       DateTime? @default(now()) @db.DateTime(0)
+  last_accessed DateTime? @default(now()) @db.DateTime(0)
+
+  @@index([status], map: "status")
+}
+
+model mod180_rank_math_redirections_cache {
+  id             BigInt  @id @default(autoincrement()) @db.UnsignedBigInt
+  from_url       String  @db.Text
+  redirection_id BigInt  @db.UnsignedBigInt
+  object_id      BigInt  @default(0) @db.UnsignedBigInt
+  object_type    String  @default("post") @db.VarChar(10)
+  is_redirected  Boolean @default(false)
+
+  @@index([redirection_id], map: "redirection_id")
+}
+
+model mod180_sliper_elementor_cache {
+  id         Int    @id @default(autoincrement()) @db.UnsignedInt
+  key        String @db.Text
+  data       String @db.LongText
+  updated_at Int
+}
+
+model mod180_tcb_api_error_log {
+  id            Int       @id @default(autoincrement())
+  date          DateTime? @db.DateTime(0)
+  error_message String?   @db.VarChar(400)
+  api_data      String?   @db.Text
+  connection    String?   @db.VarChar(64)
+  list_id       String?   @db.VarChar(255)
+}
+
+model mod180_td_fields {
+  id         Int       @id @default(autoincrement())
+  identifier String?   @db.VarChar(32)
+  group_id   Int
+  name       String    @db.Text
+  type       Int
+  data       String?   @db.Text
+  is_default Int       @default(0)
+  created_at DateTime? @db.DateTime(0)
+  updated_at DateTime? @db.DateTime(0)
+}
+
+model mod180_td_groups {
+  id         Int       @id @default(autoincrement())
+  name       String    @db.Text
+  is_default Int       @default(0)
+  created_at DateTime? @db.DateTime(0)
+  updated_at DateTime? @db.DateTime(0)
+}
+
+model mod180_term_relationships {
+  object_id        BigInt               @default(0) @db.UnsignedBigInt
+  term_taxonomy_id BigInt               @default(0) @db.UnsignedBigInt
+  term_order       Int                  @default(0)
+  post             mod180_posts         @relation(fields: [object_id], references: [ID])
+  taxonomy         mod180_term_taxonomy @relation(fields: [term_taxonomy_id], references: [term_taxonomy_id], onDelete: NoAction, onUpdate: NoAction)
+
+  @@id([object_id, term_taxonomy_id])
+  @@index([term_taxonomy_id], map: "term_taxonomy_id")
+}
+
+model mod180_term_taxonomy {
+  term_taxonomy_id BigInt                      @id @default(autoincrement()) @db.UnsignedBigInt
+  term_id          BigInt                      @default(0) @db.UnsignedBigInt
+  taxonomy         String                      @default("") @db.VarChar(32)
+  description      String                      @db.LongText
+  parent           BigInt                      @default(0) @db.UnsignedBigInt
+  count            BigInt                      @default(0)
+  parentTaxonomy   mod180_term_taxonomy        @relation("parent", fields: [parent], references: [term_taxonomy_id], onDelete: NoAction, onUpdate: NoAction)
+  children         mod180_term_taxonomy[]      @relation("parent")
+  relationships    mod180_term_relationships[]
+  term             mod180_terms                @relation(fields: [term_id], references: [term_id])
+
+  @@unique([term_id, taxonomy], map: "term_id_taxonomy")
+  @@index([taxonomy], map: "taxonomy")
+}
+
+model mod180_termmeta {
+  meta_id    BigInt       @id @default(autoincrement()) @db.UnsignedBigInt
+  term_id    BigInt       @default(0) @db.UnsignedBigInt
+  meta_key   String?      @db.VarChar(255)
+  meta_value String?      @db.LongText
+  term       mod180_terms @relation(fields: [term_id], references: [term_id])
+
+  @@index([meta_key(length: 191)], map: "meta_key")
+  @@index([term_id], map: "term_id")
+}
+
+model mod180_terms {
+  term_id    BigInt                 @id @default(autoincrement()) @db.UnsignedBigInt
+  name       String                 @default("") @db.VarChar(200)
+  slug       String                 @default("") @db.VarChar(200)
+  term_group BigInt                 @default(0)
+  taxonomies mod180_term_taxonomy[]
+  meta       mod180_termmeta[]
+
+  @@index([name(length: 191)], map: "name")
+  @@index([slug(length: 191)], map: "slug")
+}
+
+model mod180_tm_taskmeta {
+  meta_id    BigInt  @id @default(autoincrement())
+  task_id    BigInt  @default(0)
+  meta_key   String? @db.VarChar(255)
+  meta_value String? @db.LongText
+
+  @@index([meta_key(length: 191)], map: "meta_key")
+  @@index([task_id], map: "task_id")
+}
+
+model mod180_tm_tasks {
+  id               Int      @id @default(autoincrement())
+  user_id          BigInt
+  type             String   @db.VarChar(300)
+  class_identifier String?  @default("0") @db.VarChar(300)
+  attempts         Int?     @default(0)
+  description      String?  @db.VarChar(300)
+  time_created     DateTime @default(now()) @db.Timestamp(0)
+  last_locked_at   BigInt?  @default(0)
+  status           String?  @db.VarChar(300)
+
+  @@index([user_id], map: "user_id")
+}
+
+model mod180_tve_leads_contact_download {
+  id            Int       @id @default(autoincrement())
+  type          String?   @db.VarChar(255)
+  download_link String?   @db.VarChar(255)
+  date          DateTime? @db.DateTime(0)
+  status        String?   @db.VarChar(64)
+}
+
+model mod180_tve_leads_contacts {
+  id            Int       @id @default(autoincrement())
+  log_id        Int?
+  name          String?   @db.VarChar(255)
+  email         String?   @db.VarChar(255)
+  date          DateTime? @db.DateTime(0)
+  custom_fields String?   @db.Text
+}
+
+model mod180_tve_leads_event_log {
+  id            Int       @id @default(autoincrement())
+  date          DateTime? @db.DateTime(0)
+  event_type    Int?      @db.TinyInt
+  main_group_id Int?
+  form_type_id  Int?
+  variation_key Int?
+  user          String?   @db.VarChar(255)
+  ip            String?   @db.VarChar(40)
+  referrer      String?   @db.VarChar(255)
+  utm_source    String?   @db.VarChar(255)
+  utm_medium    String?   @db.VarChar(255)
+  utm_campaign  String?   @db.VarChar(255)
+  archived      Boolean?  @default(false)
+  is_unique     Boolean?  @default(false)
+  screen_type   Int?      @db.TinyInt
+  screen_id     BigInt?
+
+  @@index([date], map: "date")
+  @@index([event_type, main_group_id, form_type_id, variation_key], map: "event_type")
+}
+
+model mod180_tve_leads_form_summary {
+  id                   Int     @id @default(autoincrement())
+  date                 String? @db.VarChar(10)
+  main_group_id        Int?
+  form_type_id         Int?
+  variation_key        Int?
+  impression_count     Int?    @default(0)
+  unique_visitor_count Int?    @default(0)
+  conversion_count     Int?    @default(0)
+
+  @@index([date], map: "date")
+  @@index([variation_key], map: "variation_key")
+}
+
+model mod180_tve_leads_form_variations {
+  key               BigInt    @id @default(autoincrement())
+  date_added        DateTime? @db.DateTime(0)
+  date_modified     DateTime? @db.DateTime(0)
+  post_parent       BigInt?
+  post_status       String?   @default("publish") @db.VarChar(20)
+  post_title        String?   @db.Text
+  content           String?   @db.LongText
+  trigger           String?   @db.VarChar(64)
+  trigger_config    String?   @db.Text
+  tcb_fields        String?   @db.LongText
+  display_frequency Int?      @default(0)
+  display_animation String?   @default("instant") @db.VarChar(64)
+  position          String?   @db.VarChar(32)
+  form_state        String?   @db.VarChar(64)
+  parent_id         Int?      @default(0)
+  state_order       Int?      @default(0)
+  cache_impressions BigInt?
+  cache_conversions BigInt?
+
+  @@index([parent_id], map: "parent_id")
+  @@index([post_parent], map: "post_parent")
+  @@index([post_status], map: "post_status")
+  @@index([state_order], map: "state_order")
+}
+
+model mod180_tve_leads_group_options {
+  id                 Int     @id @default(autoincrement())
+  group              Int
+  description        String? @db.VarChar(255)
+  show_group_options String? @db.LongText
+  hide_group_options String? @db.LongText
+}
+
+model mod180_tve_leads_saved_group_options {
+  id                 Int     @id @default(autoincrement())
+  name               String  @db.VarChar(255)
+  description        String? @db.Text
+  show_group_options String? @db.LongText
+  hide_group_options String? @db.LongText
+}
+
+model mod180_tve_leads_split_test {
+  id                       Int                                 @id @default(autoincrement())
+  test_type                Int?
+  main_group_id            Int?
+  date_added               DateTime?                           @db.DateTime(0)
+  date_started             DateTime?                           @db.DateTime(0)
+  date_completed           DateTime?                           @db.DateTime(0)
+  title                    String?                             @db.VarChar(128)
+  notes                    String?                             @db.TinyText
+  auto_win_enabled         Int?                                @default(0)
+  auto_win_min_conversions Int?
+  auto_win_min_duration    Int?
+  auto_win_chance_original Float?
+  status                   mod180_tve_leads_split_test_status?
+}
+
+model mod180_tve_leads_split_test_items {
+  id                 Int       @id @default(autoincrement())
+  test_id            Int?
+  main_group_id      Int?
+  form_type_id       Int?
+  variation_key      Int?
+  is_control         Int?      @default(0)
+  is_winner          Int?      @default(0)
+  impressions        Int?      @default(0)
+  unique_impressions Int?      @default(0)
+  conversions        Int?      @default(0)
+  active             Int       @default(1) @db.TinyInt
+  stopped_date       DateTime? @db.DateTime(0)
+}
+
+model mod180_userfeedback_surveys {
+  id            BigInt                              @id @default(autoincrement())
+  title         String?                             @db.VarChar(128)
+  status        mod180_userfeedback_surveys_status? @default(draft)
+  questions     String?                             @db.LongText
+  impressions   BigInt                              @default(0)
+  settings      String?                             @db.Text
+  notifications String?                             @db.Text
+  publish_at    DateTime?                           @db.Timestamp(0)
+  created_at    DateTime?                           @default(now()) @db.Timestamp(0)
+}
+
+model mod180_usermeta {
+  umeta_id   BigInt       @id @default(autoincrement()) @db.UnsignedBigInt
+  user_id    BigInt       @default(0) @db.UnsignedBigInt
+  meta_key   String?      @db.VarChar(255)
+  meta_value String?      @db.LongText
+  user       mod180_users @relation(fields: [user_id], references: [ID])
+
+  @@index([meta_key(length: 191)], map: "meta_key")
+  @@index([user_id], map: "user_id")
+}
+
+model mod180_users {
+  ID                  BigInt            @id @default(autoincrement()) @db.UnsignedBigInt
+  user_login          String            @default("") @db.VarChar(60)
+  user_pass           String            @default("") @db.VarChar(255)
+  user_nicename       String            @default("") @db.VarChar(50)
+  user_email          String            @default("") @db.VarChar(100)
+  user_url            String            @default("") @db.VarChar(100)
+  user_registered     DateTime?         @default(now()) @db.DateTime(0)
+  user_activation_key String            @default("") @db.VarChar(255)
+  user_status         Int               @default(0)
+  display_name        String            @default("") @db.VarChar(250)
+  posts               mod180_posts[]
+  metas               mod180_usermeta[]
+
+  @@index([user_email], map: "user_email")
+  @@index([user_login], map: "user_login_key")
+  @@index([user_nicename], map: "user_nicename")
+}
+
+model mod180_wap_nex_forms_temp_report {
+  Id BigInt @id @default(autoincrement()) @db.UnsignedBigInt
+}
+
+model mod180_wcpdf_invoice_number {
+  id                Int       @id @default(autoincrement())
+  order_id          Int?
+  date              DateTime? @default(now()) @db.DateTime(0)
+  calculated_number Int?
+}
+
+model mod180_wpforms_entries {
+  entry_id      BigInt   @id @default(autoincrement())
+  form_id       BigInt
+  post_id       BigInt
+  user_id       BigInt
+  status        String   @db.VarChar(30)
+  type          String   @db.VarChar(30)
+  viewed        Boolean? @default(false)
+  starred       Boolean? @default(false)
+  fields        String   @db.LongText
+  meta          String   @db.LongText
+  date          DateTime @db.DateTime(0)
+  date_modified DateTime @db.DateTime(0)
+  ip_address    String   @db.VarChar(128)
+  user_agent    String   @db.VarChar(256)
+  user_uuid     String   @db.VarChar(36)
+
+  @@index([form_id], map: "form_id")
+}
+
+model mod180_wpforms_entry_fields {
+  id       BigInt   @id @default(autoincrement())
+  entry_id BigInt
+  form_id  BigInt
+  field_id Int
+  value    String   @db.LongText
+  date     DateTime @db.DateTime(0)
+
+  @@index([entry_id], map: "entry_id")
+  @@index([field_id], map: "field_id")
+  @@index([form_id], map: "form_id")
+}
+
+model mod180_wpforms_entry_meta {
+  id       BigInt   @id @default(autoincrement())
+  entry_id BigInt
+  form_id  BigInt
+  user_id  BigInt
+  status   String   @db.VarChar(30)
+  type     String   @db.VarChar(30)
+  data     String   @db.LongText
+  date     DateTime @db.DateTime(0)
+
+  @@index([entry_id], map: "entry_id")
+}
+
+model mod180_yoast_indexable_hierarchy {
+  indexable_id Int    @default(0) @db.UnsignedInt
+  ancestor_id  Int    @default(0) @db.UnsignedInt
+  depth        Int?   @db.UnsignedInt
+  blog_id      BigInt @default(1)
+
+  @@id([indexable_id, ancestor_id])
+  @@index([ancestor_id], map: "ancestor_id")
+  @@index([depth], map: "depth")
+  @@index([indexable_id], map: "indexable_id")
+}
+
+model mod180_yoast_migrations {
+  id      Int     @id @default(autoincrement()) @db.UnsignedInt
+  version String? @unique(map: "mod180_yoast_migrations_version")
+}
+
+model mod180_yoast_primary_term {
+  id         Int       @id @default(autoincrement()) @db.UnsignedInt
+  post_id    BigInt?
+  term_id    BigInt?
+  taxonomy   String    @db.VarChar(32)
+  created_at DateTime? @db.DateTime(0)
+  updated_at DateTime  @default(now()) @db.Timestamp(0)
+  blog_id    BigInt    @default(1)
+
+  @@index([post_id, taxonomy], map: "post_taxonomy")
+  @@index([post_id, term_id], map: "post_term")
+}
+
+model mod180_yoast_prominent_words {
+  id           Int     @id @default(autoincrement()) @db.UnsignedInt
+  stem         String?
+  indexable_id Int?    @db.UnsignedInt
+  weight       Float?  @db.Float
+
+  @@index([indexable_id], map: "indexable_id")
+  @@index([indexable_id, stem], map: "indexable_id_and_stem")
+  @@index([stem], map: "stem")
+}
+
+model mod180_yoast_seo_links {
+  id                  BigInt  @id @default(autoincrement()) @db.UnsignedBigInt
+  url                 String  @db.VarChar(255)
+  post_id             BigInt  @db.UnsignedBigInt
+  target_post_id      BigInt  @db.UnsignedBigInt
+  type                String  @db.VarChar(8)
+  indexable_id        Int?    @db.UnsignedInt
+  target_indexable_id Int?    @db.UnsignedInt
+  height              Int?    @db.UnsignedInt
+  width               Int?    @db.UnsignedInt
+  size                Int?    @db.UnsignedInt
+  language            String? @db.VarChar(32)
+  region              String? @db.VarChar(32)
+
+  @@index([indexable_id, type], map: "indexable_link_direction")
+  @@index([post_id, type], map: "link_direction")
+}
+
+model mod180_yoast_seo_meta {
+  object_id           BigInt @unique(map: "object_id") @db.UnsignedBigInt
+  internal_link_count Int?   @db.UnsignedInt
+  incoming_link_count Int?   @db.UnsignedInt
+}
+
+model Account {
+  id                String  @id @default(cuid())
+  userId            String
+  type              String
+  provider          String
+  providerAccountId String
+  refresh_token     String? @db.Text
+  access_token      String? @db.Text
+  expires_at        Int?
+  token_type        String?
+  scope             String?
+  id_token          String? @db.Text
+  session_state     String?
+  user              User    @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([provider, providerAccountId])
+  @@index([userId], map: "userId")
+}
+
+model Session {
+  id            String   @id @default(cuid())
+  sessionToken  String   @db.Text
+  userId        String
+  expires       DateTime
+  createdAt     DateTime @default(now())
+  userAgent     String
+  userIpAddress String
+  user          User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId], map: "userId")
+}
+
+model User {
+  id                String             @id @default(cuid())
+  name              String?
+  email             String?            @unique
+  emailVerified     DateTime?
+  image             String?
+  admin             Boolean            @default(false)
+  createdAt         DateTime           @default(now())
+  locale            String?
+  password          String?
+  updatedAt         DateTime?
+  signUpType        UserSignUpType     @default(registered)
+  passwordUpdatedAt DateTime?
+  accounts          Account[]
+  sessions          Session[]
+  preference        UserProfile?
+  newsletters       UserNewsletter[]
+  subscriptions     Subscription[]
+  purchases         Purchase[]
+  payments          Payment[]
+  financialWeekUser FinancialWeekUser?
+  preferences       Preference?
+}
+
+model VerificationToken {
+  identifier String
+  token      String   @unique
+  expires    DateTime
+
+  @@unique([identifier, token])
+}
+
+model UserProfile {
+  id              String    @id @default(cuid())
+  userId          String    @unique
+  businessName    String?
+  businessRole    String?
+  businessService String?
+  businessSize    String?
+  homeOffers      Boolean
+  partnerOffers   Boolean
+  noOffers        Boolean
+  createdAt       DateTime
+  updatedAt       DateTime?
+  user            User      @relation(fields: [userId], references: [id])
+}
+
+model Newsletter {
+  id                  String           @id @default(cuid())
+  slug                String           @unique
+  name                String
+  description         String?          @db.Text
+  createdAt           DateTime         @default(now())
+  updatedAt           DateTime?
+  mailchimpAudienceId String?
+  users               UserNewsletter[]
+}
+
+model UserNewsletter {
+  assignedAt        DateTime   @default(now())
+  userId            String
+  newsletterId      String
+  mailchimpMemberId String?
+  usedEmail         String
+  user              User       @relation(fields: [userId], references: [id])
+  newsletter        Newsletter @relation(fields: [newsletterId], references: [id])
+
+  @@id([userId, newsletterId])
+}
+
+model HeadingPost {
+  id        String       @id @default(cuid())
+  order     Int
+  createdAt DateTime     @default(now())
+  updatedAt DateTime?
+  postId    BigInt       @db.UnsignedBigInt
+  post      mod180_posts @relation(fields: [postId], references: [ID])
+}
+
+model Postvisit {
+  id          String       @id @default(cuid())
+  ipAddress   String
+  userAgent   String
+  totalVisits Int
+  dayVisits   Int
+  weekVisits  Int
+  monthVisits Int
+  yearVisits  Int
+  createdAt   DateTime
+  updatedAt   DateTime?
+  postId      BigInt       @db.UnsignedBigInt
+  post        mod180_posts @relation(fields: [postId], references: [ID])
+
+  @@unique([ipAddress, userAgent, postId])
+}
+
+model Plan {
+  id                           String         @id @default(cuid())
+  planType                     PlanType
+  title                        String
+  description                  String?
+  physicalMagazineVersion      Boolean        @default(false)
+  monthlyPrice                 Decimal        @default(0.00) @db.Decimal(12, 2)
+  yearlyPrice                  Decimal        @default(0.00) @db.Decimal(12, 2)
+  amountCurrency               Currency
+  exclusivity                  Boolean        @default(false)
+  createdAt                    DateTime       @default(now())
+  updatedAt                    DateTime?
+  archivedAt                   DateTime?
+  upgradable                   Boolean        @default(false)
+  updatedById                  String?
+  biweeklyDigitalPreview       Boolean        @default(false)
+  digitalBiweeklyVersion       Boolean        @default(false)
+  digitalMagazineVersion       Boolean        @default(false)
+  digitalSpecialIssuesVersion  Boolean        @default(false)
+  magazineDigitalPreview       Boolean        @default(false)
+  physicalBiweeklyVersion      Boolean        @default(false)
+  physicalSpecialIssuesVersion Boolean        @default(false)
+  premiumPosts                 Boolean        @default(false)
+  specialIssuesDigitalPreview  Boolean        @default(false)
+  subscriptions                Subscription[]
+}
+
+model Payment {
+  id                      String                 @id @default(cuid())
+  externalId              String
+  paidAmount              Decimal                @default(0.00) @db.Decimal(12, 2)
+  receivedAmount          Decimal                @default(0.00) @db.Decimal(12, 2)
+  receivedCurrency        Currency
+  paymentProviderId       String?
+  reference               String                 @unique
+  createdAt               DateTime               @default(now())
+  updatedAt               DateTime?
+  errors                  String?                @db.LongText
+  webhookPayloads         String?                @db.LongText
+  paidAmountCurrency      Currency
+  status                  PaymentStatus
+  updatedById             String?
+  provider                PaymentProviderName
+  userId                  String
+  meta                    String?                @db.LongText
+  clientCountryAlpha2Code String?
+  mobileOperator          String?
+  providerPaymentMethod   ProviderPaymentMethod?
+  user                    User                   @relation(fields: [userId], references: [id])
+  paymentProvider         PaymentProvider?       @relation(fields: [paymentProviderId], references: [id])
+  purchases               Purchase[]
+  subscriptions           Subscription[]
+}
+
+model PaymentProvider {
+  id               String      @id @default(cuid())
+  countryAlpha2    String
+  countryAlpha3    String
+  currency         Currency
+  paymentType      PaymentType
+  logoUrl          String?
+  name             String
+  createdAt        DateTime    @default(now())
+  updatedAt        DateTime?
+  disabledAt       DateTime?
+  updatedById      String?
+  commonIdentifier String
+  reference        String      @unique
+  payments         Payment[]
+}
+
+model Subscription {
+  id          String             @id @default(cuid())
+  planId      String
+  paymentId   String?
+  userId      String
+  createdAt   DateTime           @default(now())
+  updatedAt   DateTime?
+  reference   String             @unique
+  updatedById String?
+  expiresAt   DateTime
+  period      SubscriptionPeriod @default(month)
+  plan        Plan               @relation(fields: [planId], references: [id])
+  payment     Payment?           @relation(fields: [paymentId], references: [id])
+  user        User               @relation(fields: [userId], references: [id])
+}
+
+model Purchase {
+  id          String             @id @default(cuid())
+  entityType  PurchaseEntityType
+  postId      BigInt             @db.UnsignedBigInt
+  paymentId   String
+  userId      String
+  createdAt   DateTime           @default(now())
+  updatedAt   DateTime?
+  updatedById String?
+  post        mod180_posts       @relation(fields: [postId], references: [ID])
+  payment     Payment            @relation(fields: [paymentId], references: [id])
+  user        User               @relation(fields: [userId], references: [id])
+}
+
+model StripeWebhook {
+  id         String   @id @default(cuid())
+  externalId String
+  url        String
+  secret     String
+  events     String
+  liveMode   Boolean
+  createdAt  DateTime @default(now())
+}
+
+model IpLookupBackup {
+  id                String   @id @default(cuid())
+  ipAddress         String   @unique
+  countryName       String?
+  currencyCode      String
+  timeZones         String?
+  isProxy           Boolean  @default(false)
+  createdAt         DateTime @default(now())
+  countryAlpha2Code String
+}
+
+model CurrencyExchangeRates {
+  id        String                @id @default(cuid())
+  provider  ExchangeRatesProvider
+  currency  String                @unique
+  data      String                @db.LongText
+  createdAt DateTime              @default(now())
+  updatedAt DateTime?
+}
+
+model Country {
+  id               String    @id @default(cuid())
+  countryName      String
+  isoCode2         String    @db.Char(2)
+  isoCode3         String    @db.Char(3)
+  numericCode      Int
+  capital          String?
+  population       Int?
+  area             Float?
+  currencyCode     String    @db.Char(3)
+  officialLanguage String?   @db.VarChar(100)
+  continent        Continent
+  timeZone         String?
+  callingCode      String?   @db.VarChar(10)
+  internetTLD      String?   @db.VarChar(10)
+  gdp              Float?
+  hdi              Float?
+  createdAt        DateTime  @default(now())
+  updatedAt        DateTime?
+  energies         Energy[]
+  Region           Region[]
+}
+
+model Region {
+  id              String       @id @default(cuid())
+  name            String
+  area            Float?
+  population      Int?
+  createdAt       DateTime     @default(now())
+  updatedAt       DateTime?
+  countryId       String
+  departments     Department[] @relation("regionsPart")
+  chiefDepartment Department?  @relation("regionCapital")
+  country         Country      @relation(fields: [countryId], references: [id])
+}
+
+model Department {
+  id                          String    @id @default(cuid())
+  name                        String
+  area                        Float?
+  population                  Int?
+  regionId                    String
+  regionCapitalId             String?   @unique
+  createdAt                   DateTime  @default(now())
+  updatedAt                   DateTime?
+  averagePriceBuiltBuilding   Decimal?  @default(0.00) @db.Decimal(12, 2)
+  averagePriceUnbuiltBuilding Decimal?  @default(0.00) @db.Decimal(12, 2)
+  region                      Region    @relation("regionsPart", fields: [regionId], references: [id])
+  regionCapital               Region?   @relation("regionCapital", fields: [regionCapitalId], references: [id])
+  communes                    Commune[] @relation("departmentPart")
+  chielfCommune               Commune?  @relation("departmentCapital")
+}
+
+model Commune {
+  id                          String          @id @default(cuid())
+  name                        String
+  area                        Float?
+  population                  Int?
+  type                        CommuneType
+  departmentId                String
+  departmentCapitalId         String?         @unique
+  createdAt                   DateTime        @default(now())
+  updatedAt                   DateTime?
+  averagePriceBuiltBuilding   Decimal?        @default(0.00) @db.Decimal(12, 2)
+  averagePriceUnbuiltBuilding Decimal?        @default(0.00) @db.Decimal(12, 2)
+  department                  Department      @relation("departmentPart", fields: [departmentId], references: [id])
+  departmentCapital           Department?     @relation("departmentCapital", fields: [departmentCapitalId], references: [id])
+  neighborhoods               Neighborhood[]
+  productOnPrice              ProductInCity[]
+}
+
+model Neighborhood {
+  id                          String        @id @default(cuid())
+  name                        String
+  averagePriceBuiltBuilding   Decimal?      @default(0.00) @db.Decimal(12, 2)
+  averagePriceUnbuiltBuilding Decimal?      @default(0.00) @db.Decimal(12, 2)
+  area                        Float?
+  population                  Int?
+  communeId                   String
+  successorId                 String?       @unique
+  createdAt                   DateTime      @default(now())
+  updatedAt                   DateTime?
+  commune                     Commune       @relation(fields: [communeId], references: [id])
+  successor                   Neighborhood? @relation("NeighborhoodHistory", fields: [successorId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  predecessor                 Neighborhood? @relation("NeighborhoodHistory")
+}
+
+model Measurement {
+  id        String          @id @default(cuid())
+  name      String
+  notation  String
+  type      MeasurementType
+  createdAt DateTime        @default(now())
+  updatedAt DateTime?
+  products  Product[]
+  energies  Energy[]
+}
+
+model Product {
+  id                  String                  @id @default(cuid())
+  createdAt           DateTime                @default(now())
+  updatedAt           DateTime?
+  name                String
+  description         String
+  unitOfMeasurementId String
+  additives           FoodAdditives?
+  mainClass           FoodMainClass
+  nutritionalClass    FoodNutritionalClass
+  originAndTreatment  FoodOriginAndTreatment?
+  specialClass        FoodSpecialClass?
+  unitOfMeasurement   Measurement             @relation(fields: [unitOfMeasurementId], references: [id])
+  communeOnPrice      ProductInCity[]
+}
+
+model ProductInCity {
+  cityId                      String
+  productId                   String
+  price                       Decimal        @default(0.00) @db.Decimal(12, 2)
+  currency                    Currency
+  avalaibility                Avalaibility
+  createdAt                   DateTime       @default(now())
+  updatedAt                   DateTime?
+  productCityOnPriceCityId    String?
+  productCityOnPriceProductId String?
+  entryDate                   DateTime
+  city                        Commune        @relation(fields: [cityId], references: [id])
+  product                     Product        @relation(fields: [productId], references: [id])
+  successor                   ProductInCity? @relation("PriceHistory", fields: [productCityOnPriceCityId, productCityOnPriceProductId], references: [cityId, productId], onDelete: NoAction, onUpdate: NoAction)
+  predecessor                 ProductInCity? @relation("PriceHistory")
+
+  @@id([cityId, productId], name: "ProductInCityId")
+  @@unique([productCityOnPriceCityId, productCityOnPriceProductId])
+}
+
+model Energy {
+  id            String      @id @default(cuid())
+  name          String
+  price         Decimal     @default(0.00) @db.Decimal(12, 2)
+  currency      Currency
+  measurementId String
+  createdAt     DateTime    @default(now())
+  updatedAt     DateTime?
+  successorId   String?     @unique
+  countryId     String
+  measurement   Measurement @relation(fields: [measurementId], references: [id])
+  successor     Energy?     @relation("EnergyHistory", fields: [successorId], references: [id], onDelete: NoAction, onUpdate: NoAction)
+  predecessor   Energy?     @relation("EnergyHistory")
+  country       Country     @relation(fields: [countryId], references: [id])
+}
+
+model FinancialWeekUser {
+  id         String    @id @default(cuid())
+  phone      String
+  createdAt  DateTime  @default(now())
+  enterprise String
+  job        String
+  updatedAt  DateTime?
+  userId     String    @unique
+  user       User      @relation(fields: [userId], references: [id])
+}
+
+/// This model or at least one of its fields has comments in the database, and requires an additional setup for migrations: Read more: https://pris.ly/d/database-comments
+model mod180_wpbe_history {
+  id        Int     @id @default(autoincrement())
+  field_key String  @db.VarChar(32)
+  post_id   Int
+  prev_val  String? @db.Text
+  mod_date  Int
+  bulk_key  String? @db.VarChar(16)
+  user_id   Int
+  post_type String  @default("post") @db.VarChar(32)
+
+  @@index([bulk_key], map: "bulk_key")
+  @@index([post_id], map: "post_id")
+  @@index([user_id], map: "user_id")
+}
+
+model mod180_wpbe_history_bulk {
+  id          Int                            @id @default(autoincrement())
+  bulk_key    String                         @db.VarChar(16)
+  state       mod180_wpbe_history_bulk_state @default(terminated)
+  started     Int?
+  finished    Int?
+  posts_count Int?                           @default(0)
+  set_of_keys String?                        @db.Text
+  user_id     Int
+  post_type   String                         @default("post") @db.VarChar(32)
+
+  @@index([bulk_key], map: "bulk_key")
+  @@index([user_id], map: "user_id")
+}
+
+model Preference {
+  id         String  @id @default(uuid())
+  userId     String  @unique
+  categories String
+  fcmToken   String?
+  user       User    @relation(fields: [userId], references: [id])
+}
+
+enum mod180_userfeedback_surveys_status {
+  publish
+  draft
+  trash
+}
+
+enum mod180_tve_leads_split_test_status {
+  created
+  running
+  completed
+  archived
+}
+
+enum UserSignUpType {
+  registered
+  created
+}
+
+enum PlanType {
+  premium
+  ecomember
+}
+
+enum Currency {
+  xaf
+  xof
+  usd
+  eur
+  gbp
+}
+
+enum PaymentStatus {
+  succeeded
+  failed
+  processing
+}
+
+enum PaymentProviderName {
+  stripe
+  flutterwave
+}
+
+enum ProviderPaymentMethod {
+  card
+  mobile_money_franco
+}
+
+enum PaymentType {
+  card
+  mobile
+  digital_wallet
+}
+
+enum SubscriptionPeriod {
+  month
+  year
+}
+
+enum PurchaseEntityType {
+  post
+  magazine
+  biweekly
+  special_issues
+  packagefw
+}
+
+enum ExchangeRatesProvider {
+  exchangeRateApi
+}
+
+enum Continent {
+  Asia
+  Africa
+  NordAmerica
+  SouthAmerica
+  Antarctica
+  Europe
+  Oceania
+}
+
+enum CommuneType {
+  districtMunicipality
+  ruralCommune
+}
+
+enum FoodMainClass {
+  DairyProducts
+  FatsAndOils
+  ConsumerIceCream
+  FruitsAndVegetables
+  Confectionery
+  CerealsAndCerealBasedProducts
+  BakeryProducts
+  MeatAndMeatProducts
+  FishAndFisheryProducts
+  EggsAndEggProducts
+  Sweeteners
+  SaltSpicesSoupsSauces
+  Salads
+  FoodsIntendedForSpecialDiets
+  Beverages
+}
+
+enum FoodAdditives {
+  FoodsColors
+  Preservatives
+  AntioxidantsAndAcidityRegulators
+  TextureAgents
+  EmulsifiersAndStabilizers
+  FlavorEnhancers
+  Miscellaneous
+}
+
+enum FoodOriginAndTreatment {
+  ProductsAnimal
+  ProductsPlant
+  ProcessedProducts
+  Beverages
+  GroceryProducts
+}
+
+enum FoodNutritionalClass {
+  Proteins
+  Carbohydrates
+  Fat
+  VitaminsAndMinerals
+}
+
+enum FoodSpecialClass {
+  Organic
+  GlutenFree
+  VegetarianVegan
+  FunctionalFortified
+}
+
+enum MeasurementType {
+  Energy
+  Product
+}
+
+enum Avalaibility {
+  Avalaible
+  Unavalaible
+}
+
+enum mod180_wpbe_history_bulk_state {
+  completed
+  terminated
+}

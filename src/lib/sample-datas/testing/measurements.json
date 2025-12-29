@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Litre",
+    "notation": "l",
+    "type": "Energy"
+  },
+  {
+    "name": "Kilowatt",
+    "notation": "kW",
+    "type": "Energy"
+  },
+  {
+    "name": "Kilogramme",
+    "notation": "Kg",
+    "type": "Energy"
+  },
+  {
+    "name": "12.5 Kilogrammes",
+    "notation": "12.5Kg",
+    "type": "Energy"
+  },
+  {
+    "name": "6.2 Kilogrammes",
+    "notation": "6.2Kg",
+    "type": "Energy"
+  },
+  {
+    "name": "25 Kilogrammes",
+    "notation": "25Kg",
+    "type": "Energy"
+  },
+  {
+    "name": "Prix Moyen",
+    "notation": "P.M.",
+    "type": "Product"
+  },
+  {
+    "name": "Regime",
+    "notation": "Regime",
+    "type": "Product"
+  },
+  {
+    "name": "Kilogramme",
+    "notation": "Kg",
+    "type": "Product"
+  },
+  {
+    "name": "Prix Unitaire",
+    "notation": "P.U.",
+    "type": "Product"
+  },
+  {
+    "name": "Litre",
+    "notation": "l",
+    "type": "Product"
+  }
+]

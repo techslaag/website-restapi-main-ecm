@@ -1,0 +1,412 @@
+[
+  {
+    "name": "Djérem",
+    "area": 13283,
+    "population": 89382,
+    "averagePriceUnbuiltBuilding": 500,
+    "regionId": "cm09m68fn002g7sl4j53k2ww0"
+  },
+  {
+    "name": "Faro-et-Déo",
+    "area": 10435,
+    "population": 66442,
+    "averagePriceUnbuiltBuilding": 325,
+    "regionId": "cm09m68fn002g7sl4j53k2ww0"
+  },
+  {
+    "name": "Mayo-Banyo",
+    "area": 8520,
+    "population": 134902,
+    "averagePriceUnbuiltBuilding": 400,
+    "regionId": "cm09m68fn002g7sl4j53k2ww0"
+  },
+  {
+    "name": "Mbéré",
+    "area": 14267,
+    "population": 185473,
+    "averagePriceUnbuiltBuilding": 475,
+    "regionId": "cm09m68fn002g7sl4j53k2ww0"
+  },
+  {
+    "name": "Vina",
+    "area": 17196,
+    "population": 247427,
+    "averagePriceUnbuiltBuilding": 1150,
+    "regionId": "cm09m68fn002g7sl4j53k2ww0"
+  },
+  {
+    "name": "Haute-Sanaga",
+    "area": 11854,
+    "population": 115305,
+    "averagePriceUnbuiltBuilding": 700,
+    "regionId": "cm09m64u2002e7sl413eva43r"
+  },
+  {
+    "name": "Lekié",
+    "area": 2989,
+    "population": 354864,
+    "averagePriceUnbuiltBuilding": 844,
+    "regionId": "cm09m64u2002e7sl413eva43r"
+  },
+  {
+    "name": "Mbam-et-Inoubou",
+    "area": 7125,
+    "population": 153020,
+    "averagePriceUnbuiltBuilding": 706,
+    "regionId": "cm09m64u2002e7sl413eva43r"
+  },
+  {
+    "name": "Mbam-et-Kim",
+    "area": 25906,
+    "population": 64540,
+    "averagePriceUnbuiltBuilding": 706,
+    "regionId": "cm09m64u2002e7sl413eva43r"
+  },
+  {
+    "name": "Méfou-et-Afamba",
+    "area": 3338,
+    "population": 89805,
+    "averagePriceUnbuiltBuilding": 47803,
+    "regionId": "cm09m64u2002e7sl413eva43r"
+  },
+  {
+    "name": "Méfou-et-Akono",
+    "averagePriceBuiltBuilding": 8095.0,
+    "averagePriceUnbuiltBuilding": 8095.0,
+    "area": 1329,
+    "population": 57051,
+    "regionId": "cm09m64u2002e7sl413eva43r"
+  },
+  {
+    "name": "Mfoundi",
+    "averagePriceBuiltBuilding": 94423,
+    "averagePriceUnbuiltBuilding": 47803,
+    "area": 297,
+    "population": 1248235,
+    "regionId": "cm09m64u2002e7sl413eva43r"
+  },
+  {
+    "name": "Nyong-et-Kéllé",
+    "area": 6362,
+    "population": 145181,
+    "averagePriceUnbuiltBuilding": 558,
+    "regionId": "cm09m64u2002e7sl413eva43r"
+  },
+  {
+    "name": "Nyong-et-Mfoumou",
+    "area": 6172,
+    "population": 130321,
+    "averagePriceUnbuiltBuilding": 820,
+    "regionId": "cm09m64u2002e7sl413eva43r"
+  },
+  {
+    "name": "Nyong-et-So'o",
+    "area": 3581,
+    "population": 142907,
+    "averagePriceUnbuiltBuilding": 650,
+    "regionId": "cm09m64u2002e7sl413eva43r"
+  },
+  {
+    "name": "Boumba-et-Ngoko",
+    "area": 30389,
+    "population": 116702,
+    "averagePriceUnbuiltBuilding": 700,
+    "regionId": "cm09m4w7n001w7sl4wrh5fyp6"
+  },
+  {
+    "name": "Haut-Nyong",
+    "area": 36384,
+    "population": 216768,
+    "averagePriceUnbuiltBuilding": 407,
+    "regionId": "cm09m4w7n001w7sl4wrh5fyp6"
+  },
+  {
+    "name": "Kadey",
+    "area": 15884,
+    "population": 192927,
+    "averagePriceUnbuiltBuilding": 475,
+    "regionId": "cm09m4w7n001w7sl4wrh5fyp6"
+  },
+  {
+    "name": "Lom-et-Djérem",
+    "area": 26345,
+    "population": 228691,
+    "averagePriceUnbuiltBuilding": 1143,
+    "regionId": "cm09m4w7n001w7sl4wrh5fyp6"
+  },
+  {
+    "name": "Diamaré",
+    "area": 4665,
+    "population": 566921,
+    "averagePriceUnbuiltBuilding": 929,
+    "regionId": "cm09m60yz002c7sl4dzy2anmo"
+  },
+  {
+    "name": "Logone-et-Chari",
+    "area": 12133,
+    "population": 405035,
+    "averagePriceUnbuiltBuilding": 520,
+    "regionId": "cm09m60yz002c7sl4dzy2anmo"
+  },
+  {
+    "name": "Mayo-Danay",
+    "area": 5303,
+    "population": 522782,
+    "averagePriceUnbuiltBuilding": 364,
+    "regionId": "cm09m60yz002c7sl4dzy2anmo"
+  },
+  {
+    "name": "Mayo-Kani",
+    "area": 5033,
+    "population": 338448,
+    "averagePriceUnbuiltBuilding": 271,
+    "regionId": "cm09m60yz002c7sl4dzy2anmo"
+  },
+  {
+    "name": "Mayo-Sava",
+    "area": 2736,
+    "population": 313413,
+    "averagePriceUnbuiltBuilding": 800,
+    "regionId": "cm09m60yz002c7sl4dzy2anmo"
+  },
+  {
+    "name": "Mayo-Tsanaga",
+    "area": 4393,
+    "population": 574864,
+    "averagePriceUnbuiltBuilding": 714,
+    "regionId": "cm09m60yz002c7sl4dzy2anmo"
+  },
+  {
+    "name": "Moungo",
+    "area": 3723,
+    "population": 506857,
+    "averagePriceUnbuiltBuilding": 1000,
+    "regionId": "cm09m5ga800247sl46ypi0s9y"
+  },
+  {
+    "name": "Nkam",
+    "area": 6291,
+    "population": 49090,
+    "averagePriceUnbuiltBuilding": 775,
+    "regionId": "cm09m5ga800247sl46ypi0s9y"
+  },
+  {
+    "name": "Sanaga-Maritime",
+    "area": 9311,
+    "population": 216935,
+    "averagePriceUnbuiltBuilding": 733,
+    "regionId": "cm09m5ga800247sl46ypi0s9y"
+  },
+  {
+    "name": "Wouri",
+    "averagePriceBuiltBuilding": 140101,
+    "averagePriceUnbuiltBuilding": 70266,
+    "area": 923,
+    "population": 2582096,
+    "regionId": "cm09m5ga800247sl46ypi0s9y"
+  },
+  {
+    "name": "Bénoué",
+    "area": 13614,
+    "population": 851955,
+    "averagePriceUnbuiltBuilding": 760,
+    "regionId": "cm09m5pmq002a7sl4khjw4man"
+  },
+  {
+    "name": "Faro",
+    "area": 11785,
+    "population": 69477,
+    "averagePriceUnbuiltBuilding": 800,
+    "regionId": "cm09m5pmq002a7sl4khjw4man"
+  },
+  {
+    "name": "Mayo-Louti",
+    "area": 4162,
+    "population": 391326,
+    "averagePriceUnbuiltBuilding": 933,
+    "regionId": "cm09m5pmq002a7sl4khjw4man"
+  },
+  {
+    "name": "Mayo-Rey",
+    "area": 36529,
+    "population": 375201,
+    "averagePriceUnbuiltBuilding": 500,
+    "regionId": "cm09m5pmq002a7sl4khjw4man"
+  },
+  {
+    "name": "Bamboutos",
+    "area": 1173,
+    "population": 318848,
+    "averagePriceUnbuiltBuilding": 875,
+    "regionId": "cm09m581h00207sl4lv6zzdkm"
+  },
+  {
+    "name": "Haut-Nkam",
+    "area": 958,
+    "population": 203251,
+    "averagePriceUnbuiltBuilding": 1000,
+    "regionId": "cm09m581h00207sl4lv6zzdkm"
+  },
+  {
+    "name": "Hauts-Plateaux",
+    "area": 415,
+    "population": 117008,
+    "averagePriceUnbuiltBuilding": 1250,
+    "regionId": "cm09m581h00207sl4lv6zzdkm"
+  },
+  {
+    "name": "Koung-Khi",
+    "area": 353,
+    "population": 121794,
+    "averagePriceUnbuiltBuilding": 1333,
+    "regionId": "cm09m581h00207sl4lv6zzdkm"
+  },
+  {
+    "name": "Menoua",
+    "area": 1380,
+    "population": 372244,
+    "averagePriceUnbuiltBuilding": 1083,
+    "regionId": "cm09m581h00207sl4lv6zzdkm"
+  },
+  {
+    "name": "Mifi",
+    "area": 402,
+    "population": 290758,
+    "averagePriceUnbuiltBuilding": 5000,
+    "regionId": "cm09m581h00207sl4lv6zzdkm"
+  },
+  {
+    "name": "Ndé",
+    "area": 1524,
+    "population": 123661,
+    "averagePriceUnbuiltBuilding": 1375,
+    "regionId": "cm09m581h00207sl4lv6zzdkm"
+  },
+  {
+    "name": "Noun",
+    "area": 7687,
+    "population": 434542,
+    "averagePriceUnbuiltBuilding": 889,
+    "regionId": "cm09m581h00207sl4lv6zzdkm"
+  },
+  {
+    "name": "Dja-et-Lobo",
+    "area": 19911,
+    "population": 173219,
+    "averagePriceUnbuiltBuilding": 825,
+    "regionId": "cm09m5mei00277sl45q7y0e72"
+  },
+  {
+    "name": "Mvila",
+    "area": 8697,
+    "population": 163826,
+    "averagePriceUnbuiltBuilding": 1143,
+    "regionId": "cm09m5mei00277sl45q7y0e72"
+  },
+  {
+    "name": "Océan",
+    "averagePriceBuiltBuilding": 98352,
+    "averagePriceUnbuiltBuilding": 49176,
+    "area": 11280,
+    "population": 133062,
+    "regionId": "cm09m5mei00277sl45q7y0e72"
+  },
+  {
+    "name": "Vallée-du-Ntem",
+    "area": 7303,
+    "population": 64747,
+    "averagePriceUnbuiltBuilding": 1150,
+    "regionId": "cm09m5mei00277sl45q7y0e72"
+  },
+  {
+    "name": "Boyo",
+    "area": 1592,
+    "population": 169725,
+    "averagePriceUnbuiltBuilding": 275,
+    "regionId": "cm09m5brx00227sl4g6oeap3n"
+  },
+  {
+    "name": "Bui",
+    "area": 2297,
+    "population": 322877,
+    "averagePriceUnbuiltBuilding": 500,
+    "regionId": "cm09m5brx00227sl4g6oeap3n"
+  },
+  {
+    "name": "Donga-Mantung",
+    "area": 4279,
+    "population": 337533,
+    "averagePriceUnbuiltBuilding": 580,
+    "regionId": "cm09m5brx00227sl4g6oeap3n"
+  },
+  {
+    "name": "Menchum",
+    "area": 4469,
+    "population": 157173,
+    "averagePriceUnbuiltBuilding": 350,
+    "regionId": "cm09m5brx00227sl4g6oeap3n"
+  },
+  {
+    "name": "Mezam",
+    "area": 1745,
+    "population": 465644,
+    "averagePriceUnbuiltBuilding": 1800,
+    "regionId": "cm09m5brx00227sl4g6oeap3n"
+  },
+  {
+    "name": "Momo",
+    "area": 1792,
+    "population": 213402,
+    "averagePriceUnbuiltBuilding": 640,
+    "regionId": "cm09m5brx00227sl4g6oeap3n"
+  },
+  {
+    "name": "Ngo-Ketunjia",
+    "area": 1126,
+    "population": 174173,
+    "averagePriceUnbuiltBuilding": 867,
+    "regionId": "cm09m5brx00227sl4g6oeap3n"
+  },
+  {
+    "name": "Fako",
+    "area": 2093,
+    "population": 367812,
+    "averagePriceUnbuiltBuilding": 2166,
+    "regionId": "cm09m52jp001y7sl4ks24j8p1"
+  },
+  {
+    "name": "Koupé-Manengouba",
+    "area": 3404,
+    "population": 123011,
+    "averagePriceUnbuiltBuilding": 300,
+    "regionId": "cm09m52jp001y7sl4ks24j8p1"
+  },
+  {
+    "name": "Lebialem",
+    "area": 617,
+    "population": 144560,
+    "averagePriceUnbuiltBuilding": 867,
+    "regionId": "cm09m52jp001y7sl4ks24j8p1"
+  },
+  {
+    "name": "Manyu",
+    "area": 9565,
+    "population": 177389,
+    "averagePriceUnbuiltBuilding": 680,
+    "regionId": "cm09m52jp001y7sl4ks24j8p1"
+  },
+  {
+    "name": "Meme",
+    "area": 3105,
+    "population": 300138,
+    "averagePriceUnbuiltBuilding": 933,
+    "regionId": "cm09m52jp001y7sl4ks24j8p1"
+  },
+  {
+    "name": "Ndian",
+    "area": 6626,
+    "population": 129659,
+    "averagePriceUnbuiltBuilding": 256,
+    "regionId": "cm09m52jp001y7sl4ks24j8p1"
+  }
+]

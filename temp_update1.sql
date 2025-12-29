@@ -1,0 +1,1 @@
+UPDATE mod180_posts SET post_date_gmt = NOW(), post_date = NOW(), archived = FALSE, archivedAt = NULL WHERE post_type = 'post' AND post_status = 'publish' AND archived = TRUE AND archivedAt IS NOT NULL ORDER BY ID DESC LIMIT 1;
