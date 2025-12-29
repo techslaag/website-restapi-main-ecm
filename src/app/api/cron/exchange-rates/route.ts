@@ -3,7 +3,7 @@ import { Currency } from "@prisma/client";
 import fetchConvertionRates from "../../../../lib/exchangerate-api/fetchConvertionRates";
 
 export const dynamic = "force-dynamic";
-export const maxDuration = 1800; // 30 minutes (1800 seconds)
+export const maxDuration = 300; // 30 minutes (1800 seconds)
 
 export async function GET() {
   try {

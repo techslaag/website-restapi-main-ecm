@@ -6,7 +6,7 @@ import { NextRequest, NextResponse } from "next/server";
 
 // Pour éviter les doublons, on pourrait stocker les rappels envoyés dans une table dédiée (non inclus ici)
 export const dynamic = "force-dynamic";
-export const maxDuration = 1800; // 30 minutes (1800 seconds)
+export const maxDuration = 300; // 30 minutes (1800 seconds)
 
 export async function GET(req: NextRequest) {
   console.log(`[${new Date().toISOString()}] Subscription reminder cron job started`);

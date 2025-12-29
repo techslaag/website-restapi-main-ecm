@@ -3,7 +3,7 @@ import { getPaymentsDueForRetry, processPaymentRetry } from "@/lib/utils/payment
 import prisma from "@/lib/prisma";
 
 export const dynamic = "force-dynamic";
-export const maxDuration = 1800; // 30 minutes (1800 seconds)
+export const maxDuration = 300; // 30 minutes (1800 seconds)
 
 /**
  * Cron job to process payment retries

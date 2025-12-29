@@ -5,7 +5,7 @@ import { NextRequest, NextResponse } from "next/server";
 import moment from "moment";
 
 export const dynamic = "force-dynamic";
-export const maxDuration = 1800; // 30 minutes (1800 seconds)
+export const maxDuration = 300; // 30 minutes (1800 seconds)
 
 /**
  * GET /api/cron/trial-reminders

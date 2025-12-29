@@ -3,7 +3,7 @@ import prisma from "@/lib/prisma";
 import { sendNotification, sendMulticast, validateFcmToken, type NotificationPayload, NOTIFICATION_TYPES } from "@/lib/notifications/fcmService";
 
 export const dynamic = "force-dynamic";
-export const maxDuration = 1800; // 30 minutes (1800 seconds)
+export const maxDuration = 300; // 30 minutes (1800 seconds)
 
 interface UserWithInterestsAndTokens {
   id: string;

@@ -3,7 +3,7 @@ import { FlashInfoService } from "@/lib/services/flashInfoService";
 import { serializeError } from 'serialize-error';
 
 export const dynamic = "force-dynamic";
-export const maxDuration = 1200; // 20 minutes - sufficient for Flash Info generation
+export const maxDuration = 300; // 20 minutes - sufficient for Flash Info generation
 
 interface HealthStatus {
   status: 'healthy' | 'degraded' | 'unhealthy';

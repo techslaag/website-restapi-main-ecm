@@ -3,7 +3,7 @@ import { ArchiveService } from '@/lib/services/archiveService';
 import { serializeError } from 'serialize-error';
 
 export const dynamic = "force-dynamic";
-export const maxDuration = 1500; // 25 minutes (1500 seconds) - safer for external cron services
+export const maxDuration = 300; // 25 minutes (1500 seconds) - safer for external cron services
 
 // GET /api/cron/archive-old-posts - Health check endpoint
 export async function GET() {
